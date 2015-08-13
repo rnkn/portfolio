@@ -1,0 +1,56 @@
+---
+layout: null
+---
+$primary-color: rgb(75,75,75);
+$secondary-color: rgb(40,40,40);
+$main-width: 72ex;
+
+body {
+  margin: auto;
+  padding: 0 2ex;
+  max-width: $main-width;
+  color: $primary-color;
+  font: 200 1em/1.5 -apple-system, "Helvetica", sans-serif;
+}
+
+header, footer {
+  -webkit-font-variant-ligatures: no-common-ligatures;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.2;
+  a {
+    text-decoration: none;
+    &:hover { text-decoration: underline; }
+  }
+}
+
+sup {
+  line-height: 0.5;
+  font-size: 66%;
+}
+
+main {
+  img {
+    width: 100%;
+    &.still {
+      background-color: black;
+    }
+  }
+  iframe {
+    width: 100%;
+  }
+}
+
+.copyright {
+  font-size: 85%;
+  color: rgb(150,150,150);
+}
+
+.footnotes {
+  margin: 0;
+}
+
+.reversefootnote {
+  font-size: 66%;
+}

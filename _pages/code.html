@@ -1,0 +1,13 @@
+---
+title: Code
+layout: default
+---
+{% for item in site.categories.code reversed %}
+<p>
+    <a href="{% if item.external_url %}{{ item.external_url }}{% else %}{{ item.url }}{% endif %}">{{ item.title }}</a>
+    {% if item.description %}
+    &ndash;
+    {{ item.description | markdownify | remove: "<p>" | remove: "</p>" }}
+    {% endif %}
+</p>
+{% endfor %}

@@ -1,0 +1,6 @@
+/_site/
+/_drafts/
+/css/bourbon/
+/css/*.map
+/css/.sass-cache/
+/Gemfile.lock

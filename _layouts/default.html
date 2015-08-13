@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body>
+        <header>
+            <h1><a href="/">{{ site.title }}</a> /{% if page.title %} <a href="{{ page.url }}">{{ page.title }}</a>{% endif %}</h1>
+            <p>
+                {% for item in site.nav %}
+                <a href="{{ item.url }}">{{ item.name }}</a>
+                {% endfor %}
+            </p>
+        </header>
+        <main>
+            {{ content }}
+        </main>
+        <hr>
+        <footer>
+            <p class="copyright">All content (excluding embedded media) &copy; {{ site.title }} 2013&ndash;2016 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></p>
+        </footer>
+    </body>
+</html>

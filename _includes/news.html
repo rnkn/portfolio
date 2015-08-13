@@ -1,0 +1,18 @@
+{% assign now = site.time %}
+<h2>Upcoming</h2>
+
+{% for item in site.posts %}
+{% if item.news and item.date >= now %}
+{% assign thedate = item.date | date: site.date_format | append: ": " %}
+{{ item.news | prepend: thedate | markdownify }}
+{% endif %}
+{% endfor %}
+
+<h2>Past</h2>
+
+{% for item in site.posts %}
+{% if item.news and item.date < now %}
+{% assign thedate = item.date | date: site.date_format | append: ": " %}
+{{ item.news | prepend: thedate | markdownify }}
+{% endif %}
+{% endfor %}

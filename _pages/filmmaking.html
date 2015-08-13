@@ -1,0 +1,11 @@
+---
+title: Filmmaking
+layout: default
+---
+{% for item in site.categories.filmmaking %}
+<p>
+    <a href="{{ item.url }}">
+        <img class="still" alt="Still from {{ item.title }}" src="{{ item.image | prepend: site.assets }}">
+    </a>
+</p>
+{% endfor %}

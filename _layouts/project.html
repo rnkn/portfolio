@@ -1,0 +1,28 @@
+---
+layout: default
+---
+{% if page.vimeo_id %}
+<iframe style="background-color: black;"
+        src="//player.vimeo.com/video/{{ page.vimeo_id }}?title=0&amp;byline=0&amp;portrait=0"
+        width="547"
+        height="308"
+        frameborder="0"
+        webkitallowfullscreen="true"
+        mozallowfullscreen="true"
+        allowfullscreen="true">
+</iframe>
+{% elsif page.image %}
+<img class="still{% if page.image_brighten %} brighten{% endif %}"
+     src="{{ page.image | prepend: site.assets }}">
+{% endif %}
+{% if page.external_url %}
+<p><a href="{{ page.external_url }}" target="_blank">{{ page.external_url }}</a></p>
+{% endif %}
+<p>
+    {{ page.description | markdownify | remove: "<p>" | remove: "</p>" }}
+    &ndash;
+    {{ page.date | date: "%B %Y" }}
+</p>
+<article>
+    {{ content }}
+</article>
