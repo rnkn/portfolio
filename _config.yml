@@ -32,6 +32,8 @@ nav:
     url: /code/
   - name: "contact"
     url: /contact/
+  - name: "etc"
+    url: /etc/
 
 keyboard_shortcuts:
   - key: "g h"
@@ -42,25 +44,14 @@ keyboard_shortcuts:
     url: /writing/
   - key: "g c"
     url: /code/
-  # - key: "g i"
-  #   url: /info/
+  - key: "g e"
+    url: /etc/
   - key: "g n"
     url: /now/
   - key: "g ~"
     url: http://files.paulwrankin.com/
   - key: "?"
     url: /keyboard/
-
-photos:
-  - title: 35mm Colour
-    url: /35mm-colour/
-    date: 2011-11-14
-  - title: 35mm Black & White
-    url: /august-to-august/
-    date: 2013-09-06
-  - title: Ink Work
-    url: /inkwork/
-    date: 2015-02-23
 
 # Formats
 date_format: "%-d %B %Y"

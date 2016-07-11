@@ -4,11 +4,8 @@ layout: default
 ---
 ## Art & Photography
 
-{% assign items = site.photos | sort: "date" | reversed %}
-{% for item in items %}
-[{{ item.title }}](http://photos.paulwrankin.com{{ item.url }})
-{% endfor %}
+<http://photos.paulwrankin.com>
 
 ## Philosophy
 
-[Being as an 'issue' for Dasein in Heidegger's fundamental ontology](http://files.paulwrankin.com/library/PHIL3300 Being as an issue for Dasein.pdf)
+[Being as an 'issue' for Dasein in Heidegger's fundamental ontology](http://files.paulwrankin.com/library/PHIL3300_Being_as_an_issue_for_Dasein.pdf)
