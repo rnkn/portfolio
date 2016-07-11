@@ -3,11 +3,11 @@ title: Forgiving Noir
 layout: project
 categories:
   - filmmaking
-description: >
+description: >-
   Single-channel video loop in support of Lawrence English album *Wilderness of
   Mirrors* (2 min 26 sec)
-image: forgiving-noir-514.jpg
-vimeo_id: 94472371
+image: forgiving-noir.jpg
+external_url: https://vimeo.com/94472371
 ---
 
 > And as seen in the new video for "Forgiving Noir," Lawrence English hasn't

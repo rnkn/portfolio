@@ -6,7 +6,7 @@ categories:
 description: >
   Video in support of I Heart Hiroshima album *The Rip* (3 min 33 sec)
 image: shakeytown.jpg
-vimeo_id: 6425231
+external_url: https://vimeo.com/6425231
 ---
 
 - _Rage_ "Indie Video of the Week"

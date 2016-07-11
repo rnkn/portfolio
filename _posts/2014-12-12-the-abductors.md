@@ -2,8 +2,9 @@
 title: The Abductors
 layout: project
 category: writing
-description: "Feature screenplay"
-vimeo_id: 110632585
+description: >-
+  Feature screenplay (147 p)
+external_url: https://vimeo.com/110632585
 ---
 
 In the depths of the Honduran jungle, a misanthropic foreign-aid doctor,

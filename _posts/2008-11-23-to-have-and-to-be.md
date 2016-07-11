@@ -5,8 +5,8 @@ categories:
   - filmmaking
 date: 2008-11-23
 description: "Narrative short film (14 min)"
-image: to-have-and-to-be-112424.jpg
-vimeo_id: 2934473
+image: to-have-and-to-be.jpg
+external_url: https://vimeo.com/2934473
 ---
 
 A lonesome young man receives a visit from his ex-girlfriend, and through

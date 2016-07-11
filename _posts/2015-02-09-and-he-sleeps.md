@@ -3,14 +3,15 @@ title: And He Sleeps
 layout: project
 categories:
   - filmmaking
-news: >
+summary: >-
   New video for Lawrence English, "[And He Sleeps](/and-he-sleeps/)".
-description: >
+description: >-
   Video in support of Lawrence English album *The Peregrine* (5 min 14 sec)
-image: and-he-sleeps-31215.jpg
-image_brighten: true
-vimeo_id: 118670404
+image: and-he-sleeps.jpg
+external_url: https://vimeo.com/118670404
 ---
+
+Press:
 
 - [thequietus.com](http://thequietus.com/articles/17630-rum-music-russell-cuzner)
 - [factmag.com](http://www.factmag.com/2015/02/19/ambient-composer-lawrence-english-announces-reissue-peregrine-shares-haunting-video-sleeps/)

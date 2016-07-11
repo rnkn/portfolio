@@ -7,8 +7,10 @@ description: >-
 news: >-
   New video for Norman Westberg (Swans), "[Bunny Bill](/bunny-bill/)".
 image: bunny-bill.jpg
-vimeo_id: 141355033
+external_url: https://vimeo.com/141355033
 ---
+
+Press:
 
 - [factmag.com](http://www.factmag.com/2015/11/20/swans-norman-westberg-bunny-bill-video/)
 - [imposemagazine.com](http://www.imposemagazine.com/tv/norman-westberg-bunny-bill)

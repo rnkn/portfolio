@@ -3,12 +3,14 @@ title: Guillotines and Kingmakers
 layout: project
 categories:
   - filmmaking
-description: >
+description: >-
   Single-channel video loop in support of Lawrence English album *Wilderness of
   Mirrors* (2 min 50 sec)
-image: guillotines-and-kingmakers-904.jpg
-vimeo_id: 92000456
+image: guillotines-and-kingmakers.jpg
+external_url: https://vimeo.com/92000456
 ---
+
+Press:
 
 - [vice.com](http://motherboard.vice.com/read/lawrence-englishs-wilderness-of-mirrors-a-cold-truth-in-ambient-darkness)
 - [thequietus.com](http://thequietus.com/articles/15367-lawrence-english-wilderness-of-mirrors-video)

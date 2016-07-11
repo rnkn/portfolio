@@ -7,7 +7,9 @@ description: >-
 news: >-
   New video for Eugene Carchesio, "[Meteor Field](/meteor-field/)".
 image: meteor-field.jpg
-vimeo_id: 158852900
+external_url: https://vimeo.com/158852900
 ---
+
+Press:
 
 - [cyclicdefrost.com](http://www.cyclicdefrost.com/2016/04/watch-eugene-carchesios-new-piece-meteor-field/)

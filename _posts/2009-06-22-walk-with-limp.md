@@ -4,9 +4,9 @@ layout: project
 categories:
   - filmmaking
 description: "Non-narrative short film (3 min)"
-image: walk-with-limp-22603.jpg
+image: walk-with-limp.jpg
 image_brighten: true
-vimeo_id: 5271724
+external_url: https://vimeo.com/5271724
 published: false
 ---
 
