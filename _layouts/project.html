@@ -3,9 +3,7 @@ layout: default
 ---
 <div class="project">
     {% if page.image %}
-    <a href="{{ page.image | prepend: site.assets }}">
-        <img class="still" alt="Still from {{ page.title }}" src="{{ page.image | prepend: site.assets }}">
-    </a>
+    <img class="still" alt="Still from {{ page.title }}" src="{{ page.image | prepend: site.assets }}">
     {% endif %}
     {% if page.description %}
     {% assign thedate = page.date | date: "%B %Y" | prepend: " &ndash; " %}
