@@ -3,14 +3,14 @@ layout: null
 ---
 $primary-color: rgb(75,75,75);
 $secondary-color: rgb(40,40,40);
-$main-width: 72ex;
+$main-width: 600px;
 
 body {
   margin: auto;
   padding: 0 2ex;
   max-width: $main-width;
   color: $primary-color;
-  font: 200 1em/1.5 -apple-system, "Helvetica", sans-serif;
+  /* font: 200 1em/1.5 -apple-system, "Helvetica", sans-serif; */
 }
 
 header, footer {
@@ -42,9 +42,13 @@ main {
   }
 }
 
+.project {
+  margin: 2em 0;
+}
+
 .copyright {
   font-size: 85%;
-  color: rgb(150,150,150);
+  color: rgb(160,160,160);
 }
 
 .footnotes {
