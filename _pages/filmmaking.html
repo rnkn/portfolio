@@ -2,10 +2,20 @@
 title: Filmmaking
 layout: default
 ---
-{% for item in site.categories.filmmaking %}
-<p>
-    <a href="{{ item.url }}">
-        <img class="still" alt="Still from {{ item.title }}" src="{{ item.image | prepend: site.assets }}">
+{% for page in site.categories.filmmaking %}
+<div class="project">
+    {% if page.image %}
+    <a href="{{ page.url }}">
+        <img class="still" alt="Still from {{ page.title }}" src="{{ page.image | prepend: site.assets }}">
     </a>
-</p>
+    {% endif %}
+    <h2>{{ page.title }}</h2>
+    {% if page.description %}
+    {% assign thedate = page.date | date: "%B %Y" %}
+    {{ page.description | append: " &ndash; " | append: thedate | markdownify }}
+    {% endif %}
+    {% if page.external_url %}
+    <a href="{{ page.external_url}}">{{ page.external_url }}</a>
+    {% endif %}
+</div>
 {% endfor %}

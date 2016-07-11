@@ -4,7 +4,7 @@ layout: default
 ---
 {% for item in site.categories.writing %}
 <p>
-    <a href="{% if item.external_url %}{{ item.external_url }}{% else %}{{ item.url }}{% endif %}">{{ item.title }}</a>
+    <a href="{{ item.url }}">{{ item.title }}</a>
     &ndash;
     {{ item.date | date: "%B %Y" }}
 </p>
