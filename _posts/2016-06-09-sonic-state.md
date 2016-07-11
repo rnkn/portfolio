@@ -5,7 +5,7 @@ categories:
   - filmmaking
 description: >-
   Live visual performance with [Heinz Riegler](http://www.heinzriegler.com) at
-  Metro Arts
+  Metro Arts in Brisbane
 image: sonic-state.jpg
 external_url: https://www.youtube.com/watch?v=nUGHbtvttwY
 news: >-
