@@ -18,4 +18,6 @@ cv:
     Riegler](http://www.heinzriegler.com), Metro Arts, Brisbane
 ---
 
+Curated by [Luke Jaaniste](http://www.lukejaaniste.com)
+
 Photo by Bryan Spencer
