@@ -1,4 +1,11 @@
 {% assign now = site.time %}
+{% for item in site.posts %}
+{% if item.news and item.date >= now %}
+{% assign upcoming = true %}
+{% endif %}
+{% endfor %}
+
+{% if upcoming %}
 <h2>Upcoming</h2>
 
 {% for item in site.posts %}
@@ -9,6 +16,9 @@
 {% endfor %}
 
 <h2>Past</h2>
+{% else %}
+<h2>News</h2>
+{% endif %}
 
 {% for item in site.posts %}
 {% if item.news and item.date < now %}
