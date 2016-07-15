@@ -6,7 +6,9 @@
             <h1><a href="/">{{ site.title }}</a> /{% if page.title %} <a href="{{ page.url }}">{{ page.title }}</a>{% endif %}</h1>
             <p>
                 {% for item in site.nav %}
+                {% if item.name and item.url %}
                 <a href="{{ item.url }}">{{ item.name }}</a>
+                {% endif %}
                 {% endfor %}
             </p>
         </header>

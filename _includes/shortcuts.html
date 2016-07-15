@@ -1,5 +1,5 @@
 <script>
- {% for item in site.keyboard_shortcuts %}
- Mousetrap.bind('{{ item.key }}', function() { location.href='{{ item.url }}' });
+ {% for item in site.nav %}
+ Mousetrap.bind("{{ item.key }}", function() { location.href="{{ item.url }}" });
  {% endfor %}
 </script>

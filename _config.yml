@@ -23,30 +23,23 @@ exclude:
 # Data
 email: "&#104;&#101;&#108;&#108;&#111;&#64;&#112;&#97;&#117;&#108;&#119;&#114;&#97;&#110;&#107;&#105;&#110;&#46;&#99;&#111;&#109;"
 nav:
+  - url: /
+    key: "g h"
   - name: "filmmaking"
     url: /filmmaking/
+    key: "g f"
   - name: "writing"
     url: /writing/
+    key: "g w"
   - name: "code"
     url: /code/
+    key: "g c"
   - name: "contact"
     url: /contact/
+    key: "g @"
   - name: "etc"
     url: /etc/
-
-keyboard_shortcuts:
-  - key: "g h"
-    url: /
-  - key: "g f"
-    url: /filmmaking/
-  - key: "g w"
-    url: /writing/
-  - key: "g c"
-    url: /code/
-  - key: "g e"
-    url: /etc/
-  - key: "g n"
-    url: /now/
+    key: "g e"
   - key: "g ~"
     url: http://files.paulwrankin.com/
   - key: "?"
