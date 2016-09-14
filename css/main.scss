@@ -10,11 +10,16 @@ body {
   padding: 0 2ex;
   max-width: $main-width;
   color: $primary-color;
-  /* font: 200 1em/1.5 -apple-system, "Helvetica", sans-serif; */
+  font: 200 1em/1.5 -apple-system, "Helvetica", sans-serif;
 }
 
 header, footer {
   -webkit-font-variant-ligatures: no-common-ligatures;
+}
+
+footer {
+  font-size: 85%;
+  color: rgb(160,160,160);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -44,11 +49,6 @@ main {
 
 .project {
   margin: 2em 0;
-}
-
-.copyright {
-  font-size: 85%;
-  color: rgb(160,160,160);
 }
 
 .footnotes {
