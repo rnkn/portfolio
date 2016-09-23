@@ -1,6 +1,7 @@
 ---
 title: Et cetera
 layout: default
+published: false
 ---
 ## Art & Photography
 

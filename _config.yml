@@ -5,6 +5,7 @@ description: >-
 url: http://www.paulwrankin.com
 base_url: /
 ga_id: UA-61824324-1
+repository: rnkn/paulwrankin.com
 
 # Build settings
 assets: /assets/
@@ -29,18 +30,18 @@ nav:
   - name: "filmmaking"
     url: /filmmaking/
     key: "g f"
-  - name: "writing"
-    url: /writing/
-    key: "g w"
+  # - name: "writing"
+  #   url: /writing/
+  #   key: "g w"
   - name: "code"
     url: /code/
     key: "g c"
-  - name: "contact"
-    url: /contact/
-    key: "g @"
-  - name: "etc"
-    url: /etc/
-    key: "g e"
+  - name: "info"
+    url: /info/
+    key: "g i"
+  # - name: "etc"
+  #   url: /etc/
+  #   key: "g e"
   - key: "g ~"
     url: http://files.paulwrankin.com/
   - key: "?"
