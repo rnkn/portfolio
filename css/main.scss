@@ -10,7 +10,10 @@ body {
   padding: 0 2ex;
   max-width: $main-width;
   color: $primary-color;
-  font: 200 1em/1.5 -apple-system, "Helvetica", sans-serif;
+  line-height: 1.5em;
+  font-family: Merriweather, serif;
+  font-size: 85%;
+  font-weight: 200;
 }
 
 header, footer {
@@ -22,8 +25,10 @@ footer {
   color: rgb(160,160,160);
 }
 
-h1, h2, h3, h4, h5, h6 {
-  line-height: 1.2;
+h1, h2 {
+  line-height: 1.2em;
+  font-family: Oswald, sans-serif;
+  text-transform: uppercase;
   a {
     text-decoration: none;
     &:hover { text-decoration: underline; }
@@ -33,6 +38,10 @@ h1, h2, h3, h4, h5, h6 {
 sup {
   line-height: 0.5;
   font-size: 66%;
+}
+
+code {
+  font-family: Inconsolata;
 }
 
 main {
