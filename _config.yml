@@ -2,20 +2,17 @@
 title: "Paul W. Rankin"
 description: >-
   Paul W. Rankin is a filmmaker based in Brisbane, Australia.
-url: http://www.paulwrankin.com
 base_url: /
-ga_id: UA-61824324-1
 repository: rnkn/paulwrankin.com
 
 # Build settings
 assets: /assets/
 permalink: /:title/
 future: true
-excerpt_separator: "<!-- more -->"
-collections:
-  pages:
-    output: true
-    permalink: /:path/
+gems:
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -23,7 +20,6 @@ exclude:
 
 # Data
 email: "&#104;&#101;&#108;&#108;&#111;&#64;&#112;&#97;&#117;&#108;&#119;&#114;&#97;&#110;&#107;&#105;&#110;&#46;&#99;&#111;&#109;"
-newsletter: http://tinyletter.com/pwr
 nav:
   - url: /
     key: "g h"
@@ -39,13 +35,12 @@ nav:
   - name: "info"
     url: /info/
     key: "g i"
-  # - name: "etc"
-  #   url: /etc/
-  #   key: "g e"
   - key: "g ~"
     url: http://files.paulwrankin.com/
   - key: "?"
     url: /keyboard/
+hero: "_posts/2016-11-09-lumber.md"
 
 # Formats
 date_format: "%-d %B %Y"
+excerpt_separator: "<!-- more -->"

@@ -5,9 +5,10 @@ layout: default
     {% if page.image %}
     <img class="still" alt="Still from {{ page.title }}" src="{{ page.image | prepend: site.assets }}">
     {% endif %}
+    <h2>{{ page.title }}</h2>
     {% if page.description %}
-    {% assign thedate = page.date | date: "%B %Y" | prepend: " &ndash; " %}
-    {{ page.description | append: thedate | markdownify }}
+    {% assign thedate = page.date | date: "%B %Y" %}
+    {{ page.description | append: " &ndash; " | append: thedate | markdownify }}
     {% endif %}
     {% if page.external_url %}
     <a href="{{ page.external_url}}">{{ page.external_url }}</a>
