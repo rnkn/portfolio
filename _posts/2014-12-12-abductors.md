@@ -4,10 +4,15 @@ layout: project
 category: writing
 description: >-
   Feature screenplay (147 p)
+news: >-
+  New feature screenplay [_The Abductors_](/abductors/) -- action/drama about a
+  misanthropic doctor who takes a foreign aid position in Honduras after the
+  loss of his family, but finds he must lead the Miskito natives in a fight for
+  survival against malevolent child-snatching creatures.
 external_url: https://vimeo.com/110632585
 ---
 
-In the depths of the Honduran jungle, a misanthropic foreign-aid doctor,
+In the depths of the Honduran jungle, a misanthropic foreign aid doctor,
 reeling from the loss of his family, must lead a village of Miskito natives in
 a fight for survival against malevolent child-snatching creatures, and, in the
 process, find redemption.
