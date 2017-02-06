@@ -1,14 +1,15 @@
 ---
 title: And He Sleeps
 layout: project
-categories:
-  - filmmaking
-summary: >-
-  New video for Lawrence English, "[And He Sleeps](/and-he-sleeps/)".
 description: >-
   Video in support of Lawrence English album *The Peregrine* (5 min 14 sec)
 image: and-he-sleeps.jpg
 external_url: https://vimeo.com/118670404
+category: filmmaking
+tags:
+  - filmmaking
+news: >-
+  New video for Lawrence English, "[And He Sleeps](/and-he-sleeps/)".
 ---
 
 Press:
