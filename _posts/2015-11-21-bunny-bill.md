@@ -3,7 +3,8 @@ title: Bunny Bill
 layout: project
 category: filmmaking
 description: >-
-  Video in support of Norman Westberg (of Swans) solo album *13* (10 min 30 sec)
+  Video in support of [Norman Westberg](http://normanwestberg.com/) (of Swans)
+  solo album _13_ (10 min 30 sec)
 news: >-
   New video for Norman Westberg (Swans), "[Bunny Bill](/bunny-bill/)".
 image: bunny-bill.jpg
