@@ -1,6 +1,6 @@
 ---
 title: Analogous
-layout: default
+layout: project
 category: writing
 ---
 He was reading a book by a writer she didn't know. He was sitting in the

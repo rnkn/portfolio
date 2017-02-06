@@ -1,6 +1,6 @@
 ---
 title: A City Up North
-layout: default
+layout: project
 category: writing
 ---
 Leo had found a spot where the shade of the elm tree covered his entire body,

@@ -26,9 +26,9 @@ nav:
   - name: "filmmaking"
     url: /filmmaking/
     key: "g f"
-  # - name: "writing"
-  #   url: /writing/
-  #   key: "g w"
+  - name: "writing"
+    url: /writing/
+    key: "g w"
   - name: "code"
     url: /code/
     key: "g c"

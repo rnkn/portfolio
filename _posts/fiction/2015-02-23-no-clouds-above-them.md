@@ -1,6 +1,6 @@
 ---
 title: There Were No Clouds Above Them
-layout: default
+layout: project
 category: writing
 ---
 Oliver had not seen Kaitlyn terrified in weeks.
