@@ -11,20 +11,21 @@ body {
   color: $primary-color;
   line-height: 1.5em;
   font-family: Merriweather, serif;
-  font-size: 85%;
-  font-weight: 200;
+  font-size: 0.85em;
+  font-weight: 300;
 }
 
-header p a {
-  color: inherit;
-  line-height: 2em;
-  padding: 0.5ex;
-  background-color: rgb(235,235,235);
-  text-decoration: none;
-  &:hover {
-    outline-style: solid;
-    outline-width: 1px;
-    text-decoration: none;
+header {
+  p {
+    a {
+      color: inherit;
+      line-height: 2em;
+      padding: 0.5ex;
+      margin-right: 0.5ex;
+      text-decoration: none;
+      outline-style: solid;
+      outline-width: 1px;
+    }
   }
 }
 
@@ -34,15 +35,14 @@ footer {
   -webkit-font-variant-ligatures: no-common-ligatures;
 }
 
-h1, h2 {
-  line-height: initial;
-  font-family: Oswald, sans-serif;
-  text-transform: uppercase;
-  a {
-    color: black;
-    text-decoration: none;
-    &:hover { text-decoration: underline; }
-  }
+h1 {
+  font-size: 1.5em;
+  a { color: inherit; }
+}
+
+h2 {
+  font-size: 1.2em;
+  a { color: inherit; }
 }
 
 a {
