@@ -15,16 +15,27 @@ body {
   font-weight: 200;
 }
 
-header, footer {
-  -webkit-font-variant-ligatures: no-common-ligatures;
+header p a {
+  color: inherit;
+  line-height: 2em;
+  padding: 0.5ex;
+  background-color: rgb(235,235,235);
+  text-decoration: none;
+  &:hover {
+    outline-style: solid;
+    outline-width: 1px;
+    text-decoration: none;
+  }
 }
 
 footer {
   font-size: 85%;
   color: rgb(160,160,160);
+  -webkit-font-variant-ligatures: no-common-ligatures;
 }
 
 h1, h2 {
+  line-height: initial;
   font-family: Oswald, sans-serif;
   text-transform: uppercase;
   a {
@@ -32,6 +43,11 @@ h1, h2 {
     text-decoration: none;
     &:hover { text-decoration: underline; }
   }
+}
+
+a {
+  text-decoration: none;
+  &:hover { text-decoration: underline; }
 }
 
 blockquote {
@@ -60,7 +76,7 @@ main {
 }
 
 .project {
-  margin: 2em 0;
+  margin-bottom: 2em;
 }
 
 .footnotes {
