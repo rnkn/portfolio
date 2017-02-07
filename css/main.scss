@@ -1,38 +1,15 @@
 ---
 layout: null
 ---
-$primary-color: rgb(50,50,50);
-$main-width: 600px;
-
 body {
+  color: rgb(50,50,50);
   margin: auto;
   padding: 0 2ex;
-  max-width: $main-width;
-  color: $primary-color;
+  max-width: 600px;
   line-height: 1.5em;
   font-family: Merriweather, serif;
   font-size: 0.85em;
   font-weight: 300;
-}
-
-header {
-  p {
-    a {
-      color: inherit;
-      line-height: 2em;
-      padding: 0.5ex;
-      margin-right: 0.5ex;
-      text-decoration: none;
-      outline-style: solid;
-      outline-width: 1px;
-    }
-  }
-}
-
-footer {
-  font-size: 85%;
-  color: rgb(160,160,160);
-  -webkit-font-variant-ligatures: no-common-ligatures;
 }
 
 h1 {
@@ -50,29 +27,41 @@ a {
   &:hover { text-decoration: underline; }
 }
 
+header {
+  p {
+    line-height: 2;
+    a {
+      color: inherit;
+      background-color: rgb(245,245,245);
+      padding: 0.5ex;
+      text-decoration: none;
+      &:hover { background-color: rgb(230,230,230); }
+    }
+  }
+}
+
+footer {
+  font-size: 0.85em;
+  color: rgb(160,160,160);
+  -webkit-font-variant-ligatures: no-common-ligatures;
+}
+
 blockquote {
   margin: 1em 2ex;
 }
 
 sup {
   line-height: 0.5;
-  font-size: 66%;
+  font-size: 0.65em;
 }
 
 code {
-  font-family: Inconsolata;
+  font-family: Inconsolata, monospace;
 }
 
 main {
-  img {
-    width: 100%;
-    &.still {
-      background-color: black;
-    }
-  }
-  iframe {
-    width: 100%;
-  }
+  img { width: 100%; }
+  iframe { width: 100%; }
 }
 
 .project {
@@ -81,8 +70,9 @@ main {
 
 .footnotes {
   margin: 0;
+  font-size: 0.65em;
 }
 
 .reversefootnote {
-  font-size: 66%;
+  font-size: 0.65em;
 }
