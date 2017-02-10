@@ -5,7 +5,7 @@ category: filmmaking
 description: >-
   2-channel video (12 min 43 sec)
 image: magnetic-tape.jpg
-external_url: https://www.youtube.com/watch?v=PA31KY_5-dc
+youtube_id: PA31KY_5-dc
 news: >-
   [_Magnetic Tape_](/magnetic-tape/), two-channel video projection, screening at
   The Junk Bar as part of [_It Will Find You_](http://www.stickytickets.com.au/28425).
@@ -15,4 +15,4 @@ cv:
     _It Will Find You_ with Chris Allery, Junk Bar, Brisbane
 ---
 
-- Brisbane Fringe Festival 2015 -- _It Will Find You_
+- Brisbane Fringe Festival 2015 -- _It Will Find You: "Three Days Before the Storm"_

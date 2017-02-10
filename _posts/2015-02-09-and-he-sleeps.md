@@ -4,7 +4,7 @@ layout: project
 description: >-
   Video in support of Lawrence English album *The Peregrine* (5 min 14 sec)
 image: and-he-sleeps.jpg
-external_url: https://vimeo.com/118670404
+vimeo_id: 118670404
 category: filmmaking
 tags:
   - filmmaking

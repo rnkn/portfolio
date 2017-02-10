@@ -7,7 +7,7 @@ description: >-
   Single-channel video loop in support of Lawrence English album *Wilderness of
   Mirrors* (2 min 26 sec)
 image: forgiving-noir.jpg
-external_url: https://vimeo.com/94472371
+vimeo_id: 94472371
 ---
 
 > And as seen in the new video for "Forgiving Noir," Lawrence English hasn't
@@ -16,7 +16,7 @@ external_url: https://vimeo.com/94472371
 > stamina.  She also harnesses a certain mystery that is also pleasantly hidden
 > within Lawrence's track "Forgiving Noir." What is this forgiveness all about?
 > How does the noir light transpire upon this specific situation?
-> 
+>
 > Maybe what's happening is this woman with a branch: she's encircling the
 > video AND the wilderness itself. If Lawrence English's newest album title
 > Wilderness of Mirrors has anything to say about the video, the woman with a

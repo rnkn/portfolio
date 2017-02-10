@@ -2,7 +2,11 @@
 layout: default
 ---
 <div class="project">
-    {% if page.image %}
+    {% if page.vimeo_id %}
+    {% include vimeo.html id=page.vimeo_id %}
+    {% elsif page.youtube_id %}
+    {% include youtube.html id=page.youtube_id%}
+    {% elsif page.image %}
     <img class="still" alt="Still from {{ page.title }}" src="{{ page.image | prepend: site.assets }}">
     {% endif %}
     <h2>{{ page.title }}</h2>

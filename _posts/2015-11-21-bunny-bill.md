@@ -8,7 +8,7 @@ description: >-
 news: >-
   New video for Norman Westberg (Swans), "[Bunny Bill](/bunny-bill/)".
 image: bunny-bill.jpg
-external_url: https://vimeo.com/141355033
+youtube_id: YTSITXtVJ2s
 ---
 
 Press:

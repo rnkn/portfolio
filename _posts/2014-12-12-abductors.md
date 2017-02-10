@@ -8,7 +8,7 @@ news: >-
   New feature screenplay [_The Abductors_](/abductors/) -- action/drama about a
   misanthropic foreign aid doctor combating child-snatching creatures in remote
   Honduras.
-external_url: https://vimeo.com/110632585
+vimeo_id: 110632585
 ---
 
 In the depths of the Honduran jungle, a misanthropic foreign aid doctor,
