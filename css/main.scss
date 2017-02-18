@@ -90,3 +90,13 @@ main {
 .reversefootnote {
   font-size: 0.65em;
 }
+
+.credit {
+  float: right;
+  margin: 0;
+  line-height: 1;
+  font-size: 0.85em;
+  font-style: italic;
+  text-align: right;
+  color: rgb(160,160,160);
+}
