@@ -6,6 +6,7 @@ base_url: /
 repository: rnkn/paulwrankin.com
 
 # Build settings
+timezone: Australia/Brisbane
 assets: /assets/
 permalink: /:title/
 future: true
@@ -23,23 +24,26 @@ email: "&#104;&#101;&#108;&#108;&#111;&#64;&#112;&#97;&#117;&#108;&#119;&#114;&#
 nav:
   - url: /
     key: "g h"
-  - name: "filmmaking"
-    url: /filmmaking/
-    key: "g f"
-  - name: "writing"
-    url: /writing/
+  - name: "directing"
+    url: /directing/
+  - name: "editing"
+    url: /editing/
+  - name: "screenwriting"
+    url: /screenwriting/
+  - name: "live visuals"
+    url: /live/
+  - name: "fiction"
+    url: /fiction/
     key: "g w"
   - name: "code"
     url: /code/
     key: "g c"
-  - name: "info"
-    url: /info/
-    key: "g i"
+  - name: "contact"
+    url: /contact/
   - key: "g ~"
     url: http://files.paulwrankin.com/
   - key: "?"
     url: /keyboard/
-hero: "_posts/2016-11-09-lumber.md"
 
 # Formats
 date_format: "%-d %B %Y"

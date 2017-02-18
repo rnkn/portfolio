@@ -1,7 +1,7 @@
 ---
 title: Magnetic Tape
 layout: project
-category: filmmaking
+categories: directing editing
 description: >-
   2-channel video (12 min 43 sec)
 image: magnetic-tape.jpg
@@ -14,5 +14,7 @@ cv:
   screening: >-
     _It Will Find You_ with Chris Allery, Junk Bar, Brisbane
 ---
+
+Written by Christopher Allery. Music by James Enchelmaier.
 
 - Brisbane Fringe Festival 2015 -- _It Will Find You: "Three Days Before the Storm"_

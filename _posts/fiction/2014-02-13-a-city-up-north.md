@@ -1,7 +1,10 @@
 ---
 title: A City Up North
 layout: project
-category: writing
+categories:
+  - writing
+  - fiction
+  - microfiction
 ---
 Leo had found a spot where the shade of the elm tree covered his entire body,
 and he sat propped against its cool truck, wedged between the tree and the
@@ -10,7 +13,6 @@ half-in-half-out of the elm's shade. They were on break from cutting tobacco
 and had each taken the time to load in a wad of chewing tobacco, then they'd
 remain as motionless as possible for the next quarter-hour. Leo moved the tin
 back into his pocket.
-<!-- more -->
 
 "Reckon it'll rain again 'safternoon?" Bink's forearm was crooked over his eyes
 to avoid the light. Although Leo had a clear view to the horizon, he craned his

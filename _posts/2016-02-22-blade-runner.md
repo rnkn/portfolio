@@ -1,12 +1,13 @@
 ---
 title: Blade Runner Alternate Cut
 layout: project
+categories: editing
 description: >-
   An alternate cut of _Blade Runner_ that fixes small issues I've always had
   with one of my favourite films
+image: blade-runner.jpg
 news: >-
   Edited an alternate version of [_Blade Runner_](/blade-runner/).
-image: blade-runner.jpg
 ---
 
 The cut is the international theatrical cut (i.e. including voice-over) with

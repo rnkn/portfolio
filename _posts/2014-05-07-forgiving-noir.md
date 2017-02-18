@@ -1,8 +1,7 @@
 ---
 title: Forgiving Noir
 layout: project
-categories:
-  - filmmaking
+categories: directing editing
 description: >-
   Single-channel video loop in support of Lawrence English album *Wilderness of
   Mirrors* (2 min 26 sec)

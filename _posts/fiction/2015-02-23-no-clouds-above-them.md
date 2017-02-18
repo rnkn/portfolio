@@ -1,7 +1,10 @@
 ---
 title: There Were No Clouds Above Them
 layout: project
-category: writing
+categories:
+  - writing
+  - fiction
+  - microfiction
 ---
 Oliver had not seen Kaitlyn terrified in weeks.
 
@@ -10,7 +13,6 @@ other. Each time she sank up to her ankle into the cloud.
 
 "You won't sink. Just stand still. Here, look at me." Oliver jumped on the
 spot. His feet sank to the ankles but no further.
-<!-- more -->
 
 Kaitlyn stopped shifting about. She stood still. She looked around. The cloud
 was white, like white cotton candy. Neither of them had tasted it.  Above them

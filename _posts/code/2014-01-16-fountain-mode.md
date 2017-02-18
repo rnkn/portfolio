@@ -1,6 +1,6 @@
 ---
 layout: project
-category: code
+categories: code
 description: >
   Emacs major mode for screenwriting in Fountain plaintext markup format
 external_url: https://github.com/rnkn/fountain-mode
