@@ -26,4 +26,4 @@ fight for survival against malevolent child-snatching creatures.
 >
 > -- The Black List
 
-Available [upon request](mailto:hello@paulwrankin.com).
+Available [upon request](/contact/).

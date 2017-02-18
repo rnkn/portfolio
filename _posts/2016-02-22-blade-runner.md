@@ -26,6 +26,6 @@ I've corrected the colour grade to match the original.
   sees the origami unicorn.
 - Removed epilogue of Deckard and Rachael driving. The film now cuts straight to
   black at the elevator.
-- *No stupid unicorn dream.*
+- No stupid unicorn dream.
 
-Available [upon request](mailto:hello@paulwrankin.com).
+Available [upon request](/contact/).
