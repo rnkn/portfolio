@@ -1,0 +1,7 @@
+---
+title: Live Visuals
+layout: default
+---
+{% for item in site.categories.live %}
+{% include project.html title=item.title url=item.url date=item.date image=item.image description=item.description credit=item.credit %}
+{% endfor %}

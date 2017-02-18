@@ -1,23 +1,4 @@
 ---
 layout: default
 ---
-<div class="project">
-    {% if page.vimeo_id %}
-    {% include vimeo.html id=page.vimeo_id %}
-    {% elsif page.youtube_id %}
-    {% include youtube.html id=page.youtube_id%}
-    {% elsif page.image %}
-    <img class="still" alt="Still from {{ page.title }}" src="{{ page.image | prepend: site.assets }}">
-    {% endif %}
-    <h2>{{ page.title }}</h2>
-    {% if page.description %}
-    {% assign thedate = page.date | date: "%B %Y" %}
-    {{ page.description | append: " &ndash; " | append: thedate | markdownify }}
-    {% endif %}
-    {% if page.external_url %}
-    <a href="{{ page.external_url}}">{{ page.external_url }}</a>
-    {% endif %}
-    <article>
-        {{ content }}
-    </article>
-</div>
+{% include project.html title=page.title date=page.date image=page.image description=page.description content=page.content vimeo_id=page.vimeo_id youtube_id=page.youtube_id %}

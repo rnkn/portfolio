@@ -1,0 +1,7 @@
+---
+title: Directing
+layout: default
+---
+{% for item in site.categories.directing %}
+{% include project.html title=item.title image=item.image date=item.date url=item.url description=item.description %}
+{% endfor %}

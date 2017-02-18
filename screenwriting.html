@@ -1,0 +1,7 @@
+---
+title: Screenwriting
+layout: default
+---
+{% for item in site.categories.screenwriting %}
+{% include project.html title=item.title image=item.image date=item.date url=item.url description=item.description %}
+{% endfor %}
