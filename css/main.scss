@@ -1,6 +1,9 @@
 ---
 layout: null
 ---
+$link-bg: rgb(245,245,245);
+$link-bg-hover: rgb(230,230,230);
+
 body {
   color: rgb(50,50,50);
   margin: auto;
@@ -27,12 +30,19 @@ a {
   &:hover { text-decoration: underline; }
 }
 
+a[href^=http]:after {
+  content: "[+]";
+  font-size: 0.65em;
+  margin-left: 0.5ex;
+  vertical-align: super;
+}
+
 header {
   p {
     line-height: 2;
     a {
       color: inherit;
-      background-color: rgb(245,245,245);
+      background-color: $link-bg;
       padding: 0.5ex;
       text-decoration: none;
       &:hover { background-color: rgb(230,230,230); }
