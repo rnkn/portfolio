@@ -17,5 +17,4 @@ cv:
     [Sonic State](https://www.metroarts.com.au/events/sonic-state/) with [Heinz
     Riegler](http://www.heinzriegler.com), Metro Arts, Brisbane
 ---
-
 Curated by [Luke Jaaniste](http://www.lukejaaniste.com)
