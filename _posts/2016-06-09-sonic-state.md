@@ -17,4 +17,8 @@ cv:
     [Sonic State](https://www.metroarts.com.au/events/sonic-state/) with [Heinz
     Riegler](http://www.heinzriegler.com), Metro Arts, Brisbane
 ---
-Curated by [Luke Jaaniste](http://www.lukejaaniste.com)
+Heinz and I created an improvised 40-minute set on the theme of creation and
+collapse. No computer generated imagery is used for the visuals, all video is
+practical effects, layered and mixed live with an eight-channel MIDI controller.
+
+Curated by [Luke Jaaniste](http://www.lukejaaniste.com).
