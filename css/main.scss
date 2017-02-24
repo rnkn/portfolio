@@ -4,6 +4,8 @@ layout: null
 $link-bg: rgb(245,245,245);
 $link-bg-hover: rgb(230,230,230);
 
+html, body { -webkit-text-size-adjust: none; }
+
 body {
   color: rgb(50,50,50);
   margin: auto;
