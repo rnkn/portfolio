@@ -2,8 +2,8 @@
 title: Shakeytown
 layout: project
 categories: directing editing
-description: >
-  Video in support of I Heart Hiroshima album *The Rip* (3 min 33 sec)
+description: >-
+  Video in support of I Heart Hiroshima album _The Rip_ (3 min 33 sec)
 image: shakeytown.jpg
 vimeo_id: 6425231
 ---
