@@ -1,26 +1,30 @@
-# Site settings
 title: "Paul W. Rankin"
+url: "http://www.paulwrankin.com"
+email: "&#104;&#101;&#108;&#108;&#111;&#64;&#112;&#97;&#117;&#108;&#119;&#114;&#97;&#110;&#107;&#105;&#110;&#46;&#99;&#111;&#109;"
 description: >-
   Paul W. Rankin is a filmmaker based in Brisbane, Australia.
-base_url: /
-repository: rnkn/paulwrankin.com
-
-# Build settings
 timezone: Australia/Brisbane
-assets: /assets/
-permalink: /:title/
+repository: "rnkn/paulwrankin.com"
+github_username: "rnkn"
+date_format: "%-d %B %Y"
+base_url: /
 future: true
+assets: "/assets/"
 gems:
-- jekyll-redirect-from
-whitelist:
 - jekyll-redirect-from
 exclude:
 - Gemfile
 - Gemfile.lock
 - README.md
 
-# Data
-email: "&#104;&#101;&#108;&#108;&#111;&#64;&#112;&#97;&#117;&#108;&#119;&#114;&#97;&#110;&#107;&#105;&#110;&#46;&#99;&#111;&#109;"
+collections:
+  posts:
+    output: true
+    permalink: "/:title/"
+  pages:
+    output: true
+    permalink: "/:path/"
+
 nav:
 - url: /
   key: "g h"
@@ -42,6 +46,7 @@ nav:
   url: http://files.paulwrankin.com/
 - key: "?"
   url: /keyboard/
+
 rates:
 - role: director
   day: 800
@@ -49,7 +54,3 @@ rates:
 - role: editor
   day: 400
   week: 1600
-
-# Formats
-date_format: "%-d %B %Y"
-excerpt_separator: "<!-- more -->"
