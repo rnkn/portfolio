@@ -12,10 +12,13 @@
             {% endif %}
         </title>
         <meta name="description" content="{{ site.description }}">
-        <link rel="stylesheet" href="{{ 'css/main.css' | prepend: site.base_url }}">
-        <link href="https://fonts.googleapis.com/css?family=Inconsolata|Merriweather:300,300i,700,700i" rel="stylesheet">
+        <link rel="stylesheet" href="{{ '/css/main.css' | absolute_url }}">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata|Merriweather:300,300i,700,700i">
         <script src="//cdnjs.cloudflare.com/ajax/libs/mousetrap/1.4.6/mousetrap.min.js"></script>
         {% include shortcuts.html %}
+        {% if jekyll.environment == "production" %}
+        {% include analytics.html %}
+        {% endif %}
     </head>
     <body>
         <header>
