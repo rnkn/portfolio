@@ -25,9 +25,10 @@
         <header>
             <h1><a href="/">{{ site.title }}</a></h1>
             <p>
-                {% for item in site.nav %}
-                {% if item.name and item.url %}
-                <a href="{{ item.url }}">{{ item.name }}</a>
+                {% assign sorted_pages = site.pages | sort: "nav" %}
+                {% for item in sorted_pages %}
+                {% if item.nav %}
+                <a href="{{ item.url }}">{{ item.title | downcase }}</a>
                 {% endif %}
                 {% endfor %}
             </p>

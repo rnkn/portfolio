@@ -1,12 +1,18 @@
 ---
 title: Keyboard Shortcuts
 layout: default
+keyboard: "?"
 ---
 <table>
-  {% for item in site.nav %}
-  <tr>
-    <td><code>{{ item.key }}</code></td>
-    <td>go to <code>{{ item.url }}</code></td>
-  </tr>
-  {% endfor %}
+    <tr>
+        <td><code>g h</code></td>
+        <td>go to <code>/</code></td>
+    </tr>
+    {% assign key_items = site.pages | where_exp: "item", "item.keyboard" %}
+    {% for item in key_items %}
+    <tr>
+        <td><code>{{ item.keyboard }}</code></td>
+        <td>go to <code>{{ item.url }}</code></td>
+    </tr>
+    {% endfor %}
 </table>

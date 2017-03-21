@@ -1,5 +1,8 @@
 <script>
- {% for item in site.nav %}
- Mousetrap.bind("{{ item.key }}", function() { location.href="{{ item.url }}" });
- {% endfor %}
+    Mousetrap.bind("g h", function() { location.href="{{ '/' | absolute_url }}" });
+    {% for item in site.pages %}
+    {% if item.keyboard %}
+    Mousetrap.bind("{{ item.keyboard }}", function() { location.href="{{ item.url }}" });
+    {% endif %}
+    {% endfor %}
 </script>

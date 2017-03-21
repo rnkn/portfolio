@@ -2,7 +2,6 @@
 published: false
 title: Now
 layout: default
-date: 2016-04-04
 ---
 Currently in Brisbane, Australia. These are the things I'm working on:
 
@@ -17,8 +16,3 @@ Currently in Brisbane, Australia. These are the things I'm working on:
 - Embracing a minimalist lifestyle by reducing all of my things (possessions,
   projects, commitments, etc.) to the bare essentials.
 - Learning meditation.
-
-Although these projects keep me very busy, I'm always looking for opportunities
-for new collaborations, so if you're thinking about getting in touch, please do.
-
-**Last updated:** {{ page.date | date: site.date_format }}

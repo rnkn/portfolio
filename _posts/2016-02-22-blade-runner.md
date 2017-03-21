@@ -6,6 +6,7 @@ description: >-
   An alternate cut of _Blade Runner_ that fixes small issues I've always had
   with one of my favourite films
 image: blade-runner.jpg
+vimeo_id: 156218415
 news: >-
   Edited an alternate version of [_Blade Runner_](/blade-runner/).
 ---

@@ -1,6 +1,6 @@
 ---
-title: Notes
 layout: default
+published: false
 ---
 Instead of a blog, I like the idea of an ongoing collection of notes on various
 topics.
