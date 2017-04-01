@@ -5,6 +5,7 @@ categories: directing editing
 description: >-
   Video in support of Lawrence English album *The Peregrine* (5 min 14 sec)
 image: and-he-sleeps.jpg
+youtube_id: YS-Y_Oix7Ds
 vimeo_id: 118670404
 news: >-
   New video for Lawrence English, "[And He Sleeps](/and-he-sleeps/)".

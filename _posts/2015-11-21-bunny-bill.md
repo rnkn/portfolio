@@ -5,7 +5,7 @@ categories: directing editing
 description: >-
   Video in support of Norman Westberg (Swans) solo album _13_ (10 min 30 sec)
 image: bunny-bill.jpg
-youtube_id: YTSITXtVJ2s
+youtube_id: N30PP2m1d-s
 news: >-
   New video for Norman Westberg (Swans), "[Bunny Bill](/bunny-bill/)".
 ---
