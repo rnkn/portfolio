@@ -1,8 +1,8 @@
 <div class="project">
-    {% if include.vimeo_id %}
-    {% include vimeo.html id=include.vimeo_id %}
-    {% elsif include.youtube_id %}
+    {% if include.youtube_id %}
     {% include youtube.html id=include.youtube_id%}
+    {% elsif include.vimeo_id %}
+    {% include vimeo.html id=include.vimeo_id %}
     {% elsif include.image %}
     <a href="{{ include.url }}">
         <img class="still" alt="Still from {{ include.title }}" src="{{ include.image | prepend: site.assets }}">
