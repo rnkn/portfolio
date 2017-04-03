@@ -15,7 +15,7 @@ I usually do everything by myself. This is mostly through necessity because no
 one wants to hire me. My greatest strength is my artistic integrity, which is
 indistinguishable from years of calcified rationalisation that anyone more
 successful than me has sold out. With my sharp critical eye, I'm able to find
-falt with almost everything. I inspire in others an unshakeable suspicion that
+fault with almost everything. I inspire in others an unshakeable suspicion that
 I'm a fraud.
 
 Instead of film school, I studied philosophy. My aim was to understand the role
