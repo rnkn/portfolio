@@ -15,6 +15,8 @@ cv:
     _It Will Find You_ with Chris Allery, Junk Bar, Brisbane
 ---
 
-Written by Christopher Allery. Music by James Enchelmaier.
+Written by Christopher Allery.
+
+Sound design & score by James Enchelmaier.
 
 - Brisbane Fringe Festival 2015 -- _It Will Find You: "Three Days Before the Storm"_
