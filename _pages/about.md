@@ -59,8 +59,8 @@ representational. His visuals are created from practical effects, using no CGI.
 He has collaborated with world-renowned musicians and sound artists including
 Lawrence English, Norman Westberg (Swans), and Heinz Riegler. His work has
 screened in Australia, Austria, Germany, Serbia, and the United States. He
-obtained his Bachelors degree in Philosophy from the University of Queensland in
-2012.
+obtained his Bachelor's degree in Philosophy from the University of Queensland in
+2013.
 
 Contact
 -------
