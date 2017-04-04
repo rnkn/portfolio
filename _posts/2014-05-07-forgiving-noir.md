@@ -6,6 +6,7 @@ description: >-
   Single-channel video loop in support of Lawrence English album *Wilderness of
   Mirrors* (2 min 26 sec)
 image: forgiving-noir.jpg
+youtube_id: 6d3Xwbd0i7o
 vimeo_id: 94472371
 ---
 

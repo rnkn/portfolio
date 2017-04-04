@@ -6,6 +6,7 @@ description: >-
   Single-channel video loop in support of Lawrence English album *Wilderness of
   Mirrors* (2 min 50 sec)
 image: guillotines-and-kingmakers.jpg
+youtube_id: qhP9MTfiLBY
 vimeo_id: 92000456
 ---
 
