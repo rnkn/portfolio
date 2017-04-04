@@ -12,7 +12,7 @@ LOL.
 
 I call myself a filmmaker, rather than a [director][], [editor][], etc. because
 I usually do everything by myself. This is mostly through necessity because no
-one wants to hire me. My greatest strength is my artistic integrity, which is
+one wants to hire me anymore. My greatest strength is my artistic integrity, which is
 indistinguishable from years of calcified rationalisation that anyone more
 successful than me has sold out. With my sharp critical eye, I'm able to find
 fault with almost everything. I inspire in others an unshakeable suspicion that
@@ -20,7 +20,7 @@ I'm a fraud.
 
 Instead of film school, I studied philosophy. My aim was to understand the role
 of art beyond simple self-expression. My bookshelf is brimming with potential
-knowledge---almost to the one-third point of [_Being and Time_][bt]!
+knowledge---almost one-third through [_Being and Time_][bt]!
 
 Proficient at staring at ceilings.
 
