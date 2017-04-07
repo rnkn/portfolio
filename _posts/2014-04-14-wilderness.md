@@ -1,13 +1,14 @@
 ---
-title: Guillotines and Kingmakers
+title: Wilderness of Mirrors
 layout: project
 categories: directing editing
 description: >-
-  Single-channel video loop in support of Lawrence English album *Wilderness of
-  Mirrors* (2 min 50 sec)
+  Single-channel video loop in support of Lawrence English album _Wilderness of
+  Mirrors_ (2 min 50 sec)
 image: guillotines-and-kingmakers.jpg
 youtube_id: qhP9MTfiLBY
 vimeo_id: 92000456
+redirect_from: /guillotines/
 ---
 
 Press:
