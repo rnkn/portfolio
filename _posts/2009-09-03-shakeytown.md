@@ -5,6 +5,7 @@ categories: directing editing
 description: >-
   Video in support of I Heart Hiroshima album _The Rip_ (3 min 33 sec)
 image: shakeytown.jpg
+youtube_id: 03-7I2H3cxE
 vimeo_id: 6425231
 ---
 
