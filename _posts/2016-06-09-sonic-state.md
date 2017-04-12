@@ -7,7 +7,7 @@ description: >-
 image: sonic-state.jpg
 youtube_id: nUGHbtvttwY
 news: >-
-  [Sonic State](/sonic-state/) -- Live visual performance with Heinz Riegler at
+  [Sonic State](/sonic-state/) -- live visual performance with Heinz Riegler at
   [Metro Arts](https://www.metroarts.com.au/events/sonic-state/) in Brisbane.
   Presented by Queensland Week. (Sold out.)
 credit: >-
