@@ -8,6 +8,8 @@ description: >-
 image: forgiving-noir.jpg
 youtube_id: 6d3Xwbd0i7o
 vimeo_id: 94472371
+news: >-
+  New video for Lawrence English, [_Forgiving Noir_](/forgiving-noir/).
 ---
 
 > And as seen in the new video for "Forgiving Noir," Lawrence English hasn't
