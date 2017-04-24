@@ -8,6 +8,8 @@ description: >-
 image: guillotines-and-kingmakers.jpg
 youtube_id: qhP9MTfiLBY
 vimeo_id: 92000456
+news: >-
+  New video for Lawrence English, [_Wilderness of Mirrors_](/wilderness/).
 redirect_from: /guillotines/
 ---
 
