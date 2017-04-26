@@ -19,6 +19,6 @@ cv:
 ---
 An improvised 40-minute set on the theme of creation and collapse. No computer
 generated imagery is used for the visuals, all video is practical effects,
-layered and mixed live with an eight-channel MIDI controller.
+layered and mixed live.
 
 Curated by [Luke Jaaniste](http://www.lukejaaniste.com).
