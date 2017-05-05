@@ -5,28 +5,30 @@
 {% endif %}
 {% endfor %}
 
-{% if upcoming %}
-
 <h2>Upcoming</h2>
 
 {% for item in site.posts %}
 {% if item.news and item.date >= now %}
-{% assign thedate = item.date | date: site.date_format | append: ": " %}
-{{ item.news | prepend: thedate | markdownify }}
+<p>{{ item.date | date: site.date_format | append: ": " }}
+    <a {% if item.external_url %}
+       href="{{ item.external_url }}" target="_blank"
+       {% else %}
+       href="{{ item.url }}"
+       {% endif %}>{{ item.news | markdownify | remove: "<p>" | remove: "</p>" }}</a>
+</p>
 {% endif %}
 {% endfor %}
 
 <h2>Past</h2>
 
-{% else %}
-
-<h2>News</h2>
-
-{% endif %}
-
 {% for item in site.posts %}
 {% if item.news and item.date < now %}
-{% assign thedate = item.date | date: site.date_format | append: ": " %}
-{{ item.news | prepend: thedate | markdownify }}
+<p>{{ item.date | date: site.date_format | append: ": " }}
+    <a {% if item.external_url %}
+       href="{{ item.external_url }}" target="_blank"
+       {% else %}
+       href="{{ item.url }}"
+       {% endif %}>{{ item.news | markdownify | remove: "<p>" | remove: "</p>" }}</a>
+</p>
 {% endif %}
 {% endfor %}

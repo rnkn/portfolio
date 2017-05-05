@@ -19,28 +19,24 @@ body {
 
 h1 {
   font-size: 1.5em;
-  a { color: inherit; }
 }
 
 h2 {
   font-size: 1.2em;
-  a { color: inherit; }
 }
 
 a {
+  color: inherit;
   text-decoration: none;
-  &:hover { text-decoration: underline; }
 }
 
 header {
   p {
     line-height: 2;
     a {
-      color: inherit;
       background-color: $link-bg;
       padding: 0.5ex;
-      text-decoration: none;
-      &:hover { background-color: rgb(230,230,230); }
+      &:hover { background-color: $link-bg-hover; }
     }
   }
 }
@@ -71,6 +67,12 @@ code {
 main {
   img { width: 100%; }
   iframe { width: 100%; }
+  p, li {
+    a {
+      border-bottom: 1px solid;
+      &:hover { background-color: $link-bg; }
+    }
+  }
 }
 
 table {

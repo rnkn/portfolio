@@ -68,6 +68,3 @@ Contact
 +61 422 733 233
 
 [{{ site.email }}](mailto:{{ site.email }})
-
-If you want to send encrypted email to me, feel free to use my
-[PGP public key](https://keybase.io/rnkn/key.asc).

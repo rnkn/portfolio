@@ -2,15 +2,15 @@
 title: Forgiving Noir
 layout: project
 categories: directing editing
-description: >-
-  Single-channel video loop in support of Lawrence English album *Wilderness of
-  Mirrors* (2 min 26 sec)
 image: forgiving-noir.jpg
 youtube_id: 6d3Xwbd0i7o
 vimeo_id: 94472371
 news: >-
-  New video for Lawrence English, [_Forgiving Noir_](/forgiving-noir/).
+  New video for Lawrence English, "Forgiving Noir".
 ---
+
+Single-channel video loop in support of Lawrence English album _Wilderness of
+Mirrors_ (2 min 26 sec).
 
 > And as seen in the new video for "Forgiving Noir," Lawrence English hasn't
 > lost his pension for pensive patience. As the focal character, this woman
@@ -31,4 +31,6 @@ news: >-
 > as the VIEWERS (and listeners of the track) are the ones searching for
 > meaning.
 >
-> -- C Monster, [tinymixtapes.com](http://www.tinymixtapes.com/chocolate-grinder/premiere-lawrence-english-forgiving-noir)
+> -- C Monster, [tinymixtapes.com][tmt]
+
+[tmt]: http://www.tinymixtapes.com/chocolate-grinder/premiere-lawrence-english-forgiving-noir

@@ -12,13 +12,13 @@
     {% endif %}
     {% endif %}
     <h2><a href="{{ include.url }}">{{ include.title }}</a></h2>
-    {% if include.description %}
-    {% assign thedate = include.date | date: "%B %Y" %}
-    {{ include.description | append: " &ndash; " | append: thedate | markdownify }}
+    {% if include.excerpt %}
+    {{ include.excerpt }}
     {% endif %}
     {% if include.content %}
     <article>
         {{ include.content }}
     </article>
     {% endif %}
+    {{ include.date | date: "%B %Y" | markdownify }}
 </div>

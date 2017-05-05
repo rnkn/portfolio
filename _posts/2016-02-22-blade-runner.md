@@ -2,14 +2,14 @@
 title: Blade Runner Alternate Cut
 layout: project
 categories: editing
-description: >-
-  An alternate cut of _Blade Runner_ that fixes small issues I've always had
-  with one of my favourite films
 image: blade-runner.jpg
 vimeo_id: 156218415
 news: >-
-  Edited an alternate version of [_Blade Runner_](/blade-runner/).
+  Edited an alternate version of _Blade Runner_.
 ---
+
+An alternate cut of _Blade Runner_ that fixes small issues I've always had with
+one of my favourite films.
 
 The cut is the international theatrical cut (i.e. including voice-over) with
 some minor changes. Where I included footage from _Blade Runner: The Final Cut_

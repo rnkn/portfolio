@@ -2,15 +2,13 @@
 title: The Abductors
 layout: project
 categories: screenwriting
-description: >-
-  Feature screenplay
 news: >-
-  New feature screenplay [_The Abductors_](/abductors/) -- action/drama about a
-  misanthropic foreign aid doctor combating child-snatching creatures in remote
-  Honduras.
+  New feature screenplay _The Abductors_.
 image: abductors.jpg
 vimeo_id: 110632585
 ---
+
+Feature screenplay.
 
 In the depths of the jungles of Honduras, a misanthropic foreign aid doctor,
 reeling from the loss of his family, must lead a village of Miskito natives in a

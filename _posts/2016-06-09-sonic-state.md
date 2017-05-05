@@ -2,14 +2,11 @@
 title: Sonic State 2016
 layout: project
 categories: live
-description: >-
-  Live visual performance with Heinz Riegler at Metro Arts in Brisbane
 image: sonic-state.jpg
 youtube_id: nUGHbtvttwY
 news: >-
-  [Sonic State](/sonic-state/) -- live visual performance with Heinz Riegler at
-  [Metro Arts](https://www.metroarts.com.au/events/sonic-state/) in Brisbane.
-  Presented by Queensland Week. (Sold out.)
+  Sonic State -- live visual performance with Heinz Riegler at Metro Arts in
+  Brisbane. (Sold out.)
 credit: >-
   Photo by Bryan Spencer
 cv:
@@ -17,8 +14,16 @@ cv:
     [Sonic State](https://www.metroarts.com.au/events/sonic-state/) with [Heinz
     Riegler](http://www.heinzriegler.com), Metro Arts, Brisbane
 ---
+
+Live visual performance with [Heinz Riegler][hr] at [Metro Arts][metro] in
+Brisbane.
+
 An improvised 40-minute set on the theme of creation and collapse. No computer
 generated imagery is used for the visuals, all video is practical effects,
 layered and mixed live.
 
-Curated by [Luke Jaaniste](http://www.lukejaaniste.com).
+Curated by [Luke Jaaniste][lj]. Presented by Queensland Week.
+
+[hr]: http://heinzriegler.com
+[metro]: https://www.metroarts.com.au/events/sonic-state/
+[lj]: http://www.lukejaaniste.com

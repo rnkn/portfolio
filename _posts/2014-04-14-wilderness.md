@@ -2,18 +2,16 @@
 title: Wilderness of Mirrors
 layout: project
 categories: directing editing
-description: >-
-  Single-channel video loop in support of Lawrence English album _Wilderness of
-  Mirrors_ (2 min 50 sec)
 image: guillotines-and-kingmakers.jpg
 youtube_id: qhP9MTfiLBY
 vimeo_id: 92000456
 news: >-
-  New video for Lawrence English, [_Wilderness of Mirrors_](/wilderness/).
+  New video for Lawrence English, "Wilderness of Mirrors".
 redirect_from: /guillotines/
 ---
 
-Press:
+Single-channel video loop in support of Lawrence English album _Wilderness of
+Mirrors_ (2 min 50 sec).
 
 - [vice.com](http://motherboard.vice.com/read/lawrence-englishs-wilderness-of-mirrors-a-cold-truth-in-ambient-darkness)
 - [thequietus.com](http://thequietus.com/articles/15367-lawrence-english-wilderness-of-mirrors-video)
@@ -24,3 +22,4 @@ Press:
 - [messandnoise.com](http://www.messandnoise.com/news/4658557)
 - [swqw.fr](http://www.swqw.fr/chroniques/drone-ambiant/lawrence-english-wilderness-of-mirrors.html)
 - [news.com.au](http://www.news.com.au/entertainment/music/album-reviews-velociraptor-chrissie-hynde-fozzy-gabriel-faure-livingstone-daisies-king-creosote-lawrence-english/story-e6frfn09-1227026011032)
+- [Dark Mofo 2017]({% link _posts/2017-04-08-dark-mofo.md %})
