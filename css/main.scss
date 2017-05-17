@@ -3,6 +3,7 @@ layout: null
 ---
 $link-bg: rgb(245,245,245);
 $link-bg-hover: rgb(230,230,230);
+$link-underline: rgb(210,210,210);
 
 html, body { -webkit-text-size-adjust: none; }
 
@@ -69,8 +70,8 @@ main {
   iframe { width: 100%; }
   p, li {
     a {
-      border-bottom: 1px solid;
-      &:hover { background-color: $link-bg; }
+      border-bottom: 1px solid $link-underline;
+      &:hover { border-bottom-color: inherit; }
     }
   }
 }
