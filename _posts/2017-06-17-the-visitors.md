@@ -1,8 +1,7 @@
 ---
 news: >-
-  Video for Lawrence English _Borderlands_ performance at Dark Mofo at Odeon
-  Theatre, Hobart. (Sold out.)
-external_url: https://darkmofo.net.au/schedule/borderlands/
+  Video projection for Lawrence English _Borderlands_ performance at Dark Mofo
+  at Odeon Theatre, Hobart. (Sold out.)
 ---
 
 Video projection for Lawrence English _Borderlands_ performance
