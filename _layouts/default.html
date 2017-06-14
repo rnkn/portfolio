@@ -5,15 +5,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         {% capture thetitle %}
-        {% if page.title %}
-        {{ site.title }} &ndash; {{ page.title }}
-        {% else %}
-        {{ site.title }}
-        {% endif %}
+        {% if page.title %}{{ site.title }} &ndash; {{ page.title }}{% else %}{{ site.title }}{% endif %}
         {% endcapture %}
-        {% if jekyll.environment == "development" %}
-        {% assign thetitle = thetitle | prepend: "[DEV] " %}
-        {% endif %}
+        {% if jekyll.environment == "development" %}{% assign thetitle = thetitle | prepend: "[DEV] " %}{% endif %}
         <title>{{ thetitle }}</title>
         <meta name="description" content="{{ site.description }}">
         <meta name="google-site-verification" content="xuNGVl78dClSze5rqwIRx2OIhu4Sj0H3Y1uhQXOgkR4" />
@@ -28,9 +22,7 @@
             <p>
                 {% assign sorted_pages = site.pages | sort: "nav" %}
                 {% for item in sorted_pages %}
-                {% if item.nav %}
-                <a href="{{ item.url }}">{{ item.title | downcase }}</a>
-                {% endif %}
+                {% if item.nav %}<a href="{{ item.url }}">{{ item.title | downcase }}</a>{% endif %}
                 {% endfor %}
             </p>
         </header>
