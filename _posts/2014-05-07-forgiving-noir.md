@@ -9,8 +9,9 @@ news: >-
   New video for Lawrence English, "Forgiving Noir".
 ---
 
-Single-channel video loop in support of Lawrence English album _Wilderness of
-Mirrors_ (2 min 26 sec).
+Single-channel video loop in support of
+[Lawrence English][lpe]{:target="_blank"} album _Wilderness of Mirrors_
+(2 min 26 sec).
 
 > And as seen in the new video for "Forgiving Noir," Lawrence English hasn't
 > lost his pension for pensive patience. As the focal character, this woman
@@ -31,6 +32,7 @@ Mirrors_ (2 min 26 sec).
 > as the VIEWERS (and listeners of the track) are the ones searching for
 > meaning.
 >
-> -- C Monster, [tinymixtapes.com][tmt]
+> -- C Monster, [tinymixtapes.com][tmt]{:target="_blank"}
 
 [tmt]: http://www.tinymixtapes.com/chocolate-grinder/premiere-lawrence-english-forgiving-noir
+[lpe]: http://www.lawrenceenglish.com

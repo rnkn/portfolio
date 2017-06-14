@@ -15,14 +15,14 @@ cv:
     Riegler](http://www.heinzriegler.com), Metro Arts, Brisbane
 ---
 
-Live visual performance with [Heinz Riegler][hr] at [Metro Arts][metro] in
-Brisbane.
+Live visual performance with [Heinz Riegler][hr]{:target="_blank"}
+at [Metro Arts][metro]{:target="_blank"} in Brisbane.
 
 An improvised 40-minute set on the theme of creation and collapse. No computer
 generated imagery is used for the visuals, all video is practical effects,
 layered and mixed live.
 
-Curated by [Luke Jaaniste][lj]. Presented by Queensland Week.
+Curated by [Luke Jaaniste][lj]{:target="_blank"}. Presented by Queensland Week.
 
 [hr]: http://heinzriegler.com
 [metro]: https://www.metroarts.com.au/events/sonic-state/

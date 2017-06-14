@@ -5,11 +5,11 @@ news: >-
   at Odeon Theatre, Hobart. (Sold out.)
 ---
 
-Video projection for Lawrence English _Borderlands_ performance
-at [Dark Mofo][].
+Video projection for Lawrence English _Borderlands_ performance at
+[Dark Mofo][]{:target="_blank"}.
 
-Rework of segment of _Night of the Living Dead_ (1968). Concept by [Lawrence
-English][].
+Rework of segment of _Night of the Living Dead_ (1968). Concept by
+[Lawrence English][lpe]{:target="_blank"}.
 
 [dark mofo]: https://darkmofo.net.au/schedule/borderlands/
-[lawrence english]: http://www.lawrenceenglish.com/
+[lpe]: http://www.lawrenceenglish.com/

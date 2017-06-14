@@ -20,7 +20,7 @@ I'm a fraud.
 
 Instead of film school, I studied philosophy. My aim was to understand the role
 of art beyond simple self-expression. My bookshelf is brimming with potential
-knowledge---almost one-third through [_Being and Time_][bt]!
+knowledge---almost one-third through [_Being and Time_][bt]{:target="_blank"}!
 
 Proficient at staring at ceilings.
 
@@ -30,15 +30,16 @@ More recently, my unhealthy relationship towards other people's attention has
 spurred a foray into [live performance][].
 
 I'm very skilled at creating unpaid, time-sucking jobs for myself as a method of
-avoidance, like developing an open-source [screenwriting program][fountain] for
-[GNU Emacs][emacs] (a platform [hardly anyone uses][so]), or launching a
-[blog about cinema and filmmaking][filmpo] with a couple of friends just
-because, or making meaningless [cosmetic changes][archive] to this site.
+avoidance, like developing an open-source [screenwriting program][fountain]{:target="_blank"}
+for [GNU Emacs][emacs]{:target="_blank"} (a platform [hardly anyone uses][so]{:target="_blank"}),
+or launching a [blog about cinema and filmmaking][filmpo]{:target="_blank"} with a couple of
+friends just because, or making meaningless [cosmetic changes][archive]{:target="_blank"}
+to this site.
 
-Also, I copied the idea for this bio [from a friend][brodie].
+Also, I copied the idea for this bio [from a friend][brodie]{:target="_blank"}.
 
-[director]: {% link _pages/directing.html %}
-[editor]: {% link _pages/editing.html %}
+[director]: {% link _pages/filmmaking.html %}
+[editor]: {% link _pages/filmmaking.html %}
 [screenplays]: {% link _pages/screenwriting.html %}
 [live performance]: {% link _pages/live.html %}
 [bt]: https://en.wikipedia.org/wiki/Being_and_Time
