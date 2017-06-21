@@ -3,7 +3,6 @@ layout: project
 nav: 0
 keyboard: g a
 image: me.jpg
-redirect_from: /contact/
 ---
 
 Hello. My name's Paul W. Rankin and I'm a filmmaker based in Brisbane,
@@ -63,9 +62,4 @@ screened in Australia, Austria, Germany, Serbia, and the United States. He
 obtained his Bachelor's degree in Philosophy from the University of Queensland in
 2013.
 
-Contact
--------
-
-+61 422 733 233
-
-[{{ site.email }}](mailto:{{ site.email }})
+{% include contact.html %}
