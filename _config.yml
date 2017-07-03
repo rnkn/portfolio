@@ -28,16 +28,14 @@ collections:
 nav:
 - url: /
   key: "g h"
-- name: "directing"
-  url: /directing/
-- name: "editing"
-  url: /editing/
+- name: "filmmaking"
+  url: /filmmaking/
 - name: "screenwriting"
   url: /screenwriting/
 - name: "live&nbsp;visuals"
   url: /live/
-- name: "fiction"
-  url: /fiction/
+- name: "writing"
+  url: /writing/
 - name: "code"
   url: /code/
 - name: "contact"

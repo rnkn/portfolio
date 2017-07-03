@@ -37,8 +37,8 @@ to this site.
 
 Also, I copied the idea for this bio [from a friend][brodie]{:target="_blank"}.
 
-[director]: {% link _pages/directing.html %}
-[editor]: {% link _pages/editing.html %}
+[director]: {% link _pages/filmmaking.html %}
+[editor]: {% link _pages/filmmaking.html %}
 [screenplays]: {% link _pages/screenwriting.html %}
 [live performance]: {% link _pages/live.html %}
 [bt]: https://en.wikipedia.org/wiki/Being_and_Time
