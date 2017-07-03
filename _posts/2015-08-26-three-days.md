@@ -1,7 +1,7 @@
 ---
 title: Three Days Before the Storm
 layout: project
-categories: directing editing
+categories: directing editing filmmaking
 image: magnetic-tape.jpg
 youtube_id: PA31KY_5-dc
 news: >-

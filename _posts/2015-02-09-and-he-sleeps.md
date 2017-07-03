@@ -1,7 +1,7 @@
 ---
 title: And He Sleeps
 layout: project
-categories: directing editing
+categories: directing editing filmmaking
 image: and-he-sleeps.jpg
 youtube_id: YS-Y_Oix7Ds
 vimeo_id: 118670404

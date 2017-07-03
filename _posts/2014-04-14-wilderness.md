@@ -1,7 +1,7 @@
 ---
 title: Wilderness of Mirrors
 layout: project
-categories: directing editing
+categories: directing editing filmmaking
 image: guillotines-and-kingmakers.jpg
 youtube_id: qhP9MTfiLBY
 vimeo_id: 92000456
