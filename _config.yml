@@ -7,15 +7,14 @@ timezone: Australia/Brisbane
 repository: "rnkn/paulwrankin.com"
 github_username: "rnkn"
 date_format: "%-d %B %Y"
-base_url: /
 future: true
 assets: "/assets/"
 gems:
-- jekyll-redirect-from
+  - jekyll-redirect-from
 exclude:
-- Gemfile
-- Gemfile.lock
-- README.md
+  - Gemfile
+  - Gemfile.lock
+  - README.md
 
 collections:
   posts:
