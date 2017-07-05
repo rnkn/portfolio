@@ -4,5 +4,7 @@ nav: 1
 keyboard: g f
 ---
 {% for item in site.categories.filmmaking %}
+{% unless item.cv_only %}
 {% include project.html title=item.title image=item.image date=item.date url=item.url excerpt=item.excerpt %}
+{% endunless %}
 {% endfor %}

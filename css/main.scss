@@ -52,6 +52,14 @@ blockquote {
   margin: 1em 2ex;
 }
 
+dt {
+  margin-top: 0.5em;
+}
+
+dd {
+  margin: 0.5em 2ex;
+}
+
 sup {
   line-height: 0.5;
   font-size: 0.65em;
@@ -68,7 +76,7 @@ code {
 main {
   img { width: 100%; }
   iframe { width: 100%; }
-  p, li {
+  p, li, dt, dd {
     a {
       border-bottom: 1px solid $link-underline;
       &:hover { border-bottom-color: inherit; }
