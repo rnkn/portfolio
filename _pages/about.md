@@ -62,4 +62,6 @@ screened in Australia, Austria, Germany, Serbia, and the United States. He
 obtained his Bachelor's degree in Philosophy from the University of Queensland in
 2013.
 
+[CV (PDF)](http://files.paulwrankin.com/Paul_Rankin_CV.pdf){:target="_blank"}
+
 {% include contact.html %}
