@@ -9,7 +9,7 @@ Hello. My name's Paul W. Rankin and I'm a filmmaker based in Brisbane,
 Australia. I started using the "W." around the time George W. Bush invaded Iraq.
 LOL.
 
-I call myself a filmmaker, rather than a [director][], [editor][], etc. because
+I call myself a [filmmaker][] (rather than director, producer, etc.) because
 I usually do everything by myself. This is mostly through necessity because no
 one wants to hire me anymore. My greatest strength is my artistic integrity, which is
 indistinguishable from years of calcified rationalisation that anyone more
@@ -37,8 +37,7 @@ to this site.
 
 Also, I copied the idea for this bio [from a friend][brodie]{:target="_blank"}.
 
-[director]: {% link _pages/filmmaking.html %}
-[editor]: {% link _pages/filmmaking.html %}
+[filmmaker]: {% link _pages/filmmaking.html %}
 [screenplays]: {% link _pages/screenwriting.html %}
 [live performance]: {% link _pages/live.html %}
 [bt]: https://en.wikipedia.org/wiki/Being_and_Time
