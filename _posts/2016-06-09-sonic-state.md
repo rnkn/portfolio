@@ -22,8 +22,6 @@ An improvised 40-minute set on the theme of creation and collapse. No computer
 generated imagery is used for the visuals, all video is practical effects,
 layered and mixed live.
 
-Curated by [Luke Jaaniste][lj]{:target="_blank"}. Presented by Queensland Week.
-
 [hr]: http://heinzriegler.com
 [metro]: https://www.metroarts.com.au/events/sonic-state/
-[lj]: http://www.lukejaaniste.com
+
