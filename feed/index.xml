@@ -1,0 +1,32 @@
+---
+layout: null
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="html">{{ site.title | smartify | xml_escape }}</title>
+  <subtitle>{{ site.description | xml_escape }}</subtitle>
+  <link rel="alternate" type="text/html" href="{{ '/' | absolute_url }}" />
+  <link rel="self" type="application/atom+xml" href="{{ page.url | absolute_url }}" />
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ "/" | absolute_url | xml_escape }}</id>
+  {% assign newsworthy = site.posts | where_exp: "post", "post.news" %}
+  {% for post in newsworthy %}
+  <entry>
+    <title type="html">{{ post.title | smartify | strip_html | normalize_whitespace | xml_escape }}</title>
+    {% if post.external_url %}
+    <link rel="alternate" type="text/html" href="{{ post.external_url }}" title="{{ post.title | xml_escape }}" />
+    {% else %}
+    <link rel="alternate" type="text/html" href="{{ post.url | absolute_url }}" title="{{ post.title | xml_escape }}" />
+    {% endif %}
+    <published>{{ post.date | date_to_xmlschema }}</published>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <id>{{ post.id | absolute_url | xml_escape }}</id>
+    <author>
+      <name>{{ site.title | xml_escape }}</name>
+    </author>
+    {% assign thedate = post.date | date: site.date_format | append: ": " %}
+    <content type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.news | prepend: thedate | markdownify | strip | xml_escape }}</content>
+  </entry>
+  {% endfor %}
+</feed>
