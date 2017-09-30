@@ -35,8 +35,6 @@ or launching a [blog about cinema and filmmaking][filmpo]{:target="_blank"} with
 friends just because, or making meaningless [cosmetic changes][archive]{:target="_blank"}
 to this site.
 
-Also, I copied the idea for this bio [from a friend][brodie]{:target="_blank"}.
-
 [filmmaker]: {% link _pages/filmmaking.html %}
 [screenplays]: {% link _pages/screenwriting.html %}
 [live performance]: {% link _pages/live.html %}
@@ -46,7 +44,6 @@ Also, I copied the idea for this bio [from a friend][brodie]{:target="_blank"}.
 [so]: https://stackoverflow.com/insights/survey/2017#technology-most-popular-developer-environments-by-occupation
 [filmpo]: http://www.filmingtonpost.com
 [archive]: http://web.archive.org/web/*/www.paulwrankin.com
-[brodie]: http://brodierocca.com
 
 Bio for PR people
 -----------------
