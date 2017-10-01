@@ -1,4 +1,5 @@
 ---
+title: April is the Cruellest Month at Melbourne Fringe Festival
 external_url: https://www.melbournefringe.com.au/fringe-festival/fringe-film
 news: >-
   _April is the Cruellest Month_ screening at Little Creatures Dining Hall as
