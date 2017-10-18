@@ -9,7 +9,7 @@ github_username: "rnkn"
 date_format: "%-d %B %Y"
 future: true
 assets: "/assets/"
-gems:
+plugins:
   - jekyll-redirect-from
 exclude:
   - Gemfile
