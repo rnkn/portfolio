@@ -15,9 +15,9 @@ layout: null
   <entry>
     <title type="html">{{ post.title | smartify | strip_html | normalize_whitespace | xml_escape }}</title>
     {% if post.external_url %}
-    <link rel="alternate" type="text/html" href="{{ post.external_url }}" title="{{ post.title | xml_escape }}" />
+    <link rel="alternate" type="text/html" href="{{ post.external_url | xml_escape }}" title="{{ post.title | xml_escape }}" />
     {% else %}
-    <link rel="alternate" type="text/html" href="{{ post.url | absolute_url }}" title="{{ post.title | xml_escape }}" />
+    <link rel="alternate" type="text/html" href="{{ post.url | absolute_url | xml_escape }}" title="{{ post.title | xml_escape }}" />
     {% endif %}
     <published>{{ post.date | date_to_xmlschema }}</published>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
