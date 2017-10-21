@@ -9,8 +9,8 @@ github_username: "rnkn"
 date_format: "%-d %B %Y"
 future: true
 assets: "/assets/"
-plugins:
-  - jekyll-redirect-from
+# plugins:
+#   - jekyll-redirect-from
 include:
   - _redirects
 exclude:
