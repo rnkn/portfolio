@@ -9,14 +9,13 @@ github_username: "rnkn"
 date_format: "%-d %B %Y"
 future: true
 assets: "/assets/"
-# plugins:
-#   - jekyll-redirect-from
 include:
   - _redirects
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - CNAME
 
 collections:
   posts:
