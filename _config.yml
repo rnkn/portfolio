@@ -44,11 +44,3 @@ nav:
   url: http://files.paulwrankin.com/
 - key: "?"
   url: /keyboard/
-
-rates:
-- role: director
-  day: 800
-  week: 3200
-- role: editor
-  day: 400
-  week: 1600
