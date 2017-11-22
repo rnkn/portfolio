@@ -1,14 +1,12 @@
-{% assign now = site.time %}
-{% for item in site.posts %}
-{% if item.news and item.date >= now %}
-{% assign upcoming = true %}
-{% endif %}
-{% endfor %}
+{% assign news = site.posts | where_exp: "item", "item.news != null" %}
+{% assign upcoming = news | where_exp: "item", "item.date >= site.time" %}
+{% assign n_upcoming = upcoming | size %}
+{% assign recent = news | where_exp: "item", "item.date < site.time" %}
+{% assign n_recent = recent | size %}
 
+{% if n_upcoming > 0 %}
 <h2>Upcoming</h2>
-
-{% for item in site.posts %}
-{% if item.news and item.date >= now %}
+{% for item in upcoming %}
 <p>{{ item.date | date: site.date_format | append: ": " }}
     <a {% if item.external_url %}
        href="{{ item.external_url }}" target="_blank"
@@ -16,13 +14,12 @@
        href="{{ item.url }}"
        {% endif %}>{{ item.news | markdownify | remove: "<p>" | remove: "</p>" }}</a>
 </p>
-{% endif %}
 {% endfor %}
+{% endif %}
 
-<h2>Past</h2>
-
-{% for item in site.posts %}
-{% if item.news and item.date < now %}
+{% if n_recent > 0 %}
+<h2>Recent</h2>
+{% for item in recent %}
 <p>{{ item.date | date: site.date_format | append: ": " }}
     <a {% if item.external_url %}
        href="{{ item.external_url }}" target="_blank"
@@ -30,7 +27,7 @@
        href="{{ item.url }}"
        {% endif %}>{{ item.news | markdownify | remove: "<p>" | remove: "</p>" }}</a>
 </p>
-{% endif %}
 {% endfor %}
+{% endif %}
 
 <p><a title="{{ site.title }}" href="{{ '/feed/index.xml' | absolute_url }}">Subscribe via RSS</a></p>
