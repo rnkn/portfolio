@@ -17,10 +17,6 @@ successful than me has sold out. With my sharp critical eye, I'm able to find
 fault with almost everything. I inspire in others an unshakeable suspicion that
 I'm a fraud.
 
-Instead of film school, I studied philosophy. My aim was to understand the role
-of art beyond simple self-expression. My bookshelf is brimming with potential
-knowledge---almost one-third through [_Being and Time_][bt]{:target="_blank"}!
-
 Proficient at staring at ceilings.
 
 I should have written more [screenplays] by now. I should be writing now.
@@ -30,20 +26,14 @@ spurred a foray into [live performance].
 
 I'm very skilled at creating unpaid, time-sucking jobs for myself as a method of
 avoidance, like developing an open-source [screenwriting program][fountain]{:target="_blank"}
-for [GNU Emacs][emacs]{:target="_blank"} (a platform [hardly anyone uses][so]{:target="_blank"}),
-or launching a [blog about cinema and filmmaking][filmpo]{:target="_blank"} with a couple of
-friends just because, or making meaningless [cosmetic changes][archive]{:target="_blank"}
-to this site.
+for [GNU Emacs][emacs]{:target="_blank"} (a platform [hardly anyone uses][so]{:target="_blank"}).
 
 [filmmaker]: {% link _pages/filmmaking.html %}
 [screenplays]: {% link _pages/screenwriting.html %}
 [live performance]: {% link _pages/live.html %}
-[bt]: https://en.wikipedia.org/wiki/Being_and_Time
 [fountain]: https://github.com/rnkn/fountain-mode
 [emacs]: https://www.gnu.org/software/emacs
 [so]: https://stackoverflow.com/insights/survey/2017#technology-most-popular-developer-environments-by-occupation
-[filmpo]: http://www.filmingtonpost.com
-[archive]: http://web.archive.org/web/*/www.paulwrankin.com
 
 Bio for PR people
 -----------------
