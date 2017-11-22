@@ -10,7 +10,7 @@ news: >-
   La Trobe University 50th Anniversary with 29-piece live orchestra.
 ---
 
-Abstract film commissioned for La University's 50th anniversary, presented with
+Abstract film commissioned for La Trobe University's 50th anniversary, presented with
 29-piece live orchestra score composed by [Tamil Rogeon] and performed by the
 Australian Youth Orchestra (13 min 9 sec).
 
