@@ -5,6 +5,6 @@ keyboard: g f
 ---
 {% for item in site.categories.filmmaking %}
 {% unless item.cv_only %}
-{% include project.html title=item.title image=item.image date=item.date url=item.url excerpt=item.excerpt %}
+{% include project.html title=item.title url=item.url date=item.date image=item.image excerpt=item.excerpt credit=item.credit %}
 {% endunless %}
 {% endfor %}
