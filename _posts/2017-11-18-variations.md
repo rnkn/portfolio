@@ -19,5 +19,7 @@ Entirely sourced from macro footage of Leonard French's [_The Four Seasons_][fou
 - [soundvision](https://50years.latrobe/events/soundvision/) at La Trobe
   University Melbourne Campus
 
+[Photo gallery](http://photos.paulwrankin.com/soundvision/){:target="_blank"}.
+
 [tamil rogeon]: http://www.tamilrogeon.com
 [four]: https://commons.wikimedia.org/wiki/File:Leonard_French_La_Trobe_01.jpg
