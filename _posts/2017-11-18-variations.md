@@ -11,12 +11,12 @@ news: >-
 ---
 
 Abstract film commissioned for La Trobe University's 50th anniversary, presented with
-29-piece live orchestra score composed by [Tamil Rogeon] and performed by the
+29-piece live orchestra score composed by [Tamil Rogeon]{:target="_blank"} and performed by the
 Australian Youth Orchestra (13 min 9 sec).
 
-Entirely sourced from macro footage of Leonard French's [_The Four Seasons_][four].
+Entirely sourced from macro footage of Leonard French's [_The Four Seasons_][four]{:target="_blank"}.
 
-- [soundvision](https://50years.latrobe/events/soundvision/) at La Trobe
+- [soundvision](https://50years.latrobe/events/soundvision/){:target="_blank"} at La Trobe
   University Melbourne Campus
 
 [Photo gallery](http://photos.paulwrankin.com/soundvision/){:target="_blank"}.
