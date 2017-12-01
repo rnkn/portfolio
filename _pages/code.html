@@ -1,8 +1,0 @@
----
-layout: default
-nav: 6
-keyboard: g c
----
-{% for item in site.categories.code reversed %}
-<p><a {% if item.external_url %}href="{{ item.external_url }}" target="_blank"{% else %}href="{{ item.url }}"{% endif %}>{{ item.title }}</a> &ndash; {{ item.excerpt | remove: "<p>" | remove: "</p>" }}</p>
-{% endfor %}
