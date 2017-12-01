@@ -1,0 +1,21 @@
+---
+title: etc.
+layout: default
+nav: 5
+keyboard: g e
+---
+<hr/>
+<h2>Visual Art</h2>
+<p><a href="http://photos.paulwrankin.com/inkwork/" target="_blank">Inkwork image album</a></p>
+
+<hr/>
+<h2>Short Fiction</h2>
+{% for item in site.categories.microfiction %}
+<p><a href={{ item.url }}>{{ item.title }}</a> &ndash; {{ item.date | date: "%B %Y" }}</p>
+{% endfor %}
+
+<hr/>
+<h2>Code</h2>
+{% for item in site.categories.code reversed %}
+<p><a {% if item.external_url %}href="{{ item.external_url }}" target="_blank"{% else %}href="{{ item.url }}"{% endif %}>{{ item.title }}</a> &ndash; {{ item.excerpt | remove: "<p>" | remove: "</p>" }}</p>
+{% endfor %}
