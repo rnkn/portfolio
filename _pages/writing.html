@@ -1,8 +1,0 @@
----
-layout: default
-nav: 5
-keyboard: g w
----
-{% for item in site.categories.microfiction %}
-<p><a href={{ item.url }}>{{ item.title }}</a> &ndash; {{ item.date | date: "%B %Y" }}</p>
-{% endfor %}
