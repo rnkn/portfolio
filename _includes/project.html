@@ -1,4 +1,4 @@
-<div class="project">
+<div class="hero">
     {% if include.youtube_id %}
     {% include youtube.html id=include.youtube_id%}
     {% elsif include.vimeo_id %}
@@ -11,14 +11,14 @@
     <p class="credit">{{ include.credit }}</p>
     {% endif %}
     {% endif %}
+</div>
+<article>
     <h2><a href="{{ include.url }}">{{ include.title }}</a></h2>
     {% if include.excerpt %}
     {{ include.excerpt }}
     {% endif %}
     {% if include.content %}
-    <article>
-        {{ include.content }}
-    </article>
+    {{ include.content }}
     {% endif %}
     {{ include.date | date: "%B %Y" | markdownify }}
-</div>
+</article>

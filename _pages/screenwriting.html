@@ -3,6 +3,10 @@ layout: default
 nav: 3
 keyboard: g s
 ---
-{% for item in site.categories.screenwriting %}
-{% include project.html title=item.title image=item.image date=item.date url=item.url excerpt=item.excerpt %}
-{% endfor %}
+<main>
+    {% for item in site.categories.screenwriting %}
+    <div class="card">
+        {% include project.html title=item.title image=item.image date=item.date url=item.url excerpt=item.excerpt %}
+    </div>
+   {% endfor %}
+</main>

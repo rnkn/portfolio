@@ -1,10 +1,11 @@
 ---
 layout: default
-nav: 1
+nav: 2
 keyboard: g f
 ---
-{% for item in site.categories.filmmaking %}
-{% unless item.cv_only %}
-{% include project.html title=item.title url=item.url date=item.date image=item.image excerpt=item.excerpt credit=item.credit %}
-{% endunless %}
-{% endfor %}
+<main>
+    {% for item in site.categories.filmmaking %}
+    <div class="card">
+        {% include project.html title=item.title url=item.url date=item.date image=item.image excerpt=item.excerpt credit=item.credit %}
+    </div>{% endfor %}
+</main>
