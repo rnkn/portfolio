@@ -1,6 +1,6 @@
 ---
 title: There Were No Clouds Above Them
-layout: project
+layout: article
 categories:
   - writing
   - fiction

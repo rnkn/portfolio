@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: article
 nav: 0
 keyboard: g a
 image: me.jpg
