@@ -4,18 +4,81 @@ layout: null
 $link-bg: rgb(245,245,245);
 $link-bg-hover: rgb(230,230,230);
 $link-underline: rgb(210,210,210);
+$font-color: rgb(50,50,50);
 
 html, body { -webkit-text-size-adjust: none; }
 
 body {
-  color: rgb(50,50,50);
-  margin: auto;
-  padding: 0 2ex;
-  max-width: 600px;
+  margin: 0;
+  padding: 0;
+  color: $font-color;
   line-height: 1.5em;
   font-family: Merriweather, serif;
   font-size: 0.85em;
   font-weight: 300;
+  p, li, dt, dd {
+    a {
+      border-bottom: 1px solid $link-underline;
+      &:hover { border-bottom-color: inherit; }
+    }
+  }
+}
+
+header {
+  margin: 0 0 2em;
+  padding: 0 15px;
+  p {
+    line-height: 2;
+    a {
+      padding: 0 0.5ex;
+    }
+  }
+}
+
+main {
+  img { width: 100%; }
+  iframe { width: 100%; }
+}
+
+main.home {
+  float: left;
+  clear: none;
+  max-width: 600px;
+}
+
+main.project {
+  max-width: 720px;
+  margin: 0 auto 6em;
+  .hero {
+    margin: 2em 0;
+  }
+  article {
+    padding: 0 60px;
+  }
+}
+
+main.article {
+  max-width: 600px;
+  margin: 0 0 6em;
+  padding: 0 60px;
+}
+
+aside {
+  float: left;
+  clear: none;
+  margin: 0;
+  padding: 0 15px;
+  max-width: 330px;
+  p {
+    font-size: 0.9em;
+  }
+}
+
+footer {
+  clear: both;
+  font-size: 0.85em;
+  color: rgb(160,160,160);
+  -webkit-font-variant-ligatures: no-common-ligatures;
 }
 
 h1 {
@@ -31,25 +94,11 @@ a {
   text-decoration: none;
 }
 
-header {
-  p {
-    line-height: 2;
-    a {
-      background-color: $link-bg;
-      padding: 0.5ex;
-      &:hover { background-color: $link-bg-hover; }
-    }
-  }
-}
-
-footer {
-  font-size: 0.85em;
-  color: rgb(160,160,160);
-  -webkit-font-variant-ligatures: no-common-ligatures;
-}
-
 blockquote {
-  margin: 1em 2ex;
+  margin: 0;
+  padding: 0 1em;
+  color: rgb(80,80,80);
+  border-left: rgb(240,240,240) solid 8px;
 }
 
 dt {
@@ -62,7 +111,7 @@ dd {
 
 sup {
   line-height: 0.5;
-  font-size: 0.65em;
+  font-size: 0.85em;
 }
 
 pre {
@@ -73,23 +122,17 @@ code {
   font-family: Inconsolata, monospace;
 }
 
-main {
-  img { width: 100%; }
-  iframe { width: 100%; }
-  p, li, dt, dd {
-    a {
-      border-bottom: 1px solid $link-underline;
-      &:hover { border-bottom-color: inherit; }
-    }
-  }
-}
-
 table {
   width: 100%;
 }
 
-.project {
-  margin-bottom: 2em;
+.card {
+  float: left;
+  clear: none;
+  max-width: 500px;
+  min-width: 360px;
+  height: 33em;
+  margin: 0 15px 6em;
 }
 
 .video {

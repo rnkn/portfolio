@@ -2,4 +2,16 @@
 layout: default
 keyboard: g h
 ---
-{% include news.html %}
+<aside>
+    <h2>News</h2>
+    {% include news.html limit=5 %}
+    <p><a href="/news">More...</a></p>
+    {% include contact.html %}
+</aside>
+<main class="home">
+    {% for item in site.categories.work %}
+    <div class="card">
+        {% include project.html title=item.title url=item.url date=item.date image=item.image excerpt=item.excerpt credit=item.credit %}
+    </div>
+    {% endfor %}
+</main>
