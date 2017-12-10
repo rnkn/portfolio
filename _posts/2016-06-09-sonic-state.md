@@ -4,15 +4,8 @@ layout: project
 categories: work live
 image: sonic-state.jpg
 youtube_id: nUGHbtvttwY
-news: >-
-  Sonic State -- live visual performance with Heinz Riegler at Metro Arts in
-  Brisbane. (Sold out.)
 credit: >-
   Photo by Bryan Spencer
-cv:
-  performance: >-
-    [Sonic State](https://www.metroarts.com.au/events/sonic-state/) with [Heinz
-    Riegler](http://www.heinzriegler.com), Metro Arts, Brisbane
 ---
 
 Live visual performance with [Heinz Riegler][hr]{:target="_blank"}
