@@ -4,13 +4,6 @@ layout: project
 categories: work directing editing filmmaking
 image: magnetic-tape.jpg
 youtube_id: PA31KY_5-dc
-news: >-
-  _Three Days Before the Storm_, two-channel video projection, screening at
-  The Junk Bar as part of _It Will Find You_. (Sold out.)
-redirect_from: /magnetic-tape/
-cv:
-  screening: >-
-    Junk Bar, Brisbane
 ---
 
 Two-channel video projection (12 min 43 sec). Screened as part

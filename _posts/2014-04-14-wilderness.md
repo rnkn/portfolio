@@ -5,9 +5,6 @@ categories: work directing editing filmmaking
 image: guillotines-and-kingmakers.jpg
 youtube_id: qhP9MTfiLBY
 vimeo_id: 92000456
-news: >-
-  New video for Lawrence English, "Wilderness of Mirrors".
-redirect_from: /guillotines/
 ---
 
 Single-channel video loop in support of

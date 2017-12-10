@@ -5,8 +5,6 @@ categories: work directing editing filmmaking
 image: and-he-sleeps.jpg
 youtube_id: YS-Y_Oix7Ds
 vimeo_id: 118670404
-news: >-
-  New video for Lawrence English, "And He Sleeps".
 ---
 
 Video in support of [Lawrence English][lpe]{:target="_blank"} album _The Peregrine_ (5 min 14 sec).

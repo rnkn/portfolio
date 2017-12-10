@@ -5,8 +5,6 @@ categories: work directing editing filmmaking
 image: forgiving-noir.jpg
 youtube_id: 6d3Xwbd0i7o
 vimeo_id: 94472371
-news: >-
-  New video for Lawrence English, "Forgiving Noir".
 ---
 
 Single-channel video loop in support of

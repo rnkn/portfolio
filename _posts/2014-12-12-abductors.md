@@ -2,8 +2,6 @@
 title: The Abductors
 layout: project
 categories: work screenwriting
-news: >-
-  New feature screenplay _The Abductors_.
 image: abductors.jpg
 vimeo_id: 110632585
 ---

@@ -4,8 +4,6 @@ layout: project
 categories: work directing editing filmmaking
 image: bunny-bill.jpg
 youtube_id: N30PP2m1d-s
-news: >-
-  New video for Norman Westberg (Swans), "Bunny Bill".
 ---
 
 Video in support of [Norman Westberg][nw]{:target="_blank"} (Swans) solo album _13_
