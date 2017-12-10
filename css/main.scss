@@ -83,10 +83,12 @@ footer {
 
 h1 {
   font-size: 1.5em;
+  a:hover { border-bottom: 1px solid; }
 }
 
 h2 {
   font-size: 1.2em;
+  a:hover { border-bottom: 1px solid; }
 }
 
 a {
