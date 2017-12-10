@@ -1,7 +1,7 @@
 ---
 title: Blade Runner Alternate Cut
 layout: project
-categories: editing
+categories: work editing
 image: blade-runner.jpg
 vimeo_id: 156218415
 news: >-

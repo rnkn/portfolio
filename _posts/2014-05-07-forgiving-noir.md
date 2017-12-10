@@ -1,7 +1,7 @@
 ---
 title: Forgiving Noir
 layout: project
-categories: directing editing filmmaking
+categories: work directing editing filmmaking
 image: forgiving-noir.jpg
 youtube_id: 6d3Xwbd0i7o
 vimeo_id: 94472371

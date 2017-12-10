@@ -1,7 +1,7 @@
 ---
 title: The Abductors
 layout: project
-categories: screenwriting
+categories: work screenwriting
 news: >-
   New feature screenplay _The Abductors_.
 image: abductors.jpg

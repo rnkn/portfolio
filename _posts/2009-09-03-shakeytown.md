@@ -1,7 +1,7 @@
 ---
 title: Shakeytown
 layout: project
-categories: directing editing filmmaking
+categories: work directing editing filmmaking
 image: shakeytown.jpg
 youtube_id: 03-7I2H3cxE
 vimeo_id: 6425231

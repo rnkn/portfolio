@@ -1,7 +1,7 @@
 ---
 title: Variations on Leonard French
 layout: project
-categories: filmmaking live
+categories: work work filmmaking live
 image: variations.jpg
 credit: >-
   Photo by La Trobe Univeristy

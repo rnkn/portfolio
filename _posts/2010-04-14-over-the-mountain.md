@@ -1,7 +1,7 @@
 ---
 title: Over the Mountain
 categories: filmmaking
-cv_only: true
+published: false
 ---
 
 Video in support of unreleased [Heinz Riegler][hr]{:target="_blank"} album (3

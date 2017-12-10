@@ -1,7 +1,7 @@
 ---
 title: Sonic State 2016
 layout: project
-categories: live
+categories: work live
 image: sonic-state.jpg
 youtube_id: nUGHbtvttwY
 news: >-
