@@ -49,5 +49,3 @@ obtained his Bachelor's degree in Philosophy from the University of Queensland i
 2013.
 
 [CV (PDF)](http://files.paulwrankin.com/Paul_Rankin_CV.pdf){:target="_blank"}
-
-{% include contact.html %}
