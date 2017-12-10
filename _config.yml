@@ -24,23 +24,3 @@ collections:
   pages:
     output: true
     permalink: "/:path/"
-
-nav:
-- url: /
-  key: "g h"
-- name: "filmmaking"
-  url: /filmmaking/
-- name: "screenwriting"
-  url: /screenwriting/
-- name: "live&nbsp;visuals"
-  url: /live/
-- name: "writing"
-  url: /writing/
-- name: "code"
-  url: /code/
-- name: "contact"
-  url: /contact/
-- key: "g ~"
-  url: http://files.paulwrankin.com/
-- key: "?"
-  url: /keyboard/
