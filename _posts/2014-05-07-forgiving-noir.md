@@ -8,7 +8,7 @@ vimeo_id: 94472371
 ---
 
 Single-channel video loop in support of
-[Lawrence English][lpe]{:target="_blank"} album _Wilderness of Mirrors_
+[Lawrence English][lpe] album _Wilderness of Mirrors_
 (2 min 26 sec).
 
 > And as seen in the new video for "Forgiving Noir," Lawrence English hasn't
@@ -30,7 +30,7 @@ Single-channel video loop in support of
 > as the VIEWERS (and listeners of the track) are the ones searching for
 > meaning.
 >
-> -- C Monster, [tinymixtapes.com][tmt]{:target="_blank"}
+> -- C Monster, [tinymixtapes.com][tmt]
 
 [tmt]: http://www.tinymixtapes.com/chocolate-grinder/premiere-lawrence-english-forgiving-noir
 [lpe]: http://www.lawrenceenglish.com

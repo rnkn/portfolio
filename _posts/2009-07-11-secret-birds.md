@@ -6,8 +6,8 @@ image: secret-birds.jpg
 vimeo_id: 5551044
 ---
 
-Secret Birds concert film for [I Used To Skate Once][skate]{:target="_blank"}
-show at [The Zoo][zoo]{:target="_blank"} in Brisbane, Australia.
+Secret Birds concert film for [I Used To Skate Once][skate]
+show at [The Zoo][zoo] in Brisbane, Australia.
 
 The show features five drummers. The performance is covered in a single shot.
 

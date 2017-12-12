@@ -25,8 +25,8 @@ More recently, my unhealthy relationship towards other people's attention has
 spurred a foray into [live performance].
 
 I'm very skilled at creating unpaid, time-sucking jobs for myself as a method of
-avoidance, like developing an open-source [screenwriting program][fountain]{:target="_blank"}
-for [GNU Emacs][emacs]{:target="_blank"} (a platform [hardly anyone uses][so]{:target="_blank"}).
+avoidance, like developing an open-source [screenwriting program][fountain]
+for [GNU Emacs][emacs] (a platform [hardly anyone uses][so]).
 
 [filmmaker]: {% link _pages/filmmaking.html %}
 [screenplays]: {% link _pages/screenwriting.html %}
