@@ -1,7 +1,7 @@
 ---
 title: Three Days Before the Storm
 layout: project
-categories: work directing editing filmmaking
+categories: work directing editing filmmaking live
 image: magnetic-tape.jpg
 youtube_id: PA31KY_5-dc
 ---
