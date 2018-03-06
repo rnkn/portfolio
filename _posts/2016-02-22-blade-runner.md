@@ -4,6 +4,7 @@ layout: project
 categories: work editing
 image: blade-runner.jpg
 vimeo_id: 156218415
+published: false
 ---
 
 An alternate cut of _Blade Runner_ that fixes small issues I've always had with
