@@ -9,7 +9,7 @@ the opposite side of the table of hors d'oeuvres.
 
 "I'm a hug---"
 
-Mark realised that he had combined the words 'big' and 'huge' into 'hug' in his
+Mark realised that he had combined the words "big" and "huge" into "hug" in his
 first attempt to talk to the actor and then he realised he had just called
 himself "a hug" and that there was every chance that with the DJ playing Bill
 Murrary could interpret Mark as asking for a hug and so Mark quickly edged back
