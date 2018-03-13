@@ -11,11 +11,11 @@ LOL.
 
 I am proficient at staring at ceilings.
 
-Bio for PR people
------------------
+Bio
+---
 
 Paul W. Rankin (b. 1984) is a filmmaker and video artist based in Brisbane,
-Australia. His live visual practice employs layering multiple video sources to
+Australia. His live visual practice employs layering multiple video tracks to
 create something between the abstract and representational. His visuals are
 created from practical effects, using no CGI. He has collaborated with
 world-renowned musicians and sound artists including [Lawrence English], [Norman
@@ -27,16 +27,16 @@ French_][var] to commemorate La Trobe University's 50th anniversary. The work
 premiered with the Australian Youth Orchestra. Also that year, his work was used
 to announce the [Dark Mofo] festival.
 
-In 2013 he obtained his Bachelor’s degree in Philosophy from the University of
-Queensland.
-
 In 2012 he was selected for the QPIX White Heat funding grant to write and
 direct the short film [Clara].
 
 The Queensland New Filmmakers Awards nominated his work in 2009 and 2010.
 
-Also an budding screenwriter, he created his own [screenwriting software] for
-the [Fountain] markup language.
+Also a screenwriter, he has written two feature spec screenplays and created his
+own [screenwriting software] for the [Fountain] markup language.
+
+In 2013 he obtained his Bachelor’s degree in Philosophy from the University of
+Queensland.
 
 [lawrence english]: http://www.lawrenceenglish.com
 [norman westberg]: http://normanwestberg.com
