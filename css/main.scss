@@ -33,7 +33,7 @@ header {
   }
 }
 
-article p, ul {
+article p, ol, ul {
   font-weight: 300;
 }
 
@@ -159,7 +159,7 @@ table {
 
 .footnotes {
   margin: 0;
-  font-size: 0.65em;
+  font-size: 0.85em;
 }
 
 .reversefootnote {
