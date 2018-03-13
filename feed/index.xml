@@ -13,7 +13,7 @@ layout: null
   {% assign news = site.data.news | sort: "date" | reverse %}
   {% for item in news %}
   <entry>
-    <title type="html">{{ item.news | smartify | strip_html | normalize_whitespace | xml_escape }}</title>
+    <title type="html">{{ item.news | markdownify | strip_html | normalize_whitespace | xml_escape }}</title>
     {% if item.link %}
     <link rel="alternate" type="text/html" href="{{ item.link | xml_escape }}" title="{{ item.news | xml_escape }}" />
     {% endif %}
