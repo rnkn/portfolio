@@ -9,31 +9,7 @@ Hello. My name's Paul W. Rankin and I'm a filmmaker based in Brisbane,
 Australia. I started using the "W." around the time George W. Bush invaded Iraq.
 LOL.
 
-I call myself a [filmmaker] (rather than director, producer, etc.) because
-I usually do everything by myself. This is mostly through necessity because no
-one wants to hire me anymore. My greatest strength is my artistic integrity, which is
-indistinguishable from years of calcified rationalisation that anyone more
-successful than me has sold out. With my sharp critical eye, I'm able to find
-fault with almost everything. I inspire in others an unshakeable suspicion that
-I'm a fraud.
-
-Proficient at staring at ceilings.
-
-I should have written more [screenplays] by now. I should be writing now.
-
-More recently, my unhealthy relationship towards other people's attention has
-spurred a foray into [live performance].
-
-I'm very skilled at creating unpaid, time-sucking jobs for myself as a method of
-avoidance, like developing an open-source [screenwriting program][fountain]
-for [GNU Emacs][emacs] (a platform [hardly anyone uses][so]).
-
-[filmmaker]: {% link _pages/filmmaking.html %}
-[screenplays]: {% link _pages/screenwriting.html %}
-[live performance]: {% link _pages/live.html %}
-[fountain]: https://github.com/rnkn/fountain-mode
-[emacs]: https://www.gnu.org/software/emacs
-[so]: https://stackoverflow.com/insights/survey/2017#technology-most-popular-developer-environments-by-occupation
+I am proficient at staring at ceilings.
 
 Bio for PR people
 -----------------
