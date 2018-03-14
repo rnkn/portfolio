@@ -8,15 +8,20 @@ credit: >-
 ---
 
 Abstract film commissioned for [La Trobe University's 50th anniversary][soundvision],
-presented with 29-piece live orchestra score composed by [Tamil Rogeon]
-and performed by the Australian Youth Orchestra (13 min 9 sec).
+presented with 29-piece live orchestral score composed by [Tamil Rogeon]
+and performed by the Australian Youth Orchestra (13 min 14 sec).
 
-Entirely sourced from macro footage of Leonard French's [_The Four Seasons_][four].
+Visuals created entirely from macro footage of Leonard French's [_The Four
+Seasons_][four].
 
-- [soundvision] at La Trobe University Melbourne Campus
+World premiere on 18 November 2017 at [soundvision], La Trobe University,
+Melbourne.
+
+Related press:
+
 - [La Trobe hosts world film premiere](https://www.latrobe.edu.au/news/articles/2017/release/la-trobe-hosts-world-film-premiere)
-- [beat.com.au](http://www.beat.com.au/arts/leonard-french-s-stained-glass-treasure-la-trobe-uni-gets-special-cinematic-treatment-during)
-- [screenhub.com.au](http://www.screenhub.com.au/whats-on/victoria/screenings-festivals-and-programs/la-trobe-hosts-world-film-premiere-variations-on-leonard-french-222252)
+- [Beat Magazine](http://www.beat.com.au/arts/leonard-french-s-stained-glass-treasure-la-trobe-uni-gets-special-cinematic-treatment-during)
+- [screenhub](http://www.screenhub.com.au/whats-on/victoria/screenings-festivals-and-programs/la-trobe-hosts-world-film-premiere-variations-on-leonard-french-222252)
 
 [Photo gallery](http://photos.paulwrankin.com/soundvision/).
 
