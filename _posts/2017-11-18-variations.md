@@ -8,7 +8,7 @@ credit: >-
 ---
 
 Abstract film commissioned for [La Trobe University's 50th anniversary][soundvision],
-presented with 29-piece live orchestral score composed by [Tamil Rogeon]
+with 29-piece live orchestral score, composed by [Tamil Rogeon]
 and performed by the Australian Youth Orchestra (13 min 14 sec).
 
 Visuals created entirely from macro footage of Leonard French's [_The Four
