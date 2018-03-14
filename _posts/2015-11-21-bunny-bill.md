@@ -9,11 +9,14 @@ youtube_id: N30PP2m1d-s
 Video in support of [Norman Westberg][nw] (Swans) solo album _13_
 (10 min 30 sec).
 
-- [factmag.com](http://www.factmag.com/2015/11/20/swans-norman-westberg-bunny-bill-video/)
-- [imposemagazine.com](http://www.imposemagazine.com/tv/norman-westberg-bunny-bill)
-- [publicrhythm.com](http://publicrhythm.com/20765)
-- [normanwestberg.com](http://normanwestberg.com/artwork/3890856_Bunny_Bill_film_by_Paul_W_Rankin.html)
-- [filtermexico.com](http://filtermexico.com/2015/11/25/norman-westberg-de-swans-presenta-su-video-para-bunny-bill-2/)
-- [MONO 21]({% link _posts/2016-04-14-mono-21.md %})
+Later reworked for Norman Westberg's live performance at [MONO 21].
+
+Related press:
+
+- [FACT Magazine](http://www.factmag.com/2015/11/20/swans-norman-westberg-bunny-bill-video/)
+- [Impose Magazine](http://www.imposemagazine.com/tv/norman-westberg-bunny-bill)
+- [Public Rhythm](http://publicrhythm.com/20765)
+- [Filter Mexico](http://filtermexico.com/2015/11/25/norman-westberg-de-swans-presenta-su-video-para-bunny-bill-2/)
 
 [nw]: http://normanwestberg.com/
+[MONO 21]: {% link _posts/2016-04-14-mono-21.md %}
