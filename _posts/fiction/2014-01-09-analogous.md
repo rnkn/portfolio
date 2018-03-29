@@ -7,11 +7,11 @@ categories:
   - microfiction
 ---
 He was reading a book by a writer she didn't know. He was sitting in the
-armchair straight-spined and hand on knee, the other crandling the spine of the
+armchair straight-spined and hand on knee, the other cradling the spine of the
 handcover. He was approaching the end of a page. He took the edge up with his
 fingertips in a curled anticipation although he didn't anticipate. Then the page
 turned over. He looked up at her and gave a warm half smile and she was about to
-say something before she realized she didn't know what and he returned to the
+say something before she realised she didn't know what and he returned to the
 page. To his left stood the standard lamp with the faded red shade and the
 likewise hanging tassels that hung towards him, and the light hugged in a small
 orbit around the armchair.
