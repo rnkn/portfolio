@@ -55,14 +55,14 @@ main.project {
     margin: 2em 0;
   }
   article {
-    padding: 0 60px;
+    padding: 0 10%;
   }
 }
 
 main.article {
   max-width: 600px;
   margin: 0 0 6em;
-  padding: 0 60px;
+  padding: 0 10%;
 }
 
 aside {
@@ -138,7 +138,6 @@ table {
   float: left;
   clear: none;
   max-width: 500px;
-  min-width: 360px;
   height: 35em;
   margin: 0 15px 2em;
 }
