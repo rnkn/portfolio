@@ -5,8 +5,9 @@ nav: 4
 keyboard: g l
 ---
 <main>
-    {% for item in site.categories.live %}
-    <div class="card">
+    {% assign sorted_items = site.projects | where: "categories",  "live" | sort: date | reverse %}
+    {% for item in sorted_items %}
+    <div class="index">
         {% include project.html title=item.title url=item.url date=item.date image=item.image excerpt=item.excerpt credit=item.credit %}
     </div>
     {% endfor %}

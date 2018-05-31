@@ -21,6 +21,6 @@ collections:
   posts:
     output: true
     permalink: "/:title/"
-  pages:
+  sections:
     output: true
     permalink: "/:path/"

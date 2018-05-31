@@ -42,9 +42,9 @@ Queensland.
 [norman westberg]: http://normanwestberg.com
 [tamil rogeon]: http://www.tamilrogeon.com
 [heinz riegler]: http://heinzriegler.com
-[var]: {% link _posts/2017-11-18-variations.md %}
-[dark mofo]: {% link _posts/2017-04-08-dark-mofo.md %}
-[clara]: {% link _posts/2012-10-30-clara.md %}
+[var]: {% link _projects/variations.md %}
+[dark mofo]: {% link _projects/dark-mofo.md %}
+[clara]: {% link _projects/clara.md %}
 
 [screenwriting software]: https://github.com/rnkn/fountain-mode
 [fountain]: https://fountain.io

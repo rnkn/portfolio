@@ -1,0 +1,11 @@
+---
+title: Mark Zuckerberg Fan-Fiction
+layout: article
+categories: writing fiction microfiction
+redirect_from: /mark-zuckerberg-fan-fiction/
+---
+<p>I had a Facebook account in 2013. These are my collected status updates.</p>
+{% for item in site.categories.zuckerberg reversed %}
+<p><strong>{{ item.date | date: site.date_format }}</strong></p>
+<p>{{ item.content }}</p>
+{% endfor %}

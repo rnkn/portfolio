@@ -1,0 +1,11 @@
+---
+layout: article
+nav: 1
+keyboard: g n
+---
+{% for item in site.categories.news %}
+<p>{{ item.content }}</p>
+<a href="{{ item.url }}" class="permalink">
+    <time datetime="{{ item.date }}">&rarr; {{ item.date | date: site.permalink_date_format }}</time>
+</a>
+{% endfor %}

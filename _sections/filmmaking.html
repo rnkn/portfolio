@@ -4,8 +4,9 @@ nav: 2
 keyboard: g f
 ---
 <main>
-    {% for item in site.categories.filmmaking %}
-    <div class="card">
+    {% assign sorted_items = site.projects | where: "categories",  "filmmaking" | sort: date | reverse %}
+    {% for item in sorted_items %}
+    <div class="index">
         {% include project.html title=item.title url=item.url date=item.date image=item.image excerpt=item.excerpt credit=item.credit %}
     </div>{% endfor %}
 </main>

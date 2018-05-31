@@ -1,6 +1,6 @@
 <script>
     Mousetrap.bind("g h", function() { location.href="{{ '/' | absolute_url }}" });
-    {% for item in site.pages %}
+    {% for item in site.sections %}
     {% if item.keyboard %}
     Mousetrap.bind("{{ item.keyboard }}", function() { location.href="{{ item.url }}" });
     {% endif %}

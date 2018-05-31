@@ -4,9 +4,10 @@ nav: 3
 keyboard: g s
 ---
 <main>
-    {% for item in site.categories.screenwriting %}
-    <div class="card">
+    {% assign sorted_items = site.projects | where: "categories",  "screenwriting" | sort: date | reverse %}
+    {% for item in sorted_items %}
+    <div class="index">
         {% include project.html title=item.title image=item.image date=item.date url=item.url excerpt=item.excerpt %}
     </div>
-   {% endfor %}
+    {% endfor %}
 </main>
