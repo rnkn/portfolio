@@ -4,9 +4,10 @@ email: "&#104;&#101;&#108;&#108;&#111;&#64;&#112;&#97;&#117;&#108;&#119;&#114;&#
 description: >-
   Paul W. Rankin is a filmmaker based in Brisbane, Australia.
 timezone: Australia/Brisbane
-repository: "rnkn/paulwrankin.com"
-github_username: "rnkn"
+repository: rnkn/paulwrankin.com
+permalink: "blog/:year/:month/:day/:title/"
 date_format: "%-d %B %Y"
+permalink_date_format: "%F at %-I:%M %P"
 future: true
 assets: "/images/"
 exclude:
@@ -16,9 +17,19 @@ exclude:
   - CNAME
 
 collections:
-  posts:
-    output: true
-    permalink: "/:title/"
   sections:
     output: true
     permalink: "/:path/"
+  projects:
+    output: true
+    permalink: "/:title/"
+
+defaults:
+  - scope:
+      type: posts
+    values:
+      layout: post
+  - scope:
+      type: projects
+    values:
+      layout: project
