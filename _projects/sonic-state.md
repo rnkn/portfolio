@@ -1,6 +1,6 @@
 ---
 title: Sonic State 2016
-layout: project
+date: 2016-06-09
 categories: work live
 image: sonic-state.jpg
 youtube_id: nUGHbtvttwY

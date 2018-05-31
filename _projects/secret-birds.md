@@ -1,6 +1,6 @@
 ---
 title: Secret Birds
-layout: project
+date: 2009-07-11
 categories: work directing editing filmmaking
 image: secret-birds.jpg
 vimeo_id: 5551044

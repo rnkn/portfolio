@@ -1,6 +1,6 @@
 ---
 title: To Have and To Be
-layout: project
+date: 2008-11-23
 categories: work screenwriting directing editing filmmaking
 image: to-have-and-to-be.jpg
 youtube_id: F5jhQaAaLkY

@@ -1,6 +1,6 @@
 ---
 title: The Visitors
-layout: project
+date: 2017-06-17
 categories: work live filmmaking
 image: visitors.jpg
 credit: >-

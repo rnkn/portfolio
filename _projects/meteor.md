@@ -1,6 +1,6 @@
 ---
 title: Meteor Field
-layout: project
+date: 2016-04-21
 categories: work directing editing filmmaking
 image: meteor-field.jpg
 youtube_id: Lcba92A_v7c

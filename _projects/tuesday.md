@@ -1,6 +1,6 @@
 ---
 title: A Particular Tuesday
-layout: project
+date: 2017-03-14
 categories: work directing editing filmmaking
 image: tuesday.jpg
 youtube_id: sInaCLemJNs

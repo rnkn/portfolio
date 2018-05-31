@@ -1,6 +1,6 @@
 ---
 title: Three Days Before the Storm
-layout: project
+date: 2015-08-26
 categories: work directing editing filmmaking live
 image: magnetic-tape.jpg
 youtube_id: PA31KY_5-dc

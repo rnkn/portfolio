@@ -1,6 +1,6 @@
 ---
 title: April is the Cruellest Month
-layout: project
+date: 2014-07-18
 categories: work directing editing filmmaking
 image: april.jpg
 vimeo_id: 101074027

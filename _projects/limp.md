@@ -1,6 +1,6 @@
 ---
 title: Walk With Limp
-layout: project
+date: 2009-06-22
 categories: work directing editing filmmaking
 image: walk-with-limp.jpg
 vimeo_id: 5271724

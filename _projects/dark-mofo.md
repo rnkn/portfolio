@@ -1,6 +1,6 @@
 ---
 title: Dark Mofo 2017
-layout: project
+date: 2017-04-08
 categories: work directing filmmaking
 image: darkmofo.jpg
 youtube_id: 65pqjtrGpQM
@@ -13,4 +13,4 @@ A rework of [_Wilderness of Mirrors_][wilderness], edited by Leigh Carmichael
 April until the next day.
 
 [dark mofo]: https://darkmofo.net.au
-[wilderness]: {% link _posts/2014-04-14-wilderness.md %}
+[wilderness]: {% link _projects/wilderness.md %}

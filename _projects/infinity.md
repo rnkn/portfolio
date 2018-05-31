@@ -1,6 +1,6 @@
 ---
 title: Infinity
-layout: project
+date: 2017-09-10
 categories: work live
 image: infinity.jpg
 credit: >-

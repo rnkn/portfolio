@@ -1,6 +1,6 @@
 ---
 title: Clara
-layout: project
+date: 2012-10-30
 categories: work screenwriting directing filmmaking
 image: clara.jpg
 youtube_id: FcsA2XTeIFQ

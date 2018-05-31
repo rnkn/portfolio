@@ -1,6 +1,6 @@
 ---
 title: And He Sleeps
-layout: project
+date: 2015-02-09
 categories: work directing editing filmmaking
 image: and-he-sleeps.jpg
 youtube_id: YS-Y_Oix7Ds

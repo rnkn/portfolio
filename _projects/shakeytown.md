@@ -1,6 +1,6 @@
 ---
 title: Shakeytown
-layout: project
+date: 2009-09-03
 categories: work directing editing filmmaking
 image: shakeytown.jpg
 youtube_id: 03-7I2H3cxE

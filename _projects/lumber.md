@@ -1,6 +1,6 @@
 ---
 title: Lumber
-layout: project
+date: 2016-11-09
 categories: work directing editing filmmaking
 image: lumber.jpg
 youtube_id: p6NyBDdxdW0

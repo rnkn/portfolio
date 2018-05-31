@@ -1,6 +1,6 @@
 ---
 title: Score for a Mineral Landscape
-layout: project
+date: 2013-09-20
 categories: work filmmaking
 published: false
 ---

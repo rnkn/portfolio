@@ -1,6 +1,6 @@
 ---
 title: Quiet on Earth
-layout: project
+date: 2017-03-03
 categories: work screenwriting
 image: quiet-on-earth.jpg
 ---

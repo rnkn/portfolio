@@ -1,6 +1,6 @@
 ---
 title: River
-layout: project
+date: 2010-03-03
 categories: work directing editing filmmaking
 image: river.jpg
 youtube_id: KmAG55Rx0Y0

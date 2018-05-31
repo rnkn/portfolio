@@ -1,7 +1,7 @@
 ---
 title: Wilderness of Mirrors
-layout: project
-categories: work directing editing filmmaking
+date: 2014-04-14
+categories: filmmaking
 image: guillotines-and-kingmakers.jpg
 youtube_id: qhP9MTfiLBY
 vimeo_id: 92000456
@@ -26,4 +26,4 @@ Related press:
 - [donaufestival](https://www.donaufestival.at/en/festival/program/150-lawrence-english?set_language=en)
 
 [lawrence english]: http://www.lawrenceenglish.com
-[dark mofo]: {% link _posts/2017-04-08-dark-mofo.md %}
+[dark mofo]: {% link _projects/dark-mofo.md %}

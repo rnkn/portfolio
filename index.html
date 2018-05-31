@@ -9,8 +9,9 @@ keyboard: g h
     {% include contact.html %}
 </aside>
 <main class="home">
-    {% for item in site.categories.work %}
-    <div class="card">
+    {% assign items = site.projects | where: "categories",  "work" | sort: date | reverse %}
+    {% for item in items %}
+    <div class="index">
         {% include project.html title=item.title url=item.url date=item.date image=item.image excerpt=item.excerpt credit=item.credit %}
     </div>
     {% endfor %}
