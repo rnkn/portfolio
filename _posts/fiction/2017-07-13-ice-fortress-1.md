@@ -1,11 +1,10 @@
 ---
 title: Ice Fortress One
+date: 2017-07-13 15:15
 layout: article
-categories:
-  - writing
-  - fiction
-  - microfiction
+category: writing fiction microfiction
 ---
+
 <https://www.nytimes.com/interactive/2017/06/09/climate/antarctica-rift-update.html>
 
 Dear friends,
