@@ -8,9 +8,7 @@ repository: "rnkn/paulwrankin.com"
 github_username: "rnkn"
 date_format: "%-d %B %Y"
 future: true
-assets: "/assets/"
-include:
-  - _redirects
+assets: "/images/"
 exclude:
   - Gemfile
   - Gemfile.lock
