@@ -13,7 +13,7 @@ layout: null
   <author>
     <name>{{ site.title | xml_escape }}</name>
   </author>
-  <rights>{{ site.copyright | xml_escape }}</rights>
+  <rights>{{ site.copyright | smartify | xml_escape }}</rights>
   {% for item in site.posts %}
   <entry>
     {% if item.layout != "post" %}
