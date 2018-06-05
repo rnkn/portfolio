@@ -1,8 +1,9 @@
 ---
 title: Australian Film Checklist
-date: 2018-03-23 18:45 
+date: 2018-03-23 18:45
 layout: article
 ---
+
 - A family with a dark secret
 - A small town
 - A young woman on the cusp of her sexuality
