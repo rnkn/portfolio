@@ -9,10 +9,10 @@ keyboard: g e
 {% for item in site.categories.microfiction %}
 <p><a href="{{ item.url }}">{{ item.title }}</a> &ndash; {{ item.date | date: "%B %Y" }}</p>
 {% endfor %}
-<p><a href="{% link _projects/zuckerberg.html %}">Mark Zuckerberg Fan-Fiction</a></p>
+<p><a href="{% link _projects/zuckerberg.html %}">Mark Zuckerberg Fan-Fiction</a>  &ndash; {{ "2013-12-26" | date: "%B %Y" }}</p>
 
 <h2>Code</h2>
 {% assign items = site.projects | where: "categories",  "code" | sort: date %}
 {% for item in items %}
-<p><a {% if item.external_url %}href="{{ item.external_url }}" target="_blank"{% else %}href="{{ item.url }}"{% endif %}>{{ item.title }}</a> &ndash; {{ item.excerpt | remove: "<p>" | remove: "</p>" }}</p>
+<p><a href="{{ item.external_url }}">{{ item.title }}</a> &ndash; {{ item.excerpt | remove: "<p>" | remove: "</p>" }}</p>
 {% endfor %}
