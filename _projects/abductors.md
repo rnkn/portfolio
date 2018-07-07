@@ -5,7 +5,6 @@ categories: work screenwriting
 image: abductors.jpg
 vimeo_id: 110632585
 ---
-
 Feature screenplay.
 
 In the depths of the jungles of Honduras, a misanthropic foreign aid doctor,
@@ -22,4 +21,4 @@ fight for survival against malevolent child-snatching creatures.
 >
 > -- The Black List
 
-Available [upon request](/contact/).
+Available upon request.
