@@ -2,63 +2,225 @@
 layout: null
 ---
 
-$font-color: rgb(50,50,50);
-$font-stack: "Europa", "Avenir Next", "Avenir", "Helvetica Neue", "Helvetica", sans-serif;
-$faded-font-color: rgb(160,160,160);
-$link-underline: rgb(210,210,210);
+$font-size: 18px;
+$small-size: 0.9rem;
+$larger-size: 1.1rem;
+$font-color: rgba(0,0,0,0.65);
+$faded-color: rgba(0,0,0,0.25);
+$font-stack: "Fanwood", "Georgia", serif;
+$h-font-stack: $font-stack;
+$spacer: 4rem;
+// $mobile-width: 768px;
+$mobile-width: 720px;
+$side-menu-width: 180px;
 
-html, body { -webkit-text-size-adjust: none; }
+@mixin prefix($prop, $value) {
+  -webkit-#{$prop}: $value;
+  -moz-#{$prop}: $value;
+  -ms-#{$prop}: $value;
+  -o-#{$prop}: $value;
+  $prop: $value;
+}
 
-body {
+@mixin row($width) {
+  font-size: 0;
+  width: $width;
+}
+
+@mixin col($col, $sum, $gutter: 0, $align: top) {
+  display: inline-block;
+  font-size: $font-size;
+  width: 100%;
+  padding: 0 $gutter;
+
+  @media only screen and (min-width: $mobile-width) {
+    width: percentage($col/$sum);
+    vertical-align: $align;
+  }
+}
+
+@mixin desktop-only() {
+  @media only screen and (min-width: $mobile-width) {
+    @content;
+  }
+}
+
+@mixin vertical-center() {
+   position: relative;
+   top: 50%;
+   @include prefix(transform, translateY(-50%));
+}
+
+*, *:after, *:before {
+  @include prefix(box-sizing, border-box);
+}
+
+html {
   margin: 0;
   padding: 0;
+  font-size: $font-size;
+  -webkit-text-size-adjust: none;
+}
+
+body {
   color: $font-color;
   font-family: $font-stack;
-  line-height: 1.5em;
-  p, li, dt, dd {
-    a {
-      border-bottom: 1px solid $link-underline;
-      &:hover { border-bottom-color: inherit; }
-    }
+  line-height: 1.5rem;
+}
+
+h1, h2 {
+  font-family: $h-font-stack;
+  a:hover { border-bottom: $font-color solid 1px; }
+}
+
+h1 {
+  font-size: 1.3rem;
+}
+
+h2 {
+  font-size: 1rem;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+#container {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  right: $side-menu-width;
+  background-color: white;
+  transition: right 0.5s ease;
+}
+
+#side-menu {
+  font-size: $larger-size;
+  width: $side-menu-width;
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding: 15px;
+  @include desktop-only {
+    display: none;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+  }
+}
+
+input[type=checkbox] {
+   display: none;
+}
+
+input:checked ~ #container {
+    right: 0;
+}
+
+input:checked ~ label {
+    right: 15px;
+}
+
+label {
+  z-index: 20;
+  position: fixed;
+  top: 15px;
+  right: $side-menu-width + 15px;
+  @include prefix(transition, right 0.5s);
+  @include desktop-only {
+    display: none;
   }
 }
 
 header {
-  margin: 0 0 2em;
-  padding: 0 15px;
-  p {
-    line-height: 2;
-    a {
-      padding: 0 0.5ex;
+  @include row(100%);
+  position: fixed;
+  top: 0;
+  z-index: 10;
+
+  #title {
+    @include col(2,5,20px);
+  }
+
+  #role {
+    display: none;
+    @include desktop-only {
+      @include col(1,5);
+      font-size: $larger-size;
+    }
+  }
+
+  #menu {
+    display: none;
+    @include desktop-only {
+      @include col(2,5);
+      font-size: $larger-size;
+
+      li {
+        display: inline;
+        padding: 0 2px;
+      }
     }
   }
 }
 
-article p, ol, ul {
-  font-weight: 300;
-}
-
-main {
-  img { width: 100%; }
+#content {
+  max-width: 960px;
+  margin: 6rem auto 0;
+  p,li {
+    a {
+      border-bottom: $faded-color solid 1px;
+      @include prefix(transition, 0.5s);
+      &:hover {
+        border-bottom: $font-color solid 1px;
+      }
+    }
+  }
+  img {
+    width: 100%;
+  }
   iframe { width: 100%; }
 }
 
-main.home {
-  float: left;
-  clear: none;
-  max-width: 600px;
+article {
+  @include col(3,5,20px);
+  margin-bottom: $spacer;
 }
 
-main.project {
-  max-width: 720px;
-  margin: 0 auto 6em;
-  .hero {
-    margin: 2em 0;
+.project {
+  margin-bottom: $spacer;
+  .description {
+    @include row(100%);
   }
-  article {
-    padding: 0 10%;
+  .title {
+    @include col(1,2);
+  }
+  .excerpt {
+    @include col(1,2);
+  }
+  .date {
+    color: $faded-color;
   }
 }
+
+
+
+
+// main.project {
+//   max-width: 720px;
+//   margin: 0 auto 6em;
+//   .hero {
+//     margin: 2em 0;
+//   }
+//   article {
+//     padding: 0 10%;
+//   }
+// }
 
 article.post {
   margin-bottom: 2em;
@@ -70,48 +232,27 @@ main.article {
   padding: 0 10%;
 }
 
-aside {
-  float: left;
-  clear: none;
-  margin: 0 0 2em;
-  padding: 0 15px;
-  max-width: 330px;
-  p {
-    font-size: 0.9em;
-    font-weight: 300;
-  }
-}
-
 footer {
-  margin: 0 0 2em;
-  padding: 0 15px;
-  clear: both;
-  font-size: 0.85em;
-  font-weight: 300;
-  color: rgb(160,160,160);
-  -webkit-font-variant-ligatures: no-common-ligatures;
-}
-
-h1 {
-  font-size: 1.5em;
-  a:hover { border-bottom: 1px solid; }
-}
-
-h2 {
-  font-size: 1.2em;
-  a:hover { border-bottom: 1px solid; }
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
+  @include row(100%);
+  @include desktop-only {
+    position: fixed;
+    bottom: 0;
+    z-index: 10;
+  }
+  .contact {
+    @include col(3, 5, 20px, baseline);
+  }
+  .copyright {
+    @include col(2, 5, 20px, baseline);
+    font-size: $small-size;
+    color: $faded-color;
+  }
 }
 
 blockquote {
   margin: 0;
-  padding: 0 1em;
-  color: rgb(80,80,80);
-  border-left: rgb(240,240,240) solid 8px;
+  padding: 0 1rem;
+  border-left: $faded-color dotted 1px;
 }
 
 dt {
@@ -124,7 +265,7 @@ dd {
 
 sup {
   line-height: 0.5;
-  font-size: 0.85em;
+  font-size: $small-size;
 }
 
 pre {
@@ -132,19 +273,11 @@ pre {
 }
 
 code {
-  font-family: Inconsolata, monospace;
+  font-size: $small-size;
 }
 
 table {
   width: 100%;
-}
-
-.index {
-  float: left;
-  clear: none;
-  max-width: 500px;
-  height: 33em;
-  margin: 0 15px 2em;
 }
 
 .video {
@@ -163,25 +296,34 @@ table {
 
 .footnotes {
   margin: 0;
-  font-size: 0.85em;
+  font-size: $small-size;
 }
 
 .reversefootnote {
-  font-size: 0.65em;
+  font-size: $small-size;
 }
 
 .credit {
-  float: right;
+  display: none;
+  text-align: right;
   margin: 0;
   line-height: 1;
-  font-size: 0.85em;
+  font-size: 0.9rem;
   font-style: italic;
-  font-weight: 300;
-  text-align: right;
-  color: $faded-font-color;
+  color: $faded-color;
 }
 
-.permalink {
-  font-size: 0.85em;
-  color: $faded-font-color;
+.carousel {
+  .next-button {
+    @include vertical-center;
+    right: 2%;
+    background-color: $font-color;
+    border: 0;
+  }
+  .previous-button {
+    @include vertical-center;
+    left: 2%;
+    background-color: $font-color;
+    border: 0;
+  }
 }

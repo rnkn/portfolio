@@ -13,24 +13,40 @@
         <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed/index.xml">
         <link rel="stylesheet" href="/css/main.css">
         <link rel="stylesheet" href="https://use.typekit.net/sko8wvs.css">
-        <link href="https://micro.blog/pwr" rel="me" />
-        <script src="//cdnjs.cloudflare.com/ajax/libs/mousetrap/1.4.6/mousetrap.min.js"></script>
-        {% include shortcuts.html %}
-        {% include link-target.html %}
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/solid.css" integrity="sha384-TbilV5Lbhlwdyc4RuIV/JhD8NR+BfMrvz4BL5QFa2we1hQu6wvREr3v6XSRfCTRp" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/fontawesome.css" integrity="sha384-ozJwkrqb90Oa3ZNb+yKFW2lToAWYdTiF1vt8JiH5ptTGHTGcN7qdoR1F95e0kYyG" crossorigin="anonymous">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mousetrap/1.6.2/mousetrap.min.js" integrity="sha256-fHzjsajIgwWDvn3rf3b1IxdXX4PoIml763//KcQaA44=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/scrollReveal.js/3.4.0/scrollreveal.min.js" integrity="sha256-/Qhln+DyD9FNz0w8Ws3eZN6WAoF09ZsLPcd2tivnibk=" crossorigin="anonymous"></script>
     </head>
     <body>
-        <header>
-            <h1><a href="/">{{ site.title }}</a></h1>
-            <p>
-                {% assign items = site.sections | sort: "nav" %}
-                {% for item in items %}
-                {% if item.nav %}<a href="{{ item.url }}">{{ item.title | downcase }}</a>{% endif %}
-                {% endfor %}
-            </p>
-        </header>
-        {{ content }}
-        <footer>
-            {% include footer.html %}
-        </footer>
+        <input id="toggle-side-menu" type="checkbox" role="button" checked="true"/>
+        <label for="toggle-side-menu">
+            <i class="fas fa-bars"></i>
+        </label>
+        <nav id="side-menu">
+            {% include menu.html %}
+        </nav>
+        <div id="container">
+            <header>
+                <div id="title">
+                    <h1><a href="/">{{ site.title }}</a></h1>
+                </div>
+                <div id="role">
+                    <p>Filmmaker</p>
+                </div>
+                <div id="menu">
+                    {% include menu.html %}
+                </div>
+            </header>
+            <div id="content">
+                {{ content }}
+            </div>
+            <footer>
+                {% include footer.html %}
+            </footer>
+        </div>
+        {% include link-target.html %}
+        {% include shortcuts.html %}
+        {% include reveal.html %}
     </body>
 </html>
