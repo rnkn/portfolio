@@ -2,7 +2,7 @@
 title: The Visitors
 date: 2017-06-17
 categories: work live filmmaking
-image: visitors.jpg
+image: visitors-1.jpg
 credit: >-
   Photo by Artur Mackowiak
 ---
