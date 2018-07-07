@@ -5,12 +5,10 @@ layout: article
 category: writing fiction microfiction
 ---
 
-<https://www.nytimes.com/interactive/2017/06/09/climate/antarctica-rift-update.html>
-
 Dear friends,
 
-As some of you will undoubtedly be aware, a one-trillion ton iceberg the size of
-the US state of Delaware has broken from the Larsen C Ice Shelf of Antarctica.
+As some of you will undoubtedly be aware, [a one-trillion ton iceberg the size of
+the US state of Delaware has broken from the Larsen C Ice Shelf of Antarctica][1].
 Of course we cannot ignore this as a harbinger of the perils of global warming,
 but we can't focus on the bad news. I for one am taking this as an opportunity
 by announcing that I will shortly be moving to this gigantic iceberg and
@@ -50,3 +48,5 @@ beneath thousands of years of ice, just know I am available by return email
 telecommunication).
 
 Keep cool friends!
+
+[1]: https://www.nytimes.com/interactive/2017/06/09/climate/antarctica-rift-update.html
