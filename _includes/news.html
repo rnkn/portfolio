@@ -1,10 +1,7 @@
 {% assign news = site.data.news | sort: "date" | reverse %}
 {% for item in news | limit: include.limit %}
-<p>{{ item.date | date: site.date_format | append: ": " }}
-    {% if item.link contains "http" %}
-    <a href="{{ item.link }}" target="_blank">{{ item.news | markdownify | remove: "<p>" | remove: "</p>" }}</a>
-    {% else %}
-    <a href="{{ item.link }}">{{ item.news | markdownify | remove: "<p>" | remove: "</p>" }}</a>
-    {% endif %}
-</p>
+{% capture news_item %}
+{{ item.date | date: site.date_format | append: ": " }}<a href="{{ item.link }}">{{ item.news }}</a>
+{% endcapture %}
+{{ news_item | markdownify }}
 {% endfor %}
