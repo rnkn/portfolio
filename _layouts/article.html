@@ -1,14 +1,10 @@
 ---
 layout: default
 ---
-<main class="article">
+<article>
     {% if page.image %}
-    <div class="hero">
-        <img alt="{{ page.title }}" src="{{ page.image | prepend: site.assets }}">
-    </div>  
+    <img alt="{{ page.title }}" src="{{ page.image | prepend: site.assets }}">
     {% endif %}
-    <article>
-        <h2>{{ page.title }}</h2>
-        {{ content }}
-    </article>
-</main>
+    <h2>{{ page.title }}</h2>
+    {{ content }}
+</article>
