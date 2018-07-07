@@ -1,24 +1,32 @@
-<div class="hero">
+<div class="project">
     {% if include.youtube_id %}
     {% include youtube.html id=include.youtube_id %}
     {% elsif include.vimeo_id %}
     {% include vimeo.html id=include.vimeo_id %}
     {% elsif include.image %}
+    {% if include.link_image %}
     <a href="{{ include.url }}">
         <img class="still" alt="Still from {{ include.title }}" src="{{ include.image | prepend: site.assets }}">
     </a>
+    {% else %}
+    <img class="still" alt="Still from {{ include.title }}" src="{{ include.image | prepend: site.assets }}">
+    {% endif %}
     {% if include.credit %}
     <p class="credit">{{ include.credit }}</p>
     {% endif %}
     {% endif %}
+    <div class="description">
+        <div class="title">
+            <h2><a href="{{ include.url }}">{{ include.title }}</a></h2>
+        </div>
+        <div class="excerpt">
+            {% if include.excerpt %}
+            {{ include.excerpt }}
+            {% endif %}
+            {% if include.content %}
+            {{ include.content }}
+            {% endif %}
+            <p class="date">{{ include.date | date: "%B %Y" }}</p>
+        </div>
+    </div>
 </div>
-<article>
-    <h2><a href="{{ include.url }}">{{ include.title }}</a></h2>
-    {% if include.excerpt %}
-    {{ include.excerpt }}
-    {% endif %}
-    {% if include.content %}
-    {{ include.content }}
-    {% endif %}
-    {{ include.date | date: "%B %Y" | markdownify }}
-</article>
