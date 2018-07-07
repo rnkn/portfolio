@@ -1,7 +1,7 @@
 ---
 title: Variations on Leonard French
 date: 2017-11-18
-categories: work filmmaking live
+categories: work filmmaking
 image: variations.jpg
 credit: >-
   Photo by La Trobe Univeristy
@@ -29,9 +29,3 @@ Related press:
 [soundvision]: https://50years.latrobe/events/soundvision/
 [four]: https://commons.wikimedia.org/wiki/File:Leonard_French_La_Trobe_01.jpg
 [cps]: https://www.creativeproductionservices.com.au
-
-![]({{ "/variations-still-1.jpg" | prepend: site.assets }})
-![]({{ "/variations-still-2.jpg" | prepend: site.assets }})
-![]({{ "/variations-still-3.jpg" | prepend: site.assets }})
-![]({{ "/variations-still-4.jpg" | prepend: site.assets }})
-![]({{ "/variations-conductor.jpg" | prepend: site.assets }})
