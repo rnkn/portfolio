@@ -8,7 +8,7 @@ keyboard: "?"
         <td><code>g h</code></td>
         <td>go to <code>/</code></td>
     </tr>
-    {% assign key_items = site.pages | where_exp: "item", "item.keyboard" %}
+    {% assign key_items = site.sections | where_exp: "item", "item.keyboard" %}
     {% for item in key_items %}
     <tr>
         <td><code>{{ item.keyboard }}</code></td>
