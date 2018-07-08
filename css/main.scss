@@ -11,7 +11,9 @@ $font-stack: "Fanwood", "Georgia", serif;
 $h-font-stack: $font-stack;
 $spacer: 4rem;
 $mobile-width: 720px;
-$side-menu-width: 180px;
+$side-menu-width: 240px;
+$gutter: 20px;
+$side-menu-transition: right 0.5s ease;
 
 @mixin prefix($prop, $value) {
   -webkit-#{$prop}: $value;
@@ -58,7 +60,6 @@ html {
   margin: 0;
   padding: 0;
   font-size: $font-size;
-  -webkit-text-size-adjust: none;
 }
 
 body {
@@ -89,22 +90,25 @@ ul {
   list-style: circle;
 }
 
-#container {
+.container {
   width: 100%;
   position: absolute;
   top: 0;
-  right: $side-menu-width;
+  right: 0;
   background-color: white;
-  transition: right 0.5s ease;
+  transition: $side-menu-transition;
 }
 
-#side-menu {
+.side-menu {
   font-size: $larger-size;
   width: $side-menu-width;
+  height: 100%;
   position: fixed;
   top: 0;
-  right: 0;
-  padding: 15px;
+  right: - $side-menu-width;
+  text-align: right;
+  padding: $gutter;
+  transition: $side-menu-transition;
   @include desktop-only {
     display: none;
   }
@@ -113,7 +117,12 @@ ul {
     list-style: none;
     margin: 0;
     padding: 0;
-    text-align: right;
+  }
+  .contact {
+    font-size: $small-size;
+    position: absolute;
+    bottom: $gutter;
+    right: $gutter;
   }
 }
 
@@ -121,19 +130,23 @@ input[type=checkbox] {
    display: none;
 }
 
-input:checked ~ #container {
-    right: 0;
+input:checked ~ .container {
+  right: $side-menu-width;
 }
 
 input:checked ~ label {
-    right: 15px;
+  right: $side-menu-width + $gutter;
+}
+
+input:checked ~ .side-menu {
+  right: 0;
 }
 
 label {
   z-index: 20;
   position: fixed;
-  top: 15px;
-  right: $side-menu-width + 15px;
+  top: $gutter;
+  right: $gutter;
   @include prefix(transition, right 0.5s);
   @include desktop-only {
     display: none;
@@ -146,22 +159,22 @@ header {
   top: 0;
   z-index: 10;
 
-  #title {
-    @include col(2,5,20px);
+  .title {
+    @include col(2, 5, $gutter);
   }
 
-  #role {
+  .role {
     display: none;
     @include desktop-only {
-      @include col(1,5);
+      @include col(1, 5);
       font-size: $larger-size;
     }
   }
 
-  #menu {
+  .menu {
     display: none;
     @include desktop-only {
-      @include col(2,5);
+      @include col(2, 5);
       font-size: $larger-size;
 
       li {
@@ -172,7 +185,7 @@ header {
   }
 }
 
-#content {
+.content {
   max-width: 960px;
   margin: 6rem auto 0;
   p,li {
@@ -191,7 +204,7 @@ header {
 }
 
 article {
-  @include col(3,5,20px);
+  @include col(3, 5, $gutter);
   margin-bottom: $spacer;
 }
 
@@ -201,54 +214,34 @@ article {
     @include row(100%);
   }
   .title {
-    @include col(1,2);
+    @include col(1, 2, $gutter);
   }
   .excerpt {
-    @include col(1,2);
+    @include col(1, 2, $gutter);
   }
   .date {
     color: $faded-color;
   }
 }
 
-
-
-
-// main.project {
-//   max-width: 720px;
-//   margin: 0 auto 6em;
-//   .hero {
-//     margin: 2em 0;
-//   }
-//   article {
-//     padding: 0 10%;
-//   }
-// }
-
-article.post {
-  margin-bottom: 2em;
-}
-
-main.article {
-  max-width: 600px;
-  margin: 0 0 6em;
-  padding: 0 10%;
-}
-
 footer {
-  @include row(100%);
+  .contact {
+    display: none;
+  }
+  .copyright {
+    @include col(2, 5, $gutter, baseline);
+    color: $faded-color;
+    font-size: $small-size;
+  }
+
   @include desktop-only {
+    @include row(100%);
     position: fixed;
     bottom: 0;
     z-index: 10;
-  }
-  .contact {
-    @include col(3, 5, 20px, baseline);
-  }
-  .copyright {
-    @include col(2, 5, 20px, baseline);
-    font-size: $small-size;
-    color: $faded-color;
+    .contact {
+      @include col(3, 5, $gutter, baseline);
+    }
   }
 }
 
@@ -314,19 +307,4 @@ table {
   font-size: 0.9rem;
   font-style: italic;
   color: $faded-color;
-}
-
-.carousel {
-  .next-button {
-    @include vertical-center;
-    right: 2%;
-    background-color: $font-color;
-    border: 0;
-  }
-  .previous-button {
-    @include vertical-center;
-    left: 2%;
-    background-color: $font-color;
-    border: 0;
-  }
 }

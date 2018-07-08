@@ -19,27 +19,27 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/scrollReveal.js/3.4.0/scrollreveal.min.js" integrity="sha256-/Qhln+DyD9FNz0w8Ws3eZN6WAoF09ZsLPcd2tivnibk=" crossorigin="anonymous"></script>
     </head>
     <body>
-        <input id="toggle-side-menu" type="checkbox" role="button" checked="true"/>
+        <input id="toggle-side-menu" type="checkbox" role="button" />
         <label for="toggle-side-menu">
             <i class="fas fa-bars"></i>
         </label>
-        <nav id="side-menu">
+        <nav class="side-menu">
             {% include menu.html %}
             {% include contact.html %}
         </nav>
-        <div id="container">
+        <div class="container">
             <header>
-                <div id="title">
+                <div class="title">
                     <h1><a href="/">{{ site.title }}</a></h1>
                 </div>
-                <div id="role">
+                <div class="role">
                     <p>Filmmaker</p>
                 </div>
-                <div id="menu">
+                <div class="menu">
                     {% include menu.html %}
                 </div>
             </header>
-            <div id="content">
+            <div class="content">
                 {{ content }}
             </div>
             <footer>
