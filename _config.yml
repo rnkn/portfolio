@@ -6,7 +6,7 @@ description: >-
   Paul W. Rankin is a filmmaker based in Brisbane, Australia.
 timezone: Australia/Brisbane
 repository: rnkn/paulwrankin.com
-permalink: "blog/:year/:title/"
+permalink: ":title/"
 date_format: "%-d %B %Y"
 permalink_date_format: "%F at %-I:%M %P"
 future: true
@@ -21,16 +21,3 @@ collections:
   sections:
     output: true
     permalink: "/:path/"
-  projects:
-    output: true
-    permalink: "/:title/"
-
-defaults:
-  - scope:
-      type: posts
-    values:
-      layout: post
-  - scope:
-      type: projects
-    values:
-      layout: project

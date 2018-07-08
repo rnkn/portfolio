@@ -1,6 +1,6 @@
 ---
 title: The Abductors
-date: 2014-12-12
+layout: project
 categories: work screenwriting
 image: abductors.jpg
 vimeo_id: 110632585

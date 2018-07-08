@@ -1,11 +1,20 @@
 ---
-date: 2015-02-20 13:39
-category: news
+title: And He Sleeps
+layout: project
+categories: work directing editing filmmaking
+image: and-he-sleeps.jpg
+youtube_id: YS-Y_Oix7Ds
+vimeo_id: 118670404
 ---
 
-[And He Sleeps][1], an experimental music video I made for [Lawrence English][2]
-got released today, with nice coverage on [FACT Magazine][3].
+Video in support of [Lawrence English][lpe] album _The Peregrine_ (5 min 14 sec).
 
-[1]: {% link _projects/and-he-sleeps.md %}
-[2]: http://www.lawrenceenglish.com
-[3]: http://www.factmag.com/2015/02/19/ambient-composer-lawrence-english-announces-reissue-peregrine-shares-haunting-video-sleeps/
+Related press:
+
+- [The Quietus](http://thequietus.com/articles/17630-rum-music-russell-cuzner)
+- [FACT Magazine](http://www.factmag.com/2015/02/19/ambient-composer-lawrence-english-announces-reissue-peregrine-shares-haunting-video-sleeps/)
+- [Tiny Mix Tapes](http://www.tinymixtapes.com/news/lawrence-english-releases-vinyl-edition-of-the-peregrine-on-room40)
+- [HARTZINE](http://www.hartzine.com/lawrence-english-and-he-sleeps/)
+- [13melek](http://13melek.blogspot.com.au/2015/02/videodrome-173.html)
+
+[lpe]: http://www.lawrenceenglish.com

@@ -1,6 +1,6 @@
 ---
 title: Forgiving Noir
-date: 2014-05-07
+layout: project
 categories: work directing editing filmmaking
 image: forgiving-noir.jpg
 youtube_id: 6d3Xwbd0i7o

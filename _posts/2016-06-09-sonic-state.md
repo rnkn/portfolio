@@ -1,7 +1,7 @@
 ---
 title: Sonic State 2016
-date: 2016-06-09
-categories: work filmmaking live
+layout: project
+categories: work live
 image: sonic-state.jpg
 youtube_id: nUGHbtvttwY
 credit: >-

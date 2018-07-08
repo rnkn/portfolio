@@ -1,6 +1,6 @@
 ---
 title: Bunny Bill
-date: 2015-11-21
+layout: project
 categories: work directing editing filmmaking
 image: bunny-bill.jpg
 youtube_id: N30PP2m1d-s
@@ -19,4 +19,4 @@ Related press:
 - [Filter Mexico](http://filtermexico.com/2015/11/25/norman-westberg-de-swans-presenta-su-video-para-bunny-bill-2/)
 
 [nw]: http://normanwestberg.com/
-[MONO 21]: {% link _projects/mono-21.md %}
+[MONO 21]: {% post_url 2016-04-14-mono-21 %}

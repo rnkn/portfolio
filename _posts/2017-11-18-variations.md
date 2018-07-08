@@ -1,6 +1,6 @@
 ---
 title: Variations on Leonard French
-date: 2017-11-18
+layout: project
 categories: work filmmaking
 image: variations.jpg
 credit: >-

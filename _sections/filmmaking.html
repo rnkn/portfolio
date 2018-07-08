@@ -3,7 +3,6 @@ layout: default
 nav: 2
 keyboard: g f
 ---
-{% assign items = site.projects | where: "categories",  "filmmaking" | sort: date | reverse %}
-{% for item in items %}
+{% for item in site.categories.filmmaking %}
 {% include project.html link_image=true title=item.title url=item.url date=item.date image=item.image content=item.excerpt credit=item.credit %}
 {% endfor %}

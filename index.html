@@ -6,7 +6,6 @@ keyboard: g h
     <h2><a href="/news">News</a></h2>
     {% include news.html limit=5 %}
 </article>
-{% assign items = site.projects | where: "categories",  "work" | sort: date | reverse %}
-{% for item in items %}
+{% for item in site.categories.work %}
 {% include project.html link_image=true title=item.title url=item.url date=item.date image=item.image content=item.excerpt credit=item.credit %}
 {% endfor %}

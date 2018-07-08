@@ -4,7 +4,6 @@ layout: default
 nav: 4
 keyboard: g l
 ---
-{% assign items = site.projects | where: "categories",  "live" | sort: date | reverse %}
-{% for item in items %}
+{% for item in site.categories.live %}
 {% include project.html link_image=true title=item.title url=item.url date=item.date image=item.image excerpt=item.excerpt credit=item.credit %}
 {% endfor %}

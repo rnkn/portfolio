@@ -32,8 +32,8 @@ Queensland.
 [norman westberg]: http://normanwestberg.com
 [tamil rogeon]: http://www.tamilrogeon.com
 [heinz riegler]: http://heinzriegler.com
-[vlf]: {% link _projects/variations.md %}
-[dark mofo]: {% link _projects/dark-mofo.md %}
-[clara]: {% link _projects/clara.md %}
+[vlf]: {% post_url 2017-11-18-variations %}
+[dark mofo]: {% post_url 2017-04-08-dark-mofo %}
+[clara]: {% post_url 2012-10-30-clara %}
 [screenwriting software]: https://github.com/rnkn/fountain-mode
 [fountain]: https://fountain.io
