@@ -25,6 +25,7 @@
         </label>
         <nav id="side-menu">
             {% include menu.html %}
+            {% include contact.html %}
         </nav>
         <div id="container">
             <header>
@@ -42,7 +43,8 @@
                 {{ content }}
             </div>
             <footer>
-                {% include footer.html %}
+                {% include contact.html %}
+                {% include copyright.html %}
             </footer>
         </div>
         {% include link-target.html %}
