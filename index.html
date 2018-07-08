@@ -8,5 +8,5 @@ keyboard: g h
 </article>
 {% assign items = site.projects | where: "categories",  "work" | sort: date | reverse %}
 {% for item in items %}
-{% include project.html title=item.title url=item.url date=item.date image=item.image content=item.excerpt credit=item.credit %}
+{% include project.html link_image=true title=item.title url=item.url date=item.date image=item.image content=item.excerpt credit=item.credit %}
 {% endfor %}
