@@ -135,7 +135,7 @@ input:checked ~ .container {
 }
 
 input:checked ~ label {
-  right: $side-menu-width + $gutter;
+  right: $side-menu-width + 15px;
 }
 
 input:checked ~ .side-menu {
@@ -145,8 +145,8 @@ input:checked ~ .side-menu {
 label {
   z-index: 20;
   position: fixed;
-  top: $gutter;
-  right: $gutter;
+  top: 15px;
+  right: 15px;
   @include prefix(transition, right 0.5s);
   @include desktop-only {
     display: none;
