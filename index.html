@@ -6,6 +6,6 @@ keyboard: g h
     <h2><a href="/news">News</a></h2>
     {% include news.html limit=5 %}
 </article>
-{% for item in site.categories.work %}
+{% for item in site.categories.featured %}
 {% include project.html link_image=true title=item.title url=item.url date=item.date image=item.image content=item.excerpt credit=item.credit %}
 {% endfor %}

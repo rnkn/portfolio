@@ -1,7 +1,7 @@
 ---
 title: Bunny Bill
 layout: project
-categories: work directing editing filmmaking
+categories: work directing editing filmmaking featured
 image: bunny-bill.jpg
 youtube_id: N30PP2m1d-s
 ---
