@@ -1,7 +1,7 @@
 ---
 title: Secret Birds
 layout: project
-categories: work directing editing filmmaking
+categories: directing editing
 image: secret-birds.jpg
 vimeo_id: 5551044
 ---
