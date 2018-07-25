@@ -4,20 +4,21 @@ layout: project
 categories: work filmmaking featured
 image: variations.jpg
 credit: >-
-  Photo by La Trobe Univeristy
+  Photo by La&nbsp;Trobe Univeristy
 ---
 
-Abstract film commissioned for [La Trobe University's 50th anniversary][soundvision],
+Abstract film commissioned for [La&nbsp;Trobe University's 50th anniversary][soundvision],
 with 29-piece live orchestral score, composed by [Tamil Rogeon]
-and performed by the Australian Youth Orchestra (13 min 14 sec).
+and performed by the Australian Youth Orchestra (13 min 30 sec).
 
-Visuals created entirely from macro footage of Leonard French's [_The Four
-Seasons_][four].
+Visuals created entirely from macro footage of Leonard French's
+[_The Four Seasons_][four].
 
-Commissioned by [Creative Production Services][cps].
+Commissioned and produced by Christian Wagstaff and Keith Courtney,
+[Creative Production Services][cps].
 
-World premiere on 18 November 2017 at [soundvision], La Trobe University,
-Melbourne.
+World premiere on 18 November 2017 at [soundvision], La&nbsp;Trobe
+University, Melbourne.
 
 Related press:
 
