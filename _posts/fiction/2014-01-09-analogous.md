@@ -1,6 +1,5 @@
 ---
 title: Analogous
-layout: article
 categories:
   - writing
   - fiction

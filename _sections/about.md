@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 nav: 0
 keyboard: g a
 image: me.jpg

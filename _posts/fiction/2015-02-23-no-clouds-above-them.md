@@ -1,6 +1,5 @@
 ---
 title: There Were No Clouds Above Them
-layout: article
 categories:
   - writing
   - fiction

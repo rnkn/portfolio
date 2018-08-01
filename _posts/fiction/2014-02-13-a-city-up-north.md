@@ -1,6 +1,5 @@
 ---
 title: A City Up North
-layout: article
 categories:
   - writing
   - fiction

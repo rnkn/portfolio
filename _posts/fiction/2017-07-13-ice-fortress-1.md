@@ -1,7 +1,6 @@
 ---
 title: Ice Fortress One
 date: 2017-07-13 15:15
-layout: article
 category: writing fiction microfiction
 ---
 

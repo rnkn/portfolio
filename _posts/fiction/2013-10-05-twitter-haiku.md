@@ -1,6 +1,5 @@
 ---
 title: Twitter Haiku
-layout: article
 category: writing
 published: false
 ---

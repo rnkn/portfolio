@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
-<main class="article">
-    {% include micro.html url=page.url date=page.date image=page.image content=content %}
-</main>
+<article>
+    {% if page.image %}
+    <img alt="{{ page.title }}" src="{{ page.image | prepend: site.assets }}">
+    {% endif %}
+    <h2>{{ page.title }}</h2>
+    {{ content }}
+</article>
