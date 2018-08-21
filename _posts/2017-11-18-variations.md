@@ -3,6 +3,7 @@ title: Variations on Leonard French
 layout: project
 categories: work filmmaking featured
 image: variations.jpg
+youtube_id: cMm7sDJ5eQY
 credit: >-
   Photo by La&nbsp;Trobe Univeristy
 ---
