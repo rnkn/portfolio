@@ -6,7 +6,7 @@ image: monoakuma.jpg
 youtube_id: lWegMDewx7M
 ---
 
-Promotional video for Merzbow album _MONOAkuma_ (48 sec).
+Promotional video for Merzbow 40th anniversary album _MONOAkuma_ (48 sec).
 
 Related press:
 
