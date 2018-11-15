@@ -1,9 +1,8 @@
 ---
 layout: default
 nav: 2
-keyboard: g f
-published: false
+keyboard: g w
 ---
-{% for item in site.categories.filmmaking %}
+{% for item in site.categories.work %}
 {% include project.html link_image=true title=item.title url=item.url date=item.date image=item.image content=item.excerpt credit=item.credit %}
 {% endfor %}
