@@ -6,7 +6,7 @@ image: monoakuma.jpg
 youtube_id: lWegMDewx7M
 ---
 
-Promotional video for Merzbow 40th anniversary album _MONOAkuma_ (48 sec).
+Promotional video for [Merzbow] 40th anniversary album _MONOAkuma_ (48 sec).
 
 Related press:
 
@@ -16,3 +16,5 @@ Related press:
 - [Tiny Mix Tapes](https://www.tinymixtapes.com/news/merzbow-celebrates-40th-anniversary-new-album-monoakuma-room40)
 - [Resident Advisor](https://www.residentadvisor.net/news/42767)
 - [Resident Advisor (JP)](https://jp.residentadvisor.net/news/42770)
+
+[merzbow]: http://merzbow.net

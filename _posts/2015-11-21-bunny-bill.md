@@ -19,4 +19,4 @@ Related press:
 - [Filter Mexico](http://filtermexico.com/2015/11/25/norman-westberg-de-swans-presenta-su-video-para-bunny-bill-2/)
 
 [nw]: http://normanwestberg.com/
-[MONO 21]: {% post_url 2016-04-14-mono-21 %}
+[mono 21]: {% post_url 2016-04-14-mono-21 %}
