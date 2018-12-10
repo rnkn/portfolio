@@ -44,7 +44,9 @@
             </div>
             <footer>
                 {% include contact.html %}
-                {% include copyright.html %}
+                <div class="copyright">
+                    <p>&copy; Paul W. Rankin 2013&ndash;{{ site.time | date: "%Y" }}</p>
+                </div>
             </footer>
         </div>
         {% include link-target.html %}
