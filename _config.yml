@@ -17,6 +17,6 @@ exclude:
   - CNAME
 
 collections:
-  sections:
+  pages:
     output: true
     permalink: "/:path/"

@@ -22,9 +22,6 @@ direct the short film [Clara].
 
 The Queensland New Filmmakers Awards nominated his work in 2009 and 2010.
 
-Also a screenwriter, he has written two feature spec screenplays and created his
-own [screenwriting software] for the [Fountain] markup language.
-
 In 2013 he obtained his Bachelor’s degree in Philosophy from the University of
 Queensland.
 
