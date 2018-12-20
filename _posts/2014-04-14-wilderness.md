@@ -10,7 +10,7 @@ vimeo_id: 92000456
 Single-channel video loop in support of [Lawrence English] album _Wilderness of
 Mirrors_ (2 min 50 sec).
 
-[Dark Mofo] 2017 lineup announcement.
+Subsequently used for [Dark Mofo] 2017 lineup announcement.
 
 Related press:
 
