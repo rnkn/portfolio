@@ -21,6 +21,19 @@ Commissioned and produced by Christian Wagstaff and Keith Courtney,
 World premiere on 18 November 2017 at [soundvision], La&nbsp;Trobe
 University, Melbourne.
 
+> "Variations on Leonard French" was originally commissioned as a live
+> film and music performance, in celebration of the fiftieth anniversary
+> of La&nbsp;Trobe University in 2017. The work is based on the
+> sculptural piece by noted Australian artist Leonard French the "The
+> Four Seasons", acquired by the University in 1978 in recognition of
+> the contribution of David Myers, inaugural Vice Chancellor. This
+> contemporary reimagining of French's vision, created for the explicit
+> purpose of acknowledging the visual fabric of the University, should
+> be preserved within the cultural collections of the institution for
+> posterity.
+>
+> -- La&nbsp;Trobe University Art Collection
+
 Related press:
 
 - [La Trobe hosts world film premiere](https://www.latrobe.edu.au/news/articles/2017/release/la-trobe-hosts-world-film-premiere)
