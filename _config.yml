@@ -5,6 +5,7 @@ email: "&#104;&#101;&#108;&#108;&#111;&#64;&#112;&#97;&#117;&#108;&#119;&#114;&#
 description: >-
   Paul W. Rankin is a filmmaker based in Brisbane, Australia.
 timezone: Australia/Brisbane
+copyright: "&copy; Paul W. Rankin 2013&nbsp;&ndash;&nbsp;2018"
 repository: rnkn/paulwrankin.com
 permalink: "/:title/"
 date_format: "%-d %B %Y"
