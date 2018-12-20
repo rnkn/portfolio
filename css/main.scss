@@ -207,6 +207,9 @@ header {
 article {
   @include col(3, 5, $gutter);
   margin-bottom: $spacer;
+  .more {
+    margin-bottom: $spacer;
+  }
 }
 
 .project {
