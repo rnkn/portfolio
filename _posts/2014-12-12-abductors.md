@@ -4,9 +4,8 @@ layout: project
 categories: work screenwriting
 image: abductors.jpg
 vimeo_id: 110632585
-published: false
 ---
-Feature screenplay.
+Feature screenplay (unproduced).
 
 In the depths of the jungles of Honduras, a misanthropic foreign aid doctor,
 reeling from the loss of his family, must lead a village of Miskito natives in a
