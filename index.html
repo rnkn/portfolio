@@ -2,7 +2,7 @@
 layout: default
 keyboard: g h
 ---
-{% assign hero = site.categories.filmmaking[0] %}
+{% assign hero = site.posts | where: "id", "/variations" | first %}
 {% include project.html title=hero.title image=hero.image url="/work" link_image=true %}
 <article>
    <h2><a href="/news">News</a></h2>
