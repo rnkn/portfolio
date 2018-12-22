@@ -207,8 +207,8 @@ header {
 article {
   @include col(3, 5, $gutter);
   margin-bottom: $spacer;
-  .more {
-    margin-bottom: $spacer;
+  @include desktop-only {
+    .more { margin-bottom: $spacer; }
   }
 }
 
