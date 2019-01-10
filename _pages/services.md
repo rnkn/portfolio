@@ -11,8 +11,8 @@ If you have a project in mind, please get in touch.
 Freelance
 ---------
 
-I am available on a freelance basis as director, editor and VJ at the rates
-below.
+I am available on a freelance basis as director, editor and live visuals VJ at
+the rates below.
 
 | **Director**      |       |
 | Day               | 800   |
@@ -20,7 +20,7 @@ below.
 | **Editor**        |       |
 | Day               | 600   |
 | &frac12; Day      | 375   |
-| **Live Visuals**  |       |
+| **VJ**            |       |
 | Performance       | 500   |
 
 Director rates exclude equipment hire charges.
