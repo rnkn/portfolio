@@ -29,6 +29,8 @@ Queensland.
 [norman westberg]: {% post_url 2015-11-21-bunny-bill %}
 [jamie stewart]: {% post_url 2016-11-09-lumber %}
 [heinz riegler]: {% post_url 2016-06-09-sonic-state %}
+[tamil rogeon]: http://www.tamilrogeon.com
 [vlf]: {% post_url 2017-11-18-variations %}
 [dark mofo]: {% post_url 2017-04-08-dark-mofo %}
 [fountain mode]: https://elpa.gnu.org/packages/fountain-mode.html
+[clara]: {% post_url 2012-10-30-clara %}
