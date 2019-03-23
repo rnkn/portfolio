@@ -1,1 +1,1 @@
-Jekyll source for http://www.paulwrankin.com
+Jekyll source for https://www.paulwrankin.com
