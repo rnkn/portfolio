@@ -1,23 +1,22 @@
-title: "Paul W. Rankin"
-url: "https://www.paulwrankin.com"
-base_url: "/"
-email: "&#104;&#101;&#108;&#108;&#111;&#64;&#112;&#97;&#117;&#108;&#119;&#114;&#97;&#110;&#107;&#105;&#110;&#46;&#99;&#111;&#109;"
+title: Paul W. Rankin
+url: https://www.paulwrankin.com
+base_url: /
+email: >-
+  &#104;&#101;&#108;&#108;&#111;&#64;&#112;&#97;&#117;&#108;&#119;&#114;&#97;&#110;&#107;&#105;&#110;&#46;&#99;&#111;&#109;
 description: >-
   Paul W. Rankin is a filmmaker based in Brisbane, Australia.
 timezone: Australia/Brisbane
-copyright: "&copy; Paul W. Rankin 2013&nbsp;&ndash;&nbsp;2018"
-repository: rnkn/paulwrankin.com
-permalink: "/:title/"
-date_format: "%-d %B %Y"
+copyright: >-
+  &copy; Paul W. Rankin 2013&nbsp;&ndash;&nbsp;2018
+permalink: /:title/
+date_format: >-
+  %-d %B %Y
 future: true
-assets: "/images/"
+assets: /images/
 exclude:
-  - Gemfile
-  - Gemfile.lock
   - README.md
-  - CNAME
 
 collections:
   pages:
     output: true
-    permalink: "/:path/"
+    permalink: /:path/
