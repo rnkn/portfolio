@@ -1,0 +1,21 @@
+image: freebsd/latest
+packages:
+  - rubygem-jekyll
+  - ncftp
+sources:
+  - https://git.sr.ht/~pwr/paulwrankin.com
+environment:
+  path: /pwr.fastmail.com/files/paulwrankin.com/www
+secrets:
+  - 1c80ee49-6c82-4185-9197-b74bb51d590f
+triggers:
+  - action: email
+    condition: always
+    to: Paul W. Rankin <hello@paulwrankin.com>
+tasks:
+  - build: |
+      cd paulwrankin.com
+      jekyll build
+  - deploy: |
+      cd paulwrankin.com/_site
+      ncftpput -f $HOME/login -R ${path} *
