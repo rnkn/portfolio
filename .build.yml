@@ -5,7 +5,8 @@ packages:
 sources:
   - https://git.sr.ht/~pwr/paulwrankin.com
 environment:
-  path: /pwr.fastmail.com/files/paulwrankin.com/www
+  JEKYLL_ENV: production
+  REMOTE_PATH: /pwr.fastmail.com/files/paulwrankin.com/www
 secrets:
   - 1c80ee49-6c82-4185-9197-b74bb51d590f
 triggers:
@@ -18,4 +19,4 @@ tasks:
       jekyll build
   - deploy: |
       cd paulwrankin.com/_site
-      ncftpput -f $HOME/login -R ${path} *
+      ncftpput -f $HOME/login -R ${REMOTE_PATH} *
