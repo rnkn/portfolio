@@ -1,14 +1,15 @@
 image: freebsd/latest
 packages:
   - rubygem-jekyll
-  - ncftp
+  - lftp
 sources:
   - https://git.sr.ht/~pwr/paulwrankin.com
 environment:
   JEKYLL_ENV: production
-  REMOTE_PATH: /pwr.fastmail.com/files/paulwrankin.com/www
+  HOST: https://myfiles.fastmail.com
+  REMOTE_PATH: /paulwrankin.com/www
 secrets:
-  - 1c80ee49-6c82-4185-9197-b74bb51d590f
+  - 663f93d3-0e8f-4bd7-915a-6294b321128a
 triggers:
   - action: email
     condition: always
@@ -18,5 +19,5 @@ tasks:
       cd paulwrankin.com
       jekyll build
   - deploy: |
-      cd paulwrankin.com/_site
-      ncftpput -f $HOME/login -R ${REMOTE_PATH} *
+      cd paulwrankin.com
+      lftp -c "open --user pwr@fastmail.com ${HOST}; mirror --reverse --only-newer --delete _site ${REMOTE_PATH}"
