@@ -3,7 +3,7 @@ title: MONOAkuma
 layout: project
 categories: work featured filmmaking
 image: monoakuma.jpg
-youtube_id: lWegMDewx7M
+youtube_id: JAeA5C3CnFI
 ---
 
 Promotional video for [Merzbow] 40th anniversary album _MONOAkuma_ (48 sec).
