@@ -1,6 +1,0 @@
-{% assign items = site.pages | where_exp: "item", "item.nav" | sort: "nav" %}
-<ul>
-    {% for item in items %}
-    <li><a href="{{ item.url }}">{{ item.title | downcase }}</a></li>
-    {% endfor %}
-</ul>

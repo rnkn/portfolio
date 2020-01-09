@@ -1,7 +1,0 @@
-{% assign news = site.data.news | sort: "date" | reverse %}
-{% for item in news | limit: include.limit %}
-{% capture news_item %}
-{{ item.date | date: site.date_format | append: ": " }}<a href="{{ item.link }}">{{ item.news }}</a>
-{% endcapture %}
-{{ news_item | markdownify }}
-{% endfor %}
