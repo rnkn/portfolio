@@ -1,0 +1,60 @@
+---
+title: Reading List
+layout: default
+---
+
+- [X] Nick Cave - And the Ass Saw the Angel
+- [X] Bret Easton Ellis - Less Than Zero
+- [X] Bret Easton Ellis - The Rules of Attraction
+- [X] Bret Easton Ellis - American Psycho
+- [X] Bret Easton Ellis - The Informers
+- [X] Bret Easton Ellis - Glamorama
+- [X] Bret Easton Ellis - Lunar Park
+- [X] Bret Easton Ellis - Imperial Bedrooms
+- [X] Jean-Paul Sartre - Nausea
+- [X] Judith Weston - Directing Actors
+- [X] Jonathan Franzen - The Corrections
+- [X] Jonathan Franzen - Freedom
+- [X] James McFay - Emergency? Yeah!
+- [X] Nicholas John Turner - Hang Him When He is Not There
+- [X] Ernest Hemingway - For Whom the Bell Tolls
+- [X] Ernest Hemingway - The First 49 Stories
+- [X] Jonathan Franzen - Purity
+- [X] Ernest Hemingway - The Old Man and the Sea
+- [X] Haruki Murakami - The Wind-Up Bird Chronicle
+- [X] Ernest Hemingway - The Sun Also Rises
+- [ ] Joseph Campbell - The Hero with a Thousand Faces
+- [ ] Andrei Tarkovsky - Sculpting in Time
+- [ ] The Peregrine
+- [ ] Joseph V. Mascelli - The Five C's of Cinematography
+- [ ] Martin Heidegger - Being and Time
+- [ ] Alan W. Watts - The Way of Zen
+- [ ] Zadie Smith - White Teeth
+- [ ] James Bridle - New Dark Age
+- [ ] David Foster Wallace - Infinite Jest
+- [ ] Richard Rorty - Philosophy and the Mirror of Nature
+- [ ] Gabriel Garcia Marquez - One Hundred Years of Solitude
+- [ ] Jean-Paul Sartre - Being and Nothingness
+- [ ] Jared Diamond - Collapse: How Societies Choose to Fail or Succeed
+- [ ] James Joyce - Ulysses
+- [ ] James Joyce - A Portrait of the Artist as a Young Man
+- [ ] Cormac McCarthy - No Country For Old Men
+- [ ] Cormac McCarthy - The Road
+- [ ] Ernest Hemingway - A Farewell to Arms
+- [ ] Ernest Hemingway - A Moveable Feast
+- [ ] Ernest Hemingway - Across the River and Into the Trees
+- [ ] Ernest Hemingway - Green Hills of Africa
+- [ ] Vladimir Nabokov - Lolita
+- [ ] George Orwell - 1984
+- [ ] Anthony Burgess - A Clockwork Orange
+- [ ] Henry David Thoreau - Walden
+- [ ] Fyodor Dostoevsky - Notes from Underground
+- [ ] Fyodor Dostoevsky - The Brothers Karamazov
+- [ ] Fyodor Dostoevsky - Crime and Punishment
+- [ ] Richard Ford - The Sportwriter
+- [ ] Joseph Heller - Catch-22
+- [ ] P.D. James - Children of Men
+- [ ] Franz Kafka - Metamorphosis
+- [ ] Carl Sagan - Contact
+- [ ] Mary Shelley - Frankenstein
+- [ ] Bram Stoker - Dracula
