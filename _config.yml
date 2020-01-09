@@ -1,16 +1,8 @@
-title: Paul W. Rankin
-url: https://www.paulwrankin.com
-base_url: /
-email: >-
-  &#104;&#101;&#108;&#108;&#111;&#064;&#112;&#097;&#117;&#108;&#119;&#114;&#097;&#110;&#107;&#105;&#110;&#046;&#099;&#111;&#109;
+title: x2501
 description: >-
-  Paul W. Rankin is a filmmaker based in Brisbane, Australia.
-timezone: Australia/Brisbane
-copyright: >-
-  &copy; Paul W. Rankin 2013&nbsp;&ndash;&nbsp;2020
-permalink: /:title/
-date_format: >-
-  %-d %B %Y
-assets: /images/
-exclude:
-  - README.md
+  The personal site of Paul W. Rankin
+permalink: /:path/
+plugins:
+  - jekyll-relative-links
+kramdown:
+  input: kramdown
