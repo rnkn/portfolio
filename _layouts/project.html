@@ -1,4 +1,14 @@
 ---
 layout: default
 ---
-{% include project.html title=page.title date=page.date image=page.image credit=page.credit description=page.description content=page.content vimeo_id=page.vimeo_id youtube_id=page.youtube_id %}
+{% if page.youtube_id %}
+{%- include youtube.html id=page.youtube_id -%}
+{% elsif page.vimeo_id %}
+{%- include vimeo.html id=page.vimeo_id -%}
+{% elsif page.image %}
+<img class="still" alt="Still from {{ page.title }}" src="{{ page.image | prepend: site.assets }}">
+{% endif %}
+<h2>{{ page.title }}</h2>
+{% if page.content %}
+{{- page.content -}}
+{% endif %}
