@@ -1,16 +1,13 @@
 ---
 title: Wilderness of Mirrors
 layout: project
-categories: work filmmaking
 image: guillotines-and-kingmakers.jpg
-youtube_id: qhP9MTfiLBY
+youtube_id: PgcniXuRwso
 vimeo_id: 92000456
 ---
+Video in support of [Lawrence English] album _Wilderness of Mirrors_.
 
-Single-channel video loop in support of [Lawrence English] album _Wilderness of
-Mirrors_ (2 min 50 sec).
-
-Subsequently used for [Dark Mofo] 2017 lineup announcement.
+Also used for [Dark Mofo 2017 midnight lineup reveal][dmf].
 
 Related press:
 
@@ -26,4 +23,4 @@ Related press:
 - [donaufestival](https://www.donaufestival.at/en/festival/program/150-lawrence-english?set_language=en)
 
 [lawrence english]: http://www.lawrenceenglish.com
-[dark mofo]: {% post_url 2017-04-08-dark-mofo %}
+[dmf]: https://www.youtube.com/watch?v=65pqjtrGpQM

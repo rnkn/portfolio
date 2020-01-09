@@ -1,12 +1,12 @@
 ---
 title: MONOAkuma
 layout: project
-categories: work featured filmmaking
 image: monoakuma.jpg
 youtube_id: JAeA5C3CnFI
 ---
 
-Promotional video for [Merzbow] 40th anniversary album _MONOAkuma_ (48 sec).
+Promotional video for [Merzbow] 40th anniversary album _MONOAkuma_ and
+performances at [The Substation].
 
 Related press:
 
@@ -18,3 +18,4 @@ Related press:
 - [Resident Advisor (JP)](https://jp.residentadvisor.net/news/42770)
 
 [merzbow]: http://merzbow.net
+[the substation]: https://thesubstation.org.au/

@@ -1,15 +1,13 @@
 ---
 title: Bunny Bill
 layout: project
-categories: work directing editing filmmaking featured
 image: bunny-bill.jpg
-youtube_id: N30PP2m1d-s
+youtube_id: YTSITXtVJ2s
 ---
+Video in support of [Norman Westberg][nw] (Swans) solo album _13_.
 
-Video in support of [Norman Westberg][nw] (Swans) solo album _13_
-(10 min 30 sec).
-
-Later reworked for Norman Westberg's live performance at [MONO 21].
+45 min extended version screened for Norman Westberg live performances at
+[MONO 21] and at [Milton Art Bank][mab].
 
 Related press:
 
@@ -19,4 +17,5 @@ Related press:
 - [Filter Mexico](http://filtermexico.com/2015/11/25/norman-westberg-de-swans-presenta-su-video-para-bunny-bill-2/)
 
 [nw]: http://normanwestberg.com/
-[mono 21]: {% post_url 2016-04-14-mono-21 %}
+[mono 21]: https://www.youtube.com/watch?v=AzGA39JfX5k
+[mab]: https://miltonartbank.com/wp-content/uploads/2019/05/MAB-Westberg-front.jpg

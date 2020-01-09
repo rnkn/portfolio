@@ -1,19 +1,16 @@
 ---
 title: Variations on Leonard French
 layout: project
-categories: work filmmaking featured
 image: variations.jpg
-youtube_id: cMm7sDJ5eQY
 credit: >-
   Photo by La&nbsp;Trobe Univeristy
 ---
-
 Abstract film commissioned for [La&nbsp;Trobe University's 50th anniversary][soundvision],
 with 29-piece live orchestral score, composed by [Tamil Rogeon]
-and performed by the Australian Youth Orchestra (13 min 30 sec).
+and performed by the Australian Youth Orchestra.
 
 Visuals created entirely from macro footage of Leonard French's
-[_The Four Seasons_][four].
+"[The Four Seasons][four]".
 
 Commissioned and produced by Christian Wagstaff and Keith Courtney,
 [Creative Production Services][cps].
