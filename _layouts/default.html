@@ -1,6 +1,11 @@
 ---
 layout: base
 ---
-{{ content }}
-<hr>
-<p><a href="/">&lt; home</a></p>
+<main>
+    <h2>{{ page.title | smartify }}</h2>
+    {{ content | remove: '[ ] ' | replace: '<li>[X] ', '<li class="strikethrough"> ' }}
+<footer>
+    <a href="/">~</a>
+    <a href="/all/">*</a>
+</footer>
+</main>
