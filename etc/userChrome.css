@@ -1,0 +1,61 @@
+#titlebar {
+  -moz-box-ordinal-group: 2;
+}
+
+.toolbar-items {
+  background: linear-gradient(rgb(215,215,215), rgb(205,205,205));
+}
+
+#alltabs-button {
+  visibility: visible !important;
+}
+
+.tab-line {
+  display: none;
+}
+
+.tab-background[selected="true"] {
+  border-top-style: none !important;
+}
+
+.tab-content {
+    padding: 0 8px;
+}
+
+.tab-close-button {
+  -moz-box-ordinal-group: 0;
+  margin-inline-end: 5px !important;
+}
+
+.toolbarbutton-icon {
+  filter: grayscale(1.0);
+}
+
+.tabbrowser-tab::after, .tabbrowser-tab::before {
+  opacity: 0.2 !important;
+}
+
+#personal-bookmarks {
+  -moz-box-flex: inherit;
+}
+
+#PlacesToolbarItems {
+  -moz-box-pack: center;
+}
+
+toolbarbutton#appMenu-logins-button {
+  display: none;
+}
+
+menu#fill-login, menu#fill-login + menuseparator {
+  display: none;
+}
+
+toolbox#navigator-toolbox {
+  border-bottom: 0.5px rgba(0,0,0,0.2) solid !important;
+  box-shadow: 0 0 5px 0px rgba(0,0,0,0.2);
+}
+
+#ublock0_raymondhill_net-browser-action {
+  filter: grayscale(1.0);
+}
