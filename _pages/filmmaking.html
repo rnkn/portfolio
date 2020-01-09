@@ -1,9 +1,0 @@
----
-layout: default
-nav: 2
-keyboard: g f
-published: false
----
-{% for item in site.categories.filmmaking %}
-{% include project.html link_image=true title=item.title url=item.url date=item.date image=item.image content=item.excerpt credit=item.credit %}
-{% endfor %}
