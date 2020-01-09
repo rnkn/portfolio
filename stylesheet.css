@@ -1,0 +1,82 @@
+---
+layout: null
+---
+
+@font-face {
+    font-family: "ChicagoFLF";
+    src: url("{{ '/fonts/chicagoflf-webfont.woff2' | relative_url }}") format("woff2"),
+         url("{{ '/fonts/chicagoflf-webfont.woff' | relative_url }}") format("woff");
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  background-image:
+    repeating-linear-gradient(-25deg, white, white 4px, black, black 5px);
+}
+
+body {
+  -webkit-text-size-adjust: none;
+  max-width: 640px;
+  margin: 4em;
+  font-size: 16px;
+  font-family: "ChicagoFLF", monospace;
+  line-height: 1.2;
+  color: black;
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: normal;
+}
+
+blockquote {
+  margin: 0;
+  color: grey;
+  border-left: 5px solid lightgray;
+  padding-left: 1em;
+}
+
+main {
+  padding: 4em;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  box-shadow: 5px 5px black;
+  background-color: white;
+}
+
+main a {
+  color: inherit;
+}
+
+main a:hover {
+  color: white;
+  background-color: black;
+}
+
+main img {
+  max-width: 100%;
+}
+
+footer {
+  margin-top: 2em;
+  color: lightgrey;
+  text-align: center;
+}
+
+footer a {
+  text-decoration: none;
+  padding: 0 1em;
+}
+
+footer a:not(:first-child) {
+  margin-left: 1em;
+}
+
+.strikethrough {
+  text-decoration: line-through;
+}
+
+hr {
+  margin: 2em;
+}
