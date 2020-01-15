@@ -29,7 +29,9 @@ the plain-text [Fountain] markup language.
 # Hire
 
 I'm available for hire as writer/director/editor. I specialise in the
-arts sector. Here is some of [my&nbsp;work](/work/).
+arts sector.
+
+Here is some of [my&nbsp;work](/work/).
 
 ---
 
