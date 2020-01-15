@@ -21,10 +21,10 @@ In the depths of the Honduran jungle, an alcoholic foreign-aid doctor
 who has lost everything must lead a village of Miskito natives in a
 fight against child-snatching goblins.
 
-## [Fountain Mode]
+## [Fountain Mode][]
 
 The open source scriptwriting program for the GNU Emacs platform, using
-the plain-text [Fountain] markup language.
+the plain-text [Fountain][] markup format.
 
 # Hire
 
@@ -37,5 +37,5 @@ Here is some of [my&nbsp;work](/work/).
 
 <mailto:{{ site.email }}>
 
-[fountain mode]: https://fountain-mode.org/
+[fountain mode]: https://github.com/rnkn/fountain-mode/
 [fountain]: https://fountain.io/
