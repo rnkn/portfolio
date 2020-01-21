@@ -5,7 +5,7 @@ layout: default
 Paul W. Rankin (b. 1984, Australia) is a writer, filmmaker and video
 artist.
 
-He has collaborated with internationally renound artists including
+He has collaborated with internationally renowned artists including
 [Lawrence English], [Jamie Stewart], [Norman Westberg], [I&nbsp;Heart
 Hiroshima][ihh], and [Heinz Riegler], and his work has featured in [Dark
 Mofo], [Carriageworks], [IMA], and [Queensland Art Gallery][qag].
