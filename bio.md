@@ -6,9 +6,10 @@ Paul W. Rankin (b. 1984, Australia) is a writer, filmmaker and video
 artist.
 
 He has collaborated with internationally renowned artists including
-[Lawrence English], [Jamie Stewart], [Norman Westberg], [I&nbsp;Heart
-Hiroshima][ihh], and [Heinz Riegler], and his work has featured in [Dark
-Mofo], [Carriageworks], [IMA], and [Queensland Art Gallery][qag].
+[Lawrence English][], [Jamie Stewart][], [Norman Westberg][],
+[I&nbsp;Heart Hiroshima][ihh], and [Heinz Riegler][], and his work has
+featured in [Dark Mofo][], [Carriageworks][], [Metro Arts][], [IMA][],
+and [Queensland Art Gallery][qag].
 
 In 2017 he was commissioned to create the abstract film [_Variations on
 Leonard French_][vlf] for La&nbsp;Trobe University's 50th anniversary,
@@ -29,3 +30,4 @@ Youth Orchestra.
 [ima]: https://ima.org.au/
 [qag]: https://www.qagoma.qld.gov.au/
 [fulcrum arts]: https://www.fulcrumarts.org/
+[metro arts]: https://metroarts.com.au
