@@ -1,0 +1,22 @@
+---
+layout: base
+---
+<h1>Hello.</h1>
+
+<p>My name is Paul W. Rankin. I'm a filmmaker currently based in Brisbane, Australia. A selection of my past work is below, and here is <a href="/bio/">my professional bio</a>.</p>
+
+<p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+
+<hr/>
+
+{% for post in site.posts %}
+
+<div class="project">
+    <img class="still" alt="Still from {{ post.title }}" src="{{ post.image | prepend: site.assets }}">
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    {% if post.content %}
+    {{- post.content -}}
+    {% endif %}
+</div>
+
+{% endfor %}

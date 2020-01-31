@@ -3,18 +3,40 @@ layout: null
 ---
 
 body {
-  font-family: "Courier Prime", Courier, monospace;
-  font-size: 14px;
-  margin: 4em;
-  max-width: 550px;
+  font-family: "Times New Roman", serif;
+  margin: 4em auto;
+  max-width: 600px;
 }
 
-h1, h2, h3 {
+a {
+  color: inherit;
+  &:hover {
+    color: white;
+    background-color: black;
+  }
+}
+
+h1, h2 {
   font-weight: normal;
+  font-style: italic;
+}
+
+h1 {
+  font-size: 4rem;
+  line-height: 1rem;
+}
+
+h2 {
+  font-size: 3rem;
+  line-height: 1rem;
 }
 
 img {
   width: 100%;
+}
+
+hr {
+  margin: 3em 0;
 }
 
 .project {
