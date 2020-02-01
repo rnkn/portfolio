@@ -4,7 +4,8 @@ layout: project
 image: bunny-bill.jpg
 youtube_id: YTSITXtVJ2s
 ---
-Video in support of [Norman Westberg][nw] (Swans) solo album _13_.
+
+Music video in support of [Norman Westberg][nw] (Swans) solo album _13_.
 
 45 min extended version screened for Norman Westberg live performances at
 [MONO 21] and at [Milton Art Bank][mab].

@@ -8,12 +8,11 @@ credit: >-
   Photo by Bryan Spencer
 ---
 
-Live visual performance with [Heinz Riegler][hr]
-at [Metro Arts][metro] in Brisbane.
+Live visual performance with [Heinz Riegler][hr] at [Metro Arts][metro]
+in Brisbane.
 
-An improvised 40-minute set on the theme of creation and collapse. No computer
-generated imagery is used for the visuals, all video is practical effects,
-layered and mixed live.
+An improvised 40-minute set on the theme of creation and collapse. All
+video created with practical effects, layered and mixed live.
 
 [hr]: http://heinzriegler.com
 [metro]: https://www.metroarts.com.au/events/sonic-state/

@@ -5,6 +5,7 @@ image: variations.jpg
 credit: >-
   Photo by La&nbsp;Trobe Univeristy
 ---
+
 Abstract film commissioned for [La&nbsp;Trobe University's 50th anniversary][soundvision],
 with 29-piece live orchestral score, composed by [Tamil Rogeon]
 and performed by the Australian Youth Orchestra.

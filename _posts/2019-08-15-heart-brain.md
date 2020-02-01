@@ -5,6 +5,8 @@ image: heart-and-brain.jpg
 youtube_id: fgcOA9jrqsI
 ---
 
-Music video for band Big Dead. Animation by [Declan East].
+Music video in support of [Big Dead][] album _Bone White Branches_.
+Animation by [Declan East][].
 
+[big dead]: https://bigdead.bandcamp.com
 [declan east]: https://vimeo.com/declaneast

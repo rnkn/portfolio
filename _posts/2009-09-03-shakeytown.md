@@ -7,12 +7,10 @@ youtube_id: 03-7I2H3cxE
 vimeo_id: 6425231
 ---
 
-Video in support of [I Heart Hiroshima][ihh] album _The Rip_
-(3 min 33 sec).
+Music video in support of [I Heart Hiroshima][ihh] album _The Rip_.
 
-_Rage_ "Indie Video of the Week" 19 September 2009.
-
-Best Music Video (nominated) -- Queensland New Filmmakers Awards 2010.
+- _Rage_ "Indie Video of the Week" 19 September 2009.
+- Best Music Video (nominated) -- Queensland New Filmmakers Awards 2010.
 
 Related press:
 
