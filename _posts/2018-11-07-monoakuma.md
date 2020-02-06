@@ -1,6 +1,7 @@
 ---
 title: MONOAkuma
 layout: project
+categories: editing filmmaking featured
 image: monoakuma.jpg
 youtube_id: JAeA5C3CnFI
 ---

@@ -1,6 +1,7 @@
 ---
 title: Open Frame 2019
 layout: project
+categories: editing filmmaking featured
 image: open-frame.jpg
 youtube_id: Q8m131x8iEY
 ---

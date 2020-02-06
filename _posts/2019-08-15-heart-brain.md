@@ -1,6 +1,7 @@
 ---
 title: Heart and Brain
 layout: project
+categories: directing editing filmmaking featured
 image: heart-and-brain.jpg
 youtube_id: fgcOA9jrqsI
 ---

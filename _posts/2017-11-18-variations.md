@@ -1,6 +1,7 @@
 ---
 title: Variations on Leonard French
 layout: project
+categories: directing editing filmmaking featured
 image: variations.jpg
 credit: >-
   Photo by La&nbsp;Trobe Univeristy
