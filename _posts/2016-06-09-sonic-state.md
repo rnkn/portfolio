@@ -1,7 +1,7 @@
 ---
 title: Sonic State 2016
 layout: project
-categories: filmmaking live featured
+categories: filmmaking live featured projection
 image: sonic-state.jpg
 youtube_id: nUGHbtvttwY
 credit: >-

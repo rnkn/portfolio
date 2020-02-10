@@ -7,9 +7,10 @@ youtube_id: PgcniXuRwso
 vimeo_id: 92000456
 ---
 
-Video in support of [Lawrence English] album _Wilderness of Mirrors_.
+Single-channel video loop in support of [Lawrence English] album
+_Wilderness of Mirrors_.
 
-Also used for [Dark Mofo 2017 midnight lineup reveal][dmf].
+Alternate version used for [Dark Mofo 2017 midnight lineup reveal][dmf].
 
 Related press:
 

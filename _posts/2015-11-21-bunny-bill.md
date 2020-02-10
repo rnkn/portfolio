@@ -1,7 +1,7 @@
 ---
 title: Bunny Bill
 layout: project
-categories: directing editing live filmmaking featured
+categories: directing editing live filmmaking featured projection
 image: bunny-bill.jpg
 youtube_id: YTSITXtVJ2s
 ---
