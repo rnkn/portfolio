@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Paul W. Rankin (b. 1984, Australia) is a writer, filmmaker and video
+William Rankin (b. 1984, Australia) is a writer, filmmaker and video
 artist.
 
 He has collaborated with internationally renowned artists including
