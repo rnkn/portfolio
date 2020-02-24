@@ -2,8 +2,8 @@
 layout: default
 ---
 
-William Rankin (b. 1984, Australia) is a writer, filmmaker and video
-artist.
+William Rankin (b. 1984, Australia) is a screenwriter, director, editor
+and video artist.
 
 He has collaborated with internationally renowned artists including
 [Lawrence English][], [Jamie Stewart][], [Norman Westberg][],
@@ -16,6 +16,7 @@ Leonard French_][vlf] for La&nbsp;Trobe University's 50th anniversary,
 which premiered with a live orchestral accompaniment by the Australian
 Youth Orchestra.
 
+[IMDb](https://www.imdb.com/name/nm3293863/)
 
 [ihh]: http://ihearthiroshima.com
 [lawrence english]: https://www.lawrenceenglish.com/
