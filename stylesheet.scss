@@ -1,6 +1,24 @@
 ---
 layout: null
 ---
+@mixin prefix($prop, $value) {
+  -webkit-#{$prop}: $value;
+  -moz-#{$prop}: $value;
+  -ms-#{$prop}: $value;
+  -o-#{$prop}: $value;
+  $prop: $value;
+}
+
+@mixin vertical-align() {
+   position: absolute;
+   top: 50%;
+   @include prefix(transform, translateY(-50%));
+}
+
+html {
+  margin: 0;
+  padding: 0;
+}
 
 body {
   font-family: "Times New Roman", serif;
