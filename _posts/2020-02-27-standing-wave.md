@@ -3,7 +3,7 @@ title: Standing Wave
 layout: project
 categories: editing filmmaking featured
 image: standing-wave.jpg
-youtube_id: 946SKt0_KIA
+youtube_id: VxUemEWyhv4
 ---
 
 Documentation video of [Lawrence English] site installation on board
