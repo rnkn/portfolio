@@ -7,7 +7,6 @@ categories:
 - featured
 image: standing-wave.jpg
 youtube_id: VxUemEWyhv4
-
 ---
 Documentation video of [Lawrence English] site installation on board
 HMAS Ovens class submarine for [Fremantle Biennale].
