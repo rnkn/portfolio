@@ -5,7 +5,6 @@ categories:
 - editing
 - filmmaking
 - featured
-- foobar
 image: standing-wave.jpg
 youtube_id: VxUemEWyhv4
 
