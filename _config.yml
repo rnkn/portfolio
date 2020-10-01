@@ -1,16 +1,13 @@
-title: William Rankin
-url: https://portfolio.bydasein.com
-base_url: /
-email: >-
-  &#119;&#105;&#108;&#108;&#105;&#097;&#109;&#064;&#098;&#121;&#100;&#097;&#115;&#101;&#105;&#110;&#046;&#099;&#111;&#109;
-description: >-
-  William Rankin is a filmmaker based in Brisbane, Australia.
+---
+title: Paul W. Rankin
+url: https://www.paulwrankin.com
+base_url: "/"
+email: "&#104;&#101;&#108;&#108;&#111;&#064;&#112;&#097;&#117;&#108;&#119;&#114;&#097;&#110;&#107;&#105;&#110;&#046;&#099;&#111;&#109;"
+description: Paul W. Rankin is a filmmaker based in Brisbane, Australia.
 timezone: Australia/Brisbane
-copyright: >-
-  &copy; William Rankin 2013&nbsp;&ndash;&nbsp;2020
-permalink: /:title/
-date_format: >-
-  %-d %B %Y
-assets: /images/
+copyright: "&copy; Paul W. Rankin 2013&nbsp;&ndash;&nbsp;2020"
+permalink: "/:title/"
+date_format: "%-d %B %Y"
+assets: "/images/"
 exclude:
-  - README.md
+- README.md
