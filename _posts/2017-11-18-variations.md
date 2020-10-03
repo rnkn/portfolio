@@ -39,7 +39,10 @@ Related press:
 - [Beat Magazine](http://www.beat.com.au/arts/leonard-french-s-stained-glass-treasure-la-trobe-uni-gets-special-cinematic-treatment-during)
 - [screenhub](http://www.screenhub.com.au/whats-on/victoria/screenings-festivals-and-programs/la-trobe-hosts-world-film-premiere-variations-on-leonard-french-222252)
 
+Watch the full film on [FilmFreeway][].
+
 [tamil rogeon]: http://www.tamilrogeon.com
 [soundvision]: https://50years.latrobe/events/soundvision/
 [four]: https://commons.wikimedia.org/wiki/File:Leonard_French_La_Trobe_01.jpg
 [cps]: https://www.creativeproductionservices.com.au
+[filmfreeway]: https://filmfreeway.com/variationsonleonardfrench
