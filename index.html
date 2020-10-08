@@ -5,14 +5,12 @@ layout: base
 <h1>Hello.</h1>
 
 <p>My name is Paul W. Rankin. I'm a filmmaker currently based in
-Brisbane, Australia. Some of my past work is below. Here
-is <a href="/bio/">my professional bio</a>.</p>
+Brisbane, Australia. Some of my past work is below. Here is
+<a href="{% link bio.md %}">my professional bio</a>.</p>
+
+<p>{% include categories.html %}</p>
 
 <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
 
 <hr/>
-
 {% include project-list.html list=site.categories.featured %}
-
-<hr/>
-{% include categories.html %}
